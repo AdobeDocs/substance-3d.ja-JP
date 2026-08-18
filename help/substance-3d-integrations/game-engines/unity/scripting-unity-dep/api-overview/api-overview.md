@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.ゲームは、スクリプト作成に使用するクラスを含むアセンブリです。 これらのクラスは次のとおりです。
 
-**Substance.Game.****Substance**: sbsarを参照します
+**Substance.Game.**&#x200B;**Substance**: sbsarを参照します
 
 **Substance.ゲーム.SubstanceGraph**: sbsarの個々のグラフ。*（Unity 2017でProceduralMaterialとして使用）*
 

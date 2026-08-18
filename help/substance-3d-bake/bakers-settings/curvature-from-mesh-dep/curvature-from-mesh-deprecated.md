@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Substance Designer 2019.3以降、このbakerは非推奨となりました。代わりに、メッシュ](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md) bakerから新しい[Curvatureを使用することをお勧めします。
+> Substance Designer 2019.3以降、このbakerは非推奨となりました。代わりに、メッシュ[&#128279;](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md) bakerから新しいCurvatureを使用することをお勧めします。
 
 ## パラメーター
 

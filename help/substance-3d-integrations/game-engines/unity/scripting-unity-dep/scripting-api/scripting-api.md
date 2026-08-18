@@ -51,12 +51,12 @@ ht-degree: 1%
 | **void Substance.Game.SubstanceGraph**.*SetInputTexture*（文字列inputName、Texture2D値） | Substanceテクスチャ2D入力を更新 | **文字列** *inputName*&#x200B;パラメーターの更新に使用されたSBSAR **Texture2D** *値*&#x200B;の入力の名前 |
 | **Texture2D Substance.Game.SubstanceGraph**.*GetInputTexture*( string inputName) | Substanceテクスチャ2D入力を取得 | **文字列** *inputName* SBSARの入力の名前 |
 | **VectorInt Substance.Game.SubstanceGraph**.*GetTexturesResolution*() | グラフのTarget Settingsテクスチャ解像度を取得します（Vector4Intのx =幅、y =Height、値は32、64、128、256、512、1024、2048、4096です）。 | なし |
-| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*（ Vector2Intサイズ） | グラフのTarget Settingsテクスチャ解像度を設定します（Vector2Intのx =幅、y =Height、値は32、64、128、256、512、1024、2048、および4096）。成功した場合は0を返し、それ以外の場合は–1を返します。 | **Vector2Int** *size*&#x200B;がパラメーターの更新に使用されました**.** |
+| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*（ Vector2Intサイズ） | グラフのTarget Settingsテクスチャ解像度を設定します（Vector2Intのx =幅、y =Height、値は32、64、128、256、512、1024、2048、および4096）。成功した場合は0を返し、それ以外の場合は–1を返します。 | **Vector2Int** *size*&#x200B;がパラメーターの更新に使用されました&#x200B;**.** |
 | **Substance.ゲーム.SubstanceGraph**.*GetGeneratedTextures*() | グラフのマテリアルシェーダで使用されるすべてのSubstanceTexture2Dオブジェクトを返します。 | なし |
 | **int Substance.Game.SubstanceGraph**.*ベイク*（ Texture2Dテクスチャ、文字列absolutePath） | グラフのマテリアルシェーダによって使用されるすべてのSubstanceTexture2Dオブジェクトに.pngファイルを生成します。 | なし |
-| **** Substance.ゲーム。** SubstanceGraph**.*複製*() | Substance グラフの複製 | なし |
+| **&#x200B;**&#x200B;Substance.ゲーム。**&#x200B; SubstanceGraph**.*複製*() | Substance グラフの複製 | なし |
 | **Substance.ゲーム.SubstanceGraph**.*複製*（文字列newGraphName） | Substance グラフを複製し、名前を付けます（対応するマテリアルも同じ名前になります） | **String newGraphName** |
-| **** Substance.ゲーム。** SubstanceGraph**.*GetInputProperties*() | 手続き型入力情報を照会し、&#39;InputProperties&#39;の配列を返します。これには、:public構造体が含まれます。InputProperties { public string name; // inputName public string label; // GUI public string groupのウィジェットのラベル； // GUIpublic string[] componentLabels; //スライダーのグループ（最大4ラベル） public string[] enumOptions; // optionMenupublic InputPropertiesType;public Vector4最大； //スライダーpublic float step; //スライダーenum InputPropertiesType { Boolean = 0,// 0 Float, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Texture, // 7文字列， // 8 Invalid = -1// -1 }; | なし |
+| **&#x200B;**&#x200B;Substance.ゲーム。**&#x200B; SubstanceGraph**.*GetInputProperties*() | 手続き型入力情報を照会し、&#39;InputProperties&#39;の配列を返します。これには、:public構造体が含まれます。InputProperties &lbrace; public string name; // inputName public string label; // GUI public string groupのウィジェットのラベル； // GUIpublic string[] componentLabels; //スライダーのグループ（最大4ラベル） public string[] enumOptions; // optionMenupublic InputPropertiesType;public Vector4最大； //スライダーpublic float step; //スライダーenum InputPropertiesType { Boolean = 0,// 0 Float, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 Color, // 5 Enum, // 6 Texture, // 7文字列， // 8 Invalid = -1// -1 }; | なし |
 | **bool** **Substance.ゲーム.SubstanceGraph**.*HasInput*（**文字列** inputName） | グラフに入力が存在するかどうかを確認し、true/falseを返します。 | **文字列** *inputName* SBSARの入力の名前 |
 | **bool** **Substance.ゲーム.SubstanceGraph**.*IsInputVisible*（**文字列** inputName） | 表示されている入力が表示されているかどうかを確認し、true/falseを返します。 | **文字列** *inputName* SBSARの入力の名前 |
 
@@ -65,8 +65,8 @@ ht-degree: 1%
 | Publicメソッド | 説明 | パラメーター |
 | --- | --- | --- |
 | パブリック&#x200B;**void** *QueueForRender*() | Substanceグラフをキューに追加 | なし |
-| ***mySubstance.**RenderAsync()* | キューに登録されているすべてのSubstanceグラフを非同期でレンダリング | なし |
-| ***mySubstance.**RenderSync()* | キューに登録されているすべてのSubstanceグラフを同期的にレンダリング | なし |
+| ***mySubstance.**&#x200B;RenderAsync()* | キューに登録されているすべてのSubstanceグラフを非同期でレンダリング | なし |
+| ***mySubstance.**&#x200B;RenderSync()* | キューに登録されているすべてのSubstanceグラフを同期的にレンダリング | なし |
 
 ## エディターモードでのスクリプト：
 
