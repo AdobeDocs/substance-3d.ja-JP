@@ -1,0 +1,75 @@
+---
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
+breadcrumb-title: ''
+description: Cinema 4Dのアニメーションプレビューを有効にすると、アニメーションSubstanceマテリアルの視覚的なフィードバックがビューポートに表示されます。
+helpx_creative_field: ""
+helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D > Visual Feedback of Animated Substances
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: アニメーション化されたSubstanceのビジュアルフィードバック
+user-guide-description: ''
+user-guide-title: ''
+source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+workflow-type: tm+mt
+source-wordcount: '520'
+ht-degree: 3%
+
+---
+
+
+# アニメーション化されたSubstanceのビジュアルフィードバック
+
+Cinema 4DのビューポートでアニメーションSubstanceの視覚的なフィードバックを得るには、これらのマテリアルに対して「アニメーションプレビュー」オプションを有効にする必要があります。
+
+このオプションは、[マテリアルエディタ]の[エディタ]（下記参照）にあります。 [マテリアルを作成]コマンドを使用してマテリアルを作成した場合、このオプションは既定で有効になります。
+
+![](../../../assets/cinema-4d-13.png){width="500px"}
+
+
+## マテリアルを作成しています
+
+Substanceアセットマネージャの[マテリアルを作成]コマンドを使用すると、Substanceを使用してCinema 4Dマテリアルを簡単かつ迅速に作成できます。
+
+そのため、次のチャンネルマッピングが使用されます。
+
+|  |  |
+| --- | --- |
+| **Substance出力チャンネル** | **Cinema 4Dマテリアルチャンネル** |
+| ディフューズ | Color |
+| 放射 | 輝度 |
+| 反射 | 反射率 |
+| 環境 | 環境 |
+| バンプ | バンプ |
+| 不透明度 | アルファ |
+| スペキュラ | 反射率/デフォルトSpecular |
+| 高さ | ディスプレイスメント |
+| 法線 | 法線 |
+
+このリレーションは[マテリアルの作成]コマンドでのみ使用され、作成されたマテリアルは後で修正できます。 このコマンドを使用してベースマテリアルをすばやく作成し、いくつかのチャンネルを微調整するだけで微調整できます。
+
+Substanceシェーダ内では、上記の出力チャンネルに限定されるものではありませんが、実際にはSubstanceが提供する任意の出力チャンネルを使用できます。
+
+## Substanceマテリアルを手動で作成
+
+[マテリアルを作成]コマンドの代わりに、[Substance]シェーダを使用して手動でマテリアルを作成することもできます。
+
+マテリアルチャンネルでSubstanceシェーダを選択し、使用するSubstanceにドラッグするだけです。 次に、このシェーダで使用するSubstanceの出力チャンネルを選択します。これで完了です。
+
+こんな感じ：
+
+![](../../../assets/cinema-4d-15.png){width="800px"}
+
+この方法を使用すると、クリエイティブな作業が大幅に効率化され、次のことが可能になります。
+
+* Substanceの出力チャンネルを任意のCinema 4Dマテリアルチャンネルに割り当てます。 目的のチャンネルでのみ使用するように制限する必要はありません。
+* 1つのSubstance出力チャンネルを複数のCinema 4Dマテリアルチャンネルに割り当てます。
+* 複数のSubstanceの出力チャンネルを1つのCinema 4Dマテリアルに割り当てます。
+
+## 制限
+
+* Substance入力パラメーターのキーフレームはタイムラインに表示されますが、Cinema 4DのPowerslider（ビューポートの下のタイムラインスライダー）には表示されません。
+* Substanceの出力チャンネルにカスタムカラープロファイルを使用することはできません。
+* 特定の状況では、Substanceの画像入力が中断される場合があります\
+  2つのシーンを1つに組み合わせるCinema 4Dの「結合…」コマンド これは、マージするシーンのプロジェクトディレクトリにSubstanceがあり、プロジェクトディレクトリのイメージを参照するイメージ入力がある場合に発生します。 このような場合、画像入力はその後、手動で再リンクする必要があります。
+* Substanceがプロジェクトフォルダー（またはグローバル検索パスの別の場所）に存在する場合、Cinewareでは機能しません。 この場合、Substanceが見つからないかのように赤色でレンダリングされます。 この問題を回避するには、Substanceアーカイブをプロジェクトディレクトリの外部に保存して、絶対パスで参照する必要があります。 ファイルがプロジェクトパスの外部に移動された後に、 Filenameパラメーターを使用してファイルの場所を変更できます。
