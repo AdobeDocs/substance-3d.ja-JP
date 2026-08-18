@@ -1,0 +1,37 @@
+---
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4.html"
+breadcrumb-title: ''
+description: Unreal Engine 4でSubstanceのマテリアルを読み込んで使用する方法については、Substanceプラグインの概要ガイドをご覧ください。
+helpx_creative_field: ""
+helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Plugin Overview - UE4
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: プラグインの概要 – UE4
+user-guide-description: ''
+user-guide-title: ''
+source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 0%
+
+---
+
+
+# プラグインの概要 – UE4
+
+## Substanceの読み込み
+
+1. コンテンツブラウザで[読み込み]ボタンをクリックし、bsarファイルを参照します。
+1. Substanceの読み込みオプションで、作成されるINSTとマテリアル名を設定できます。 読み込みによって、SubstanceのINSTとFactoryが生成されたテクスチャと共に作成されます。 マテリアルチャンネルへの入力としてSubstanceテクスチャを使用して、UE4マテリアルが作成されます。
+
+## パラメータの変更
+
+1. 「パラメータ」ウィンドウを開くには、Substanceの「INST」アイテムをダブルクリックします。
+1. リセットボタンをクリックすると、Substanceパラメーターがデフォルトにリセットされます。 書き出しおよび読み込みプリセットは、エディターで設定された値を使用してSubstanceプリセットファイル(.sbspr)を書き出します。 プリセットを読み込むこともできます。
+1. 出力で、テクスチャを生成する出力を無効または有効にできます。
+1. 出力サイズを使用すると、テクスチャのサイズを変更できます。
+1. ランダムシードは、シード値を変更してテクスチャを生成します。 これは、マテリアルをランダム化するのに適しています。
+1. [パラメータ]セクションでは、マテリアルをツイークできます。
+
+![](../../../../assets/param.png){width="600px"}
