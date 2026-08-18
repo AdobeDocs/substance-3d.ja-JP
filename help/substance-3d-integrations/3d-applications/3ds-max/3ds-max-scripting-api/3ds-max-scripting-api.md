@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
 breadcrumb-title: ''
 description: マテリアルオペレーションを自動化するための3ds Max SubstanceスクリプティングAPIのリファレンスドキュメント。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
 breadcrumb-title: ''
 description: MODOでCPUエンジンとGPU Substanceエンジンを切り替えると、ハードウェアに応じて最適なパフォーマンスが得られます。
 helpx_creative_field: ""

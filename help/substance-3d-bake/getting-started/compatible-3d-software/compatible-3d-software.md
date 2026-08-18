@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/compatible-3d-software.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/compatible-3d-software.html"
 breadcrumb-title: ''
 description: Substance Bakersと互換性のある3Dソフトウェアを見つけ、最適なベイク処理の結果を得るためにメッシュを準備する方法を学びましょう。
 helpx_creative_field: ""

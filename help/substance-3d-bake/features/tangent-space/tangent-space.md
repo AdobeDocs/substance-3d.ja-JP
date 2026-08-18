@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/tangent-space.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
 description: Substance Bakersが接線空間の計算を処理する方法と、ワークフローに合わせてアルゴリズムをカスタマイズする方法について説明します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/metal-material-references.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
 description: 正確なカラー値とデータテーブルを使用して、Adobe Standardマテリアルモデルで実際の金属材料をシミュレートします。
 helpx_creative_field: ""

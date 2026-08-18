@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: 新機能と改善点については、Unityプラグインバージョン3.0.0以降のリリースノートを確認してください。
 helpx_creative_field: ""

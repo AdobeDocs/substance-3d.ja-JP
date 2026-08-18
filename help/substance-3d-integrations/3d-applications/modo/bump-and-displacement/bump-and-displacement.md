@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
 description: MODOのSubstanceマテリアルのバンプマップとディスプレイスメントマップを使用して、モデルにサーフェスの詳細と深度を加えます。
 helpx_creative_field: ""

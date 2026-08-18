@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-2.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-2.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.3.2のリリースノートを確認して、新機能、改善点、バグ修正について学習します。
 helpx_creative_field: ""

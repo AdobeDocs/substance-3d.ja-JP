@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications.html"
 breadcrumb-title: ''
 description: Maya、3ds Max、Blenderなどの主要なDCCアプリケーションでSubstanceファイルをインポートおよび使用する方法について説明します。
 helpx_creative_field: ""

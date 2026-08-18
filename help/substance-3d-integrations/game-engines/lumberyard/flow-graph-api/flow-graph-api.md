@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
 description: Lumberyardのフローグラフノードを使用して、手続き型マテリアル設定をプログラムで設定します。
 helpx_creative_field: ""

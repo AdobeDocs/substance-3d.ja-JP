@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
 description: 出力テンプレートと適切なマテリアル設定を使用して、Redshiftレンダラー用のSubstance Painterテクスチャを書き出します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/general-system-requirements.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/ecosystem/general-system-requirements.html"
 breadcrumb-title: ''
 description: Substance 3Dアプリケーションの必要システム構成を確認して、ハードウェアが最小、推奨、または最適な仕様を満たしていることを確認してください。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
 breadcrumb-title: ''
 description: Substanceのサブスクリプションに関するSubstance SourceのマテリアルをUnreal Engine 4で直接アクセスしてダウンロードできます。
 helpx_creative_field: ""

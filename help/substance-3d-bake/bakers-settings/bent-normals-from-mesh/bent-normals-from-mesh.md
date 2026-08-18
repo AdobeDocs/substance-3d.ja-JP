@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
 description: 高ポリゴンメッシュからの周囲光の平均方向を記述するベント法線テクスチャを計算します。
 helpx_creative_field: ""

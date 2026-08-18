@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
 breadcrumb-title: ''
 description: テクスチャ座標ノードとスカラーパラメータをマテリアルに追加して、Unreal Engine 4のSubstanceテクスチャをタイリングします。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
 breadcrumb-title: ''
 description: Substance Painterやその他のアプリケーションから書き出したテクスチャを、ワークフローを使用してMayaのマテリアルにすばやく適用します。
 helpx_creative_field: ""

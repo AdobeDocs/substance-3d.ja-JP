@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
 breadcrumb-title: ''
 description: Unreal Engine 5のSubstanceマテリアルの入力パラメーターとしてイメージテクスチャを使用し、モジュール化されたマテリアルを作成します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
 breadcrumb-title: ''
 description: SubstanceのUnreal Engine 5スクリプティングAPIを使用すると、プロジェクト内のSubstanceマテリアルをプログラムで管理できます。
 helpx_creative_field: ""

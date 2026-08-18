@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5.html"
 breadcrumb-title: ''
 description: Unreal Engine 5で実際の寸法に基づいてSubstanceマテリアルをスケールするには、物理サイズ設定を使用します。
 helpx_creative_field: ""

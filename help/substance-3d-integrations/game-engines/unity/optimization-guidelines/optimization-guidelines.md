@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
 description: 最適化のガイドラインに従って、Substanceマテリアルの複雑さとUnityでのレンダリングパフォーマンスのバランスを調整します。
 helpx_creative_field: ""

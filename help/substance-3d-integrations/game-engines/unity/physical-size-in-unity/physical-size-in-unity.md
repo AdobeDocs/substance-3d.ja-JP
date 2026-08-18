@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
 breadcrumb-title: ''
 description: 物理サイズ設定を使用して、Unityの実際の寸法に基づいてSubstanceマテリアルを適用したり、尺度を変更します。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 統一物理サイズ
 
-Unity用の[Substance 3D](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)プラグインの物理サイズ機能を使用すると、Substanceのマテリアルを実際のサイズに基づいて適用したり、拡大縮小したりできます。 サイズはDesignerなどのSubstanceアプリケーションで設定され、プラグインパネルの「物理サイズ」セクションに表示されます。
+Unity用の[Substance 3D](https://www.adobe.com/jp/products/substance3d/3d-augmented-reality.html)プラグインの物理サイズ機能を使用すると、Substanceのマテリアルを実際のサイズに基づいて適用したり、拡大縮小したりできます。 サイズはDesignerなどのSubstanceアプリケーションで設定され、プラグインパネルの「物理サイズ」セクションに表示されます。
 
 この機能は現在、HDRPワークフローでのみ使用できます。
 

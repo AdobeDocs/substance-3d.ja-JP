@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-is-the-bit-depth-of-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/what-is-the-bit-depth-of-baked-textures.html"
 breadcrumb-title: ''
 description: ベイク処理されたテクスチャのビット深度と、それがテクスチャの質やファイルサイズにどのように影響するかについて説明します。
 helpx_creative_field: ""

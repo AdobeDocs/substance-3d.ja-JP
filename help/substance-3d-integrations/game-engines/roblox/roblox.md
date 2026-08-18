@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: Roblox StudioのSubstance素材をPBR Metallic Roughnessのワークフローで使用すると、没入感のある3D体験が実現します。
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ Robloxのテクスチャを作成するには、以下のSubstance 3Dファイ�
 * `templates`ディレクトリに移動し、**[フォルダーの選択]**&#x200B;をクリックします
 * 「**OK**」ボタンをクリックします
 * **ファイル/新規/Substanceグラフ…**&#x200B;に移動
-* [新しいテンプレートグラフ](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)ウィンドウのテンプレート一覧の下部に`Roblox` Substanceが表示されていることを確認してください
+* [新しいテンプレートグラフ](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)ウィンドウのテンプレート一覧の下部に`Roblox` Substanceが表示されていることを確認してください
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ Robloxのテクスチャを作成するには、以下のSubstance 3Dファイ�
 
 Robloxテンプレートを使用してグラフを作成し、マテリアルの作業が完了したら、そのグラフからビットマップを書き出します。
 
-* [新しいSubstanceグラフ](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)ウィンドウで、`Roblox`テンプレートを選択します
+* [新しいSubstanceグラフ](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)ウィンドウで、`Roblox`テンプレートを選択します
 * グラフのIDとその他のパラメーターを設定し、[**OK**]をクリックします
 * [グラフビュー](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)で素材を処理します。ワークフローの使用を開始するには、[ここ](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)を参照してください
 * 完了したら、グラフビューの&#x200B;**ツール/ビットマップを書き出し…**&#x200B;に移動します&#x200B;*ツールバー*

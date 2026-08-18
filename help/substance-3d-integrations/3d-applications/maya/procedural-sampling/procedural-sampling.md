@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
 description: Mayaでプロシージャテクスチャサンプリングサイズを制御して、Substanceマテリアルの質とパフォーマンスを最適化します。
 helpx_creative_field: ""

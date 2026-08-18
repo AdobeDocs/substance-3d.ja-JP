@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Substance 3D Blender版のアドオンについて説明し、プロジェクトでSubstanceのマテリアルを読み込んで操作する方法を説明します。
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ Substance 3Dパネルは、プロジェクト内のSubstanceマテリアルを�
 
 ## Substance資料に関する詳細をご覧ください
 
-プロが作成した何千ものマテリアルやその他のアセットは、[Substance 3D Assetsページ](https://helpx.adobe.com/substance-3d/unlisted/assets.html)からダウンロードできます。 コミュニティによって無料で共有されているアセットの多くは、[Substance 3D Community Assetsページ](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)でご覧いただけます。
+プロが作成した何千ものマテリアルやその他のアセットは、[Substance 3D Assetsページ](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)からダウンロードできます。 コミュニティによって無料で共有されているアセットの多くは、[Substance 3D Community Assetsページ](https://helpx.adobe.com/jp/substance-3d/unlisted/community-assets.html)でご覧いただけます。
 
 ## Community
 

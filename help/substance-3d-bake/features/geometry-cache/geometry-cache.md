@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
 description: ジオメトリキャッシュを使用すると、前処理されたメッシュデータを保持し、その後のベイク処理を大幅に高速化できます。
 helpx_creative_field: ""

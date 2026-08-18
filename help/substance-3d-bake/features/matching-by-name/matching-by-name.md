@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/jp/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: '[名前によるマッチング]機能を使用して、ローポリゴンメッシュとハイポリゴンメッシュを分離し、ベイク処理時のジオメトリのにじみを防止します。'
 helpx_creative_field: ''

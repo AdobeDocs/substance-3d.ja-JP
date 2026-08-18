@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-modo.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/octane/octane-for-modo.html"
 breadcrumb-title: ''
 description: Live DBマテリアルと適切な出力設定を介して、MODOのオクタンレンダラーでSubstanceマテリアルを使用します。
 helpx_creative_field: ""

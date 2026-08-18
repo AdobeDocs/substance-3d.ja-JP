@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
 description: スタンドアロンレンダラーまたは3ds MaxとMODOのDCCプラグインを使用して、Octaneを使用してSubstanceマテリアルをレンダリングします。
 helpx_creative_field: ""

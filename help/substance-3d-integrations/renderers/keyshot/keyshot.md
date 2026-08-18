@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: 書き出されたテクスチャマップを使用してSubstanceをビジュアル化するには、キーショットレンダラーの製品マテリアルを使用します。
 helpx_creative_field: ""

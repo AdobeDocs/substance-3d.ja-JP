@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: メッシュから曲率情報を抽出し、ジオメトリの空洞とエッジを強調表示するテクスチャを作成します。
 helpx_creative_field: ""

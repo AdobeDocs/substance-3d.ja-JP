@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/arnold.html"
 breadcrumb-title: ''
 description: Mayaおよび3ds MaxのArnoldレンダラでSubstanceマテリアルを使用します。これには、メタリックワークフロー出力のサポートが含まれます。
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ Arnold 5の標準サーフェスマテリアルがメタリックワークフロ
 
 ## 目次
 
-* [Arnold - 3ds MaxのSubstance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
-* [アーノルド – マヤのSubstance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
+* [Arnold - 3ds MaxのSubstance](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
+* [アーノルド – マヤのSubstance](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
 * [アーノルドSubstance Painter](../../renderers/arnold/arnold-painter/arnold-substance-painter.md)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Maxのレンダリングワークフローを使用して、Substanceマテリアルから各種レンダラー用のシェーダネットワークを自動作成します。
 helpx_creative_field: ""

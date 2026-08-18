@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: 法線マップ変換のサポートなど、UVに基づいてメッシュ間でテクスチャを転送します。
 helpx_creative_field: ""

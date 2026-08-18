@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: サーフェスの詳細については、テッセレーションを有効にし、Unreal Engine 4のSubstanceマテリアルからディスプレイスメントマップを使用します。
 helpx_creative_field: ""

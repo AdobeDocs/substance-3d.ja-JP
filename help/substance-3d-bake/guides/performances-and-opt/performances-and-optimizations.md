@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: ハードウェアのセットアップとメッシュの準備を最適化して、ベイク処理のパフォーマンスを高速化する方法について説明します。
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Substance Bakersを使用するための最小要件はありませんが、以�
 * アンビエントオクルージョンベイカーを使用して高密度のメッシュをベイク処理する場合
 * 非常に高密度のハイポリメッシュ（6,000万以上の三角形）でDXRアクセラレーションベーカーを使用する場合
 
-TDRに関する追加情報と、関連する設定を変更する手順については、次のページを参照してください： [長い計算でGPUドライバーがクラッシュする（TDRクラッシュ）](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+TDRに関する追加情報と、関連する設定を変更する手順については、次のページを参照してください： [長い計算でGPUドライバーがクラッシュする（TDRクラッシュ）](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

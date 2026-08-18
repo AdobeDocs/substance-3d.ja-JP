@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Adobe Standardマテリアルモデルについて、およびAdobeアプリケーション間での物理的なレンダリングに使用する方法について説明します。
 helpx_creative_field: ""

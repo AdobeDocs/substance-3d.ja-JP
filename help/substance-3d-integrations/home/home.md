@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/home.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/home.html"
 breadcrumb-title: ''
 description: Substance素材をプラグインやネイティブサポートを通じて、ゲームエンジン、DCCアプリケーション、レンダラーと連携させる方法を説明します。
 helpx_creative_field: ""
@@ -35,9 +35,9 @@ ht-degree: 1%
 
 SBSARファイルを試してみたい場合、独自のSBSARマテリアルを取得する方法は数多くあります。
 
-* Substanceの無料マテリアルは、[3Dコミュニティアセット](https://helpx.adobe.com/substance-3d/unlisted/assets.html)のWebサイトにあります。
-* Substanceのダウンロード可能なマテリアルは、Substanceサブスクリプションの一部として[Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html)のWebサイトから入手できます。
-* 公開できるパラメーターを含むSubstanceマテリアルは、[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)および[Substance 3D Sampler](https://helpx.adobe.com/substance-3d-sampler.html)で作成できます。 ([最適化ガイドライン](../game-engines/unity/optimization-guidelines/optimization-guidelines.md)を確認してください。 )
+* Substanceの無料マテリアルは、[3Dコミュニティアセット](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)のWebサイトにあります。
+* Substanceのダウンロード可能なマテリアルは、Substanceサブスクリプションの一部として[Substance 3D Assets](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)のWebサイトから入手できます。
+* 公開できるパラメーターを含むSubstanceマテリアルは、[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)および[Substance 3D Sampler](https://helpx.adobe.com/jp/substance-3d-sampler.html)で作成できます。 ([最適化ガイドライン](../game-engines/unity/optimization-guidelines/optimization-guidelines.md)を確認してください。 )
 * Substance 3D Connectorを使用すると、Substanceのマテリアルを第1および第3のサードパーティアプリケーション間でシームレスに共有できます。 詳しくは、[公式ブログ記事](https://blog.adobe.com/en/publish/2024/04/04/substance-3d-connector-bridging-tools-3dworkflows)を参照してください。
 
 >[!NOTE]

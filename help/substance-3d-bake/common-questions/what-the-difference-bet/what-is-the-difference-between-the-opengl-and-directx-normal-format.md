@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-is-the-difference-between-the-opengl-and-directx-normal-format.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/what-is-the-difference-between-the-opengl-and-directx-normal-format.html"
 breadcrumb-title: ''
 description: OpenGL形式とDirectX形式の違いと、各法線マップ形式をいつ使用するかについて説明します。
 helpx_creative_field: ""

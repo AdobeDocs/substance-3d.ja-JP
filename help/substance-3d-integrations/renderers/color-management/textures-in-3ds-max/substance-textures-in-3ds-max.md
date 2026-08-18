@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: Substanceプラグインが3ds Maxのテクスチャのガンマ設定を処理して、適切なカラーマネジメントを行う方法について説明します。
 helpx_creative_field: ""

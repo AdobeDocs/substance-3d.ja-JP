@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Substance 3D Painterのベイクウィンドウにアクセスして使用し、テクスチャのメッシュマップを生成する方法について説明します。
 helpx_creative_field: ""

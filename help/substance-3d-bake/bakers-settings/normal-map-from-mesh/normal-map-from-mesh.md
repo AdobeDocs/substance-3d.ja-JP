@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: メッシュベイカーの法線マップを使用して、高ポリゴンメッシュから接線空間またはワールド空間の法線マップを作成します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
 breadcrumb-title: ''
 description: Substanceソフトウェア以外でベイク処理されたテクスチャが正しく表示されない理由のトラブルシューティングと、カラースペースの問題を修正する方法について説明します。
 helpx_creative_field: ""

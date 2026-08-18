@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
 breadcrumb-title: ''
 description: MayaのSubstanceマテリアル出力を有効または無効にして、計算および使用するテクスチャを制御します。
 helpx_creative_field: ""

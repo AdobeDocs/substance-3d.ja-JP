@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
 description: MODOでSubstanceマテリアルの放射プロパティを設定し、発光量とカラー設定を制御します。
 helpx_creative_field: ""

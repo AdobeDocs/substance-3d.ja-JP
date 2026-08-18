@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: メッシュのベイカーから非推奨の曲率を取得するためのリファレンス。 代わりに、更新されたMesh Bakerの曲率を使用します。
 helpx_creative_field: ""

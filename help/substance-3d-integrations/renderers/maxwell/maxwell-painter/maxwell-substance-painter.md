@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
 description: 適切な出力テンプレートとマテリアル設定を使用して、Maxwellレンダラー用のSubstance Painterテクスチャを書き出します。
 helpx_creative_field: ""

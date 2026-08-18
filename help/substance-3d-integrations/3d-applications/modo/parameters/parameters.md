@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: MODOのSubstanceのマテリアルパラメーターをSubstanceのプロパティパネルで変更して、マテリアルをカスタマイズします。
 helpx_creative_field: ""

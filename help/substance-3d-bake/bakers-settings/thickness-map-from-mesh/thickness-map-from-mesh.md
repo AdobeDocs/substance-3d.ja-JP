@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
 breadcrumb-title: ''
 description: SSSシェーダとマスキングで使用するために、メッシュサーフェスから内側に向けて光線を投射してThicknessマップを生成します。
 helpx_creative_field: ""

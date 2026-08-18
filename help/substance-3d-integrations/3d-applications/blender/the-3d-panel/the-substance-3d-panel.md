@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: BlenderでSubstance 3Dパネルを使用して、マテリアル、パラメーター、出力を管理する方法について説明します。
 helpx_creative_field: ""

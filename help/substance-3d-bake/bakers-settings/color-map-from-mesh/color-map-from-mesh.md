@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: カラープロパティをハイポリメッシュからテクスチャに投影し、選択マスクのポリプレーンまたはマテリアルIDをベイク処理します。
 helpx_creative_field: ""

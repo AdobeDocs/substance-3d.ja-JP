@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications/photoshop.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/creative-cloud-applications/photoshop.html"
 breadcrumb-title: ''
 description: Photoshopで直接Substanceマテリアルを使用すると、リアルな質感を生み出し、3Dマテリアルで2Dアートワークを強化できます。
 helpx_creative_field: ""

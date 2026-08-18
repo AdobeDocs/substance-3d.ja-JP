@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
 breadcrumb-title: ''
 description: ダイナミックエフェクトのカーブエディタを使用して、3ds MaxでSubstanceマテリアルパラメータを時間の経過に従ってアニメートします。
 helpx_creative_field: ""

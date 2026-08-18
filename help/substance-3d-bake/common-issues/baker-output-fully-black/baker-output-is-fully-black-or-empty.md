@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: パン屋の出力が完全に黒または空である理由のトラブルシューティングと、メッシュとUVの問題を修正する方法について説明します。
 helpx_creative_field: ""

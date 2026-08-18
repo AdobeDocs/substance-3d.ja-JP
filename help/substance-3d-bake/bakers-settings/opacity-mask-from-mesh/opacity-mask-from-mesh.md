@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: ぼかした光線をグレースケールのバイナリ画像に変換して不透明度マスクを生成し、透明効果を適用します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
 description: メッシュのカラープロパティとUVマッピングをチェックして、メッシュのベイク処理の失敗からカラーマップを解決します。
 helpx_creative_field: ""

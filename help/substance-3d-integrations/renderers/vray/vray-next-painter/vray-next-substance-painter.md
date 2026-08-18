@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: 出力テンプレートと適切なワークフロー設定を使用して、V-Ray NextレンダラーのSubstance Painterテクスチャを書き出します。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Shader Settingsでは、VrayMtlを操作するためにVrayシェーダを設定
 
 >[!NOTE]
 >
-> [UVタイルUDIMレガシー](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)を使用するようにプロジェクトが設定されている場合 Vray Next UDIM 出力テンプレートを使用します。
+> [UVタイルUDIMレガシー](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)を使用するようにプロジェクトが設定されている場合 Vray Next UDIM 出力テンプレートを使用します。
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

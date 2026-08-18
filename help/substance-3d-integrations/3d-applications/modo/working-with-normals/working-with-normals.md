@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: MODOで法線マップの向きを設定し、Substanceマテリアルを使用して法線マップを正しくレンダリングできるようにします。
 helpx_creative_field: ""

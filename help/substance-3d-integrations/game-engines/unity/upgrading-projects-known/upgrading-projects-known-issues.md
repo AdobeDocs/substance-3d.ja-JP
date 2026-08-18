@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
 breadcrumb-title: ''
 description: UnityプロジェクトをSubstanceの資料とともにアップグレードする方法と、マイグレーション中に避けるべき既知の問題について説明します。
 helpx_creative_field: ""

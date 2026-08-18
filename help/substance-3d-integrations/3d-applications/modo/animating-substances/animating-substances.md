@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/animating-substances.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/animating-substances.html"
 breadcrumb-title: ''
 description: MODOで、時間の経過に応じてSubstanceマテリアルパラメーターをアニメーション化し、ダイナミックなマテリアル効果とバリエーションを作成します。
 helpx_creative_field: ""

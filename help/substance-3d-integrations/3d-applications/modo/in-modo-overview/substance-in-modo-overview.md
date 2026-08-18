@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: MODO用のSubstanceプラグインについて、およびワークフローでSubstanceマテリアルを読み込んで使用する方法について説明します。
 helpx_creative_field: ""

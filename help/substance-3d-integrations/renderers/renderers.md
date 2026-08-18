@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: 3Dワークフローで、Arnold、V-Ray、Redshiftなどの主要なレンダラーを使用したSubstanceマテリアルを使用します。
 helpx_creative_field: ""

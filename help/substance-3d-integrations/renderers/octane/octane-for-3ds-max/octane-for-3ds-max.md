@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Maxでは、ライブDBマテリアルと適切な出力設定を使用して、オクタンレンダラーでSubstanceマテリアルを使用します。
 helpx_creative_field: ""
