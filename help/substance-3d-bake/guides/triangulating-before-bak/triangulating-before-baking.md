@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: メッシュのトライアンギュレーションがベイク処理の結果にどのような影響を与えるかを理解し、ジオメトリを準備するためのベストプラクティスを学びます。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
 breadcrumb-title: ''
 description: Substance ソフトウェアの外でベイク処理されたテクスチャが正しく見えない理由をトラブルシューティングし、カラースペースの問題を修正する方法を説明します。
 helpx_creative_field: ""
@@ -33,6 +33,6 @@ ht-degree: 0%
 > この問題に多くの要因が寄与する可能性があるため、この問題に対する即時的な解決策はありません。
 > 
 > * Substance ソフトウェアと外部アプリケーションの間の通常の形式が同じであることを確認します。 OpenGLは[X+, Y+, Z+]で、DirectXは[X+, Y-, Z+]です
->   * Substance Painterでは、[&#x200B; プロジェクト設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration)で通常の形式を変更できます。
->   * Substance Designerでは、[&#x200B; プロジェクトの環境設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)で通常の形式を変更できます。
+>   * Substance Painterでは、[&#x200B; プロジェクト設定](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/interface/project-configuration)で通常の形式を変更できます。
+>   * Substance Designerでは、[&#x200B; プロジェクトの環境設定](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/workspace/preferences/project-settings)で通常の形式を変更できます。
 > * Substance ソフトウェアにベイク処理して読み込む前に、メッシュが三角形になっていることを確認します。 詳しくは、[このページ &#x200B;](../../guides/triangulating-before-bak/triangulating-before-baking.md)を参照してください。

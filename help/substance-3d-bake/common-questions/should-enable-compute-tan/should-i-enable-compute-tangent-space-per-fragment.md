@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
 breadcrumb-title: ''
 description: フラグメントごとに接線空間を計算を有効にするタイミングと、それがベイク処理の結果にどのような影響を与えるかを説明します。
 helpx_creative_field: ""

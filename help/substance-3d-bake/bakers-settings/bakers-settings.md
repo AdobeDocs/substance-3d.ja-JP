@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: 使用可能なすべてのベイカー設定を確認し、最適なテクスチャ生成結果を得るために各ベイカータイプを設定する方法を説明します。
 helpx_creative_field: ""

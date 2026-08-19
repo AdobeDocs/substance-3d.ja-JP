@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-direction.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
 description: ワールド空間内のベクター方向を計算し、それらをテクスチャに保存して、指向性エフェクトとマスクを作成します。
 helpx_creative_field: ""

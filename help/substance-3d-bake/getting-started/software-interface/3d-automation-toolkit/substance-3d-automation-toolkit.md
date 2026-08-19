@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-automation-toolkit.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/software-interface/substance-3d-automation-toolkit.html"
 breadcrumb-title: ''
 description: Automation Toolkitで利用可能なSubstance ベイカーのコマンドラインバージョンであるsbsbakerの使用方法を説明します。
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Substance 3D Automation Toolkitには複数のツールが用意されており、そのひとつが&#x200B;**sbsbaker**&#x200B;で、Substance ベイカーのコマンドライン版です。
 
-詳しくは、[専用ドキュメント &#x200B;](https://helpx.adobe.com/substance-3d-sat/command-line-tools/sbsbaker.html)を参照してください。
+詳しくは、[専用ドキュメント &#x200B;](https://helpx.adobe.com/jp/substance-3d-sat/command-line-tools/sbsbaker.html)を参照してください。

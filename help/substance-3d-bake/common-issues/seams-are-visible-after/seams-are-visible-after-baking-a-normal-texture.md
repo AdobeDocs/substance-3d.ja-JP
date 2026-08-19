@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: パディング、アンチエイリアス、UV レイアウトを調整することで、ベイク処理された通常テクスチャの目に見えるシームを除去します。
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * 多くの場合、UVはピクセルに整列していないため、エイリアシングが発生し、シームが生成されます。 詳しくは、[このページ &#x200B;](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)を参照してください。
 >   * テクスチャの解像度を上げることで、この効果を減らすことができます。
 >   * UV境界をピクセルに整列させることも、この効果を減らすもう1つの方法です。
-> * シェーダー&#x200B;**品質**&#x200B;設定を上げます。 シェーダの品質は、スペキュラ反射の計算方法に影響を与える可能性があります。 一部のUV島が回転していて、このパラメーターが低すぎる場合、目に見える継ぎ目を生成できます。 詳しくは、[このページ &#x200B;](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html)を参照してください。
+> * シェーダー&#x200B;**品質**&#x200B;設定を上げます。 シェーダの品質は、スペキュラ反射の計算方法に影響を与える可能性があります。 一部のUV島が回転していて、このパラメーターが低すぎる場合、目に見える継ぎ目を生成できます。 詳しくは、[このページ &#x200B;](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html)を参照してください。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: 焼き込み後にメッシュが完全に黒く見える理由をトラブルシューティングし、一般的な原因を修正する方法を説明します。
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > 解決策は2つあります。
 > 
-> * 黒いテクスチャを避けるために、ベーキング設定を修正します。[Baker出力が完全に黒または空です](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * [&#x200B; テクスチャセット設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)から黒いテクスチャを削除します。
+> * 黒いテクスチャを避けるために、ベーキング設定を修正します。[Baker出力が完全に黒または空です](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * [&#x200B; テクスチャセット設定](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)から黒いテクスチャを削除します。

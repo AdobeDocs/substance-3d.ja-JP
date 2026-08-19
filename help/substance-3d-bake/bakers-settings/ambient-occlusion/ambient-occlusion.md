@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: Ambient Occlusion ベイカーを使用して、高速GPU アクセラレーション アルゴリズムを使用してアンビエント シャドウ テクスチャを生成する方法を説明します。
 helpx_creative_field: ""

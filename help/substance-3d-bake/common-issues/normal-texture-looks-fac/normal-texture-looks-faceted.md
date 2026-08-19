@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: メッシュ法線をスムージングし、スムージンググループ設定を調整することで、通常のテクスチャのファセットの外観を修正します。
 helpx_creative_field: ""

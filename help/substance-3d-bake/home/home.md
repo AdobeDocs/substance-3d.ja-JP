@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Substance Bakersを使用して、メッシュベースの情報をテクスチャファイルに変換し、テクスチャリングワークフローを強化する方法を説明します。
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ ht-degree: 13%
 ### 一般的な問題
 
 * [UV シームのエイリアス](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [ベイカー出力が完全に黒または空です](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [ベイカー出力が完全に黒または空です](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [メッシュからのカラーマップでベイク処理に失敗しました](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [黒いシェーディング クロスがメッシュ サーフェスに表示されます](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [メッシュ パーツが互いにブリードします](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

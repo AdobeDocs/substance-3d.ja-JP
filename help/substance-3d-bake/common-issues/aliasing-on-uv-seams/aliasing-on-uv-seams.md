@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: アンチエイリアス設定とパディング設定を調整することで、ベイク処理中にUV シームに表示されるエイリアスアーティファクトを修正します。
 helpx_creative_field: ""
