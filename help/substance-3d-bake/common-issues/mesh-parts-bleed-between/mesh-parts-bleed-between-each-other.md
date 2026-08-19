@@ -41,5 +41,5 @@ ht-degree: 0%
 > この問題を回避するには、いくつかの解決策があります。
 > 
 > * [名前で一致](../../features/matching-by-name/matching-by-name.md)機能を使用して、メッシュを分離します
-> * 光線の距離を制限するには、[ ケージ ](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)を使用します。
+> * 光線の距離を制限するには、[&#x200B; ケージ &#x200B;](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)を使用します。
 > * 共通のベイカー設定のデフォルトのレイ距離を低い値に変更します。

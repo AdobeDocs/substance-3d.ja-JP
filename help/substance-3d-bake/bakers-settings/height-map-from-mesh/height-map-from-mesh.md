@@ -30,5 +30,5 @@ ht-degree: 8%
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| ****正規化**** | 値の高さの範囲をテクスチャに保存する方法を定義します。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> レイ距離に対する相対的</strong>:</li><li data-preserve-html="true"><strong>低ポリメッシュに対する相対（UV タイルごと） </strong> （デフォルト）</li><li data-preserve-html="true"><strong>最小/最大に対する相対（UV タイルごと） </strong></li><li data-preserve-html="true"><strong>手動</strong></li></ul> |
+| **&#x200B;**&#x200B;正規化&#x200B;**&#x200B;** | 値の高さの範囲をテクスチャに保存する方法を定義します。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> レイ距離に対する相対的</strong>:</li><li data-preserve-html="true"><strong>低ポリメッシュに対する相対（UV タイルごと） </strong> （デフォルト）</li><li data-preserve-html="true"><strong>最小/最大に対する相対（UV タイルごと） </strong></li><li data-preserve-html="true"><strong>手動</strong></li></ul> |
 | **拡大・縮小ディバイザー** | 高さの値をどの程度に乗算または分割するかを定義します。**正規化**&#x200B;が&#x200B;**手動**&#x200B;に設定されている場合にのみ使用できます。 |

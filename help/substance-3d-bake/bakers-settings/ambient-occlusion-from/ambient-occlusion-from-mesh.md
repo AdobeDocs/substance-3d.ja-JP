@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # メッシュからのアンビエントオクルージョン
 
-メッシュベイカーのAmbient Occlusionを使用すると、高いポリメッシュからAmbient Occlusion テクスチャをベイクできます。 ベース [ アンビエントオクルージョン ](../../bakers-settings/ambient-occlusion/ambient-occlusion.md) ベイカーよりも速度が遅くなりますが、より正確な結果が得られます。
+メッシュベイカーのAmbient Occlusionを使用すると、高いポリメッシュからAmbient Occlusion テクスチャをベイクできます。 ベース [&#x200B; アンビエントオクルージョン &#x200B;](../../bakers-settings/ambient-occlusion/ambient-occlusion.md) ベイカーよりも速度が遅くなりますが、より正確な結果が得られます。
 
 **次の場所で利用できます：**
 

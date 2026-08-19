@@ -90,8 +90,8 @@ ht-degree: 0%
 
 デフォルトの接尾辞は\_lowと\_highで、次のように変更できます。
 
-* **Substance Painter**: [ ベーキングウィンドウ ](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)で、共通パラメーター内に配置します。
-* **Substance Designer**: [ プロジェクト設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)のベイク設定で行います。
+* **Substance Painter**: [&#x200B; ベーキングウィンドウ &#x200B;](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)で、共通パラメーター内に配置します。
+* **Substance Designer**: [&#x200B; プロジェクト設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)のベイク設定で行います。
 
 ## zBrushからのハイポリメッシュ
 

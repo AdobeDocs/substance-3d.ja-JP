@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **質問**
 > 
-> ベーカーはテクスチャ [ ディザリング ](https://en.wikipedia.org/wiki/Dither)をサポートしていますか。サポートしている場合は、いつ適用されますか？
+> ベーカーはテクスチャ [&#x200B; ディザリング &#x200B;](https://en.wikipedia.org/wiki/Dither)をサポートしていますか。サポートしている場合は、いつ適用されますか？
 
 >[!NOTE]
 >

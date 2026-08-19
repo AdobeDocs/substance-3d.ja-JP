@@ -35,4 +35,4 @@ ht-degree: 0%
 
 * 接線スペースがビューアとベイカーの間で同じであることを確認します。
 * ビューとパン屋の間で通常の書式が同じであることを確認します。
-* ビューアとベイカーの間で三角形分割が同じであることを確認します。 詳しくは、[このページ ](../../guides/triangulating-before-bak/triangulating-before-baking.md)を参照してください。
+* ビューアとベイカーの間で三角形分割が同じであることを確認します。 詳しくは、[このページ &#x200B;](../../guides/triangulating-before-bak/triangulating-before-baking.md)を参照してください。

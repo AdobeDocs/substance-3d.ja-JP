@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Substance Designer 2019.3以降、このベイカーは非推奨（廃止予定）となり、代わりにメッシュ ](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md) ベイカーの新しい[曲率を使用することをお勧めします。
+> Substance Designer 2019.3以降、このベイカーは非推奨（廃止予定）となり、代わりにメッシュ [&#128279;](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md) ベイカーの新しい曲率を使用することをお勧めします。
 
 ## パラメーター
 

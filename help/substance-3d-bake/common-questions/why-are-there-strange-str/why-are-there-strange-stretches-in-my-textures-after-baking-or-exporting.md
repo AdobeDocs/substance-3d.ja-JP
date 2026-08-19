@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **解決策**
 > 
-> Substance Bakersは、UV島の外側にディフュージョンとディレイションの両方を適用してギャップを埋め、mipmapが生成されるときにゲームエンジンでテクスチャが正常に動作することを確認します。 詳しくは、[ パディング ](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)を参照してください。
+> Substance Bakersは、UV島の外側にディフュージョンとディレイションの両方を適用してギャップを埋め、mipmapが生成されるときにゲームエンジンでテクスチャが正常に動作することを確認します。 詳しくは、[&#x200B; パディング &#x200B;](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)を参照してください。

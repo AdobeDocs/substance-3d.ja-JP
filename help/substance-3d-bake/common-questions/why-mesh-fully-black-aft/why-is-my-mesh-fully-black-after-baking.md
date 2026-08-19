@@ -39,4 +39,4 @@ ht-degree: 0%
 > 解決策は2つあります。
 > 
 > * 黒いテクスチャを避けるために、ベーキング設定を修正します。[Baker出力が完全に黒または空です](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * [ テクスチャセット設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)から黒いテクスチャを削除します。
+> * [&#x200B; テクスチャセット設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)から黒いテクスチャを削除します。
