@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
-description: ハードウェアアクセラレーション対応GPU レイトレーシングを有効にすると、高速なワークフローのためにベイク処理が25倍以上高速化されます。
+description: ハードウェアアクセラレーションによるGPU レイトレーシングを有効にして、ベイク処理の計算を25倍以上高速化し、ワークフローを高速化できます。
 helpx_creative_field: ""
 helpx_description: bakers > Features > GPU Raytracing
 helpx_experience_level: ""
@@ -24,39 +24,39 @@ ht-degree: 18%
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-一部のベイカーは、GPU上のレイトレーシングのハードウェアアクセラレーションをサポートしています。これにより、通常は計算速度が25倍以上に速くなります。
+一部のベイカーは、GPU上でのレイトレーシングのハードウェアアクセラレーションをサポートしています。通常、計算速度は25倍以上に向上します。
 
-## ハードウェア要件
+## 必要ハードウェア構成
 
 システムが次の要件に従う場合、レイトレーシングは自動的に有効になります。
 
-* 互換性のあるGPUがインストールされています\* （RTXシリーズ、Titan VまたはGeForce 10xx）
-* GPUドライバーは最新です
-* Windows 10 &#39;Fall Creator&#39; / 10月のアップデート(ver 1809)以降がインストールされています\*\*
+* 互換性のあるGPUがインストールされている\*（RTX シリーズ、Titan VまたはGeForce 10xx）
+* GPU ドライバーは最新です
+* Windows 10 &#39;Fall Creator&#39; / 10月のアップデート（ver 1809）以降がインストールされている\*\*
 
 </td>
 <td style="border: 0;" valign="top">
 
-![GPU レイトレーシングオン/オフの比較](../../assets/rtx-ao-demo.gif "GPU レイトレーシングオン/オフの比較"){zoomable="yes"}
+![GPU レイトレーシング オン/オフ比較](../../assets/rtx-ao-demo.gif "GPU レイトレーシング オン/オフ比較"){zoomable="yes"}
 
 </td>
 </tr>
 </table>
 
-\*：互換性のあるNVIDIA GPUには、パスカルアーキテクチャ以降を使用するすべてのGPUが含まれます。 例：GTX 10シリーズ、Titan Vシリーズ、RTX 20シリーズ以降。
+\*：互換性のあるNVIDIA GPUには、Pascal アーキテクチャを使用するすべてのGPUが含まれています。 GTX 10 シリーズ、Titan V シリーズ、RTX 20 シリーズ、またはそれ以上の最近のバージョン。
 
-\*\*: Windowsのバージョンを確認するには、[スタート]メニューをクリックし、「winver」と入力してEnterキーを押します。\
-アップデートは、Microsoftサポートwebサイトの[専用ページ](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-update)から入手できます。
+\*\*: Windowsのバージョンを確認するには、「スタート」メニューをクリックし、「winver」と入力してEnter キーを押します。\
+このアップデートは、Microsoft サポート web サイトの[専用ページ &#x200B;](https://support.microsoft.com/en-us/help/4028685/windows-10-get-the-update)から入手できます。
 
 >[!TIP]
 >
 > 問題が発生した場合は、アプリケーションの環境設定でGPU レイトレーシングを無効にすることができます。
 
-## サポート対象のベイカー
+## サポートされているベイカー
 
-以下の表は、Substance 3Dのベイカーバージョンに従った各ベイカーのGPU レイトレーシングサポートを示しています。
+以下の表は、Substance 3D ベーカーバージョンに従って、すべてのベイカーのGPU レイトレーシングのサポートを示しています。
 
-+++バージョン3以降
++++バージョン 3以降
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
@@ -82,7 +82,7 @@ ht-degree: 18%
 
 +++
 
-+++バージョン2
++++バージョン 2
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
@@ -99,15 +99,15 @@ ht-degree: 18%
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
-| メッシュから不透明マスク | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| メッシュからの不透明度マスク | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | メッシュからの位置 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | 位置 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | メッシュからの厚み | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| メッシュから転送されたテクスチャ | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| ワールド空間の方向 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| メッシュからの転送されるテクスチャ | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| ワールド空間方向 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | ワールド空間法線 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
-\*: CPUレイトレーシングをサポートします。これはGPU レイトレーシングよりも著しく低速です。
+\*: GPU レイトレーシングよりも大幅に遅いCPU レイトレーシングをサポートします。
 
 +++

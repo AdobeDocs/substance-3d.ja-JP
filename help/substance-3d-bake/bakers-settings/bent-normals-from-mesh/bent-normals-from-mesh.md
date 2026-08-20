@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
-description: 高ポリゴンメッシュからの周囲光の平均方向を記述するベント法線テクスチャを計算します。
+description: 高ポリメッシュからの環境光の平均方向を記述するベント法線テクスチャを計算します。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Bent Normals from Mesh
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: メッシュからの曲げ法線
+title: メッシュからのベント法線
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,11 +18,11 @@ ht-degree: 3%
 ---
 
 
-# メッシュからの曲げ法線
+# メッシュからのベント法線
 
-メッシュベイカーの曲げ法線は、周囲光の平均方向を表すテクスチャを計算します。 このパン屋は、[Mesh](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)パン屋の環境オクルージョンから派生します。
+メッシュベイカーのBent Normalsは、環境光の平均方向を表すテクスチャを計算します。 このベイカーは、Mesh[&#128279;](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md) ベイカーのAmbient Occlusionから派生しています。
 
-**使用可能：**
+**次の場所で利用できます：**
 
 * Painter
 * Designer
@@ -32,13 +32,13 @@ ht-degree: 3%
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| **セカンダリレイ** | オクルージョンの量。 値を大きくするとノイズは少なくなりますが、計算に時間がかかります。 |
-| **最小オクルーダー距離** | オクルージョン線が高ポリゴンジオメトリに当たる最小距離&#x200B;**.** |
-| **最大オクルーダー距離** | オクルージョン線が高ポリゴンジオメトリに当たる最大距離。 |
-| **バウンディングボックスを基準** | 有効な場合、レイ距離の計算はローポリゴンメッシュの正規化されたスペース(0 ～ 1)に基づいて行われます。 無効にすると、レイ距離の計算は、エクスポート時にローポリゴンメッシュで指定された単位（メートル、センチメートルなど）に基づいて行われます。 |
-| **広がり角度** | オクルージョンレイの最大スプレッド角度 デフォルトは180です。 |
-| **配布** | オクルージョンレイの角度分布有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>コサイン</strong> （既定）</li><li data-preserve-html="true"><strong>均一</strong></li></ul> |
-| **裏面を無視** | 有効にすると、オクルージョンレイは背面のヒットを無視します（高ポリゴン法線がレイが発射される低ポリゴンと反対方向を向いている場合）。 ほとんどの場合、この設定を有効にして、斑点を回避する必要があります。 |
-| **セルフオクルージョン** | オクルージョンレイの名前で照合します。 ベイカーが低ポリゴンおよび高ポリゴンのジオメトリに一致する方法を示します。 手動でメッシュを分解する必要なく、ベイク処理をフィルタするために使用できます。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>常に</strong> （既定）:ローポリメッシュは、すべてのハイポリメッシュと一致します。</li><li data-preserve-html="true"><strong>メッシュ名で</strong>：不要なジオメトリと一致しないように、メッシュを名前でフィルタします。</li></ul>一致するジオメトリの詳細については、[名前による一致](../../features/matching-by-name/matching-by-name.md)を参照してください。 |
-| **マップの種類** | 出力テクスチャのタイプを定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>ワールドスペース</strong></li><li data-preserve-html="true"><strong>接線空間</strong> （既定）</li></ul> |
-| **法線の向き** | **マットの種類**&#x200B;が接線空間に設定されている場合に、出力テクスチャの法線の形式を制御します。可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong> <strong> <br/></strong></li><li data-preserve-html="true"><strong>DirectX</strong> （既定）<strong> <br/></strong></li></ul> |
+| **セカンダリ レイ** | オクルージョンレイの量。 値を大きくすると、ノイズは少なくなりますが、計算に時間がかかります。 |
+| **最小オクルーダー距離** | オクルージョンレイが高いポリジオメトリに当たる最小距離&#x200B;**.** |
+| **最大オクルーダー距離** | オクルージョンレイが高いポリジオメトリに当たる最大距離。 |
+| **バウンディングボックスに対する相対** | 有効にすると、レイ距離の計算は、ローポリメッシュの正規化されたスペース（0 ～ 1）に基づきます。 無効にした場合、レイ距離の計算は、書き出し時にローポリメッシュで指定された単位（メートル、センチメートルなど）に基づきます。 |
+| **スプレッド角度** | オクルージョンレイの最大スプレッド角度 デフォルトは180です。 |
+| **配布** | オクルージョンレイの角度分布使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>Cosine</strong> （既定値）</li><li data-preserve-html="true"><strong>均一</strong></li></ul> |
+| **バックフェイスを無視** | オクルージョンレイを有効にすると、バックフェイス上のヒットが無視されます（高いポリゴンの法線が低いポリゴンと反対の方向に向いている場合は、レイが発生する位置からヒットします）。 多くの場合、この設定はアーティファクトを回避するために有効にする必要があります。 |
+| **セルフオクルージョン** | オクルージョンレイの名前によるマッチング。 ベイカーがローポリジオメトリとハイポリジオメトリにどのように一致するかを示します。 これは、手動でメッシュを離す（爆発させる）必要なく、ベーキングプロセスをフィルタリングするために使用できます。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>常に</strong> （既定値）：ローポリメッシュは、すべてのハイポリメッシュと一致します。</li><li data-preserve-html="true"><strong> メッシュ名</strong>: メッシュを名前でフィルタリングして、不要なジオメトリと一致しないようにします。</li></ul>ジオメトリの一致について詳しくは、[名前による一致](../../features/matching-by-name/matching-by-name.md)を参照してください。 |
+| **マップの種類** | 出力テクスチャのタイプを定義します。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> ワールド空間</strong></li><li data-preserve-html="true"><strong>接線空間</strong> （既定値）</li></ul> |
+| **通常の向き** | **Mat Type**&#x200B;がTangent Spaceに設定されている場合、出力テクスチャの通常の形式を制御します。使用可能な値は次のとおりです。<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong> <strong> <br/></strong></li><li data-preserve-html="true"><strong>DirectX</strong> （既定値） <strong> <br/></strong></li></ul> |
