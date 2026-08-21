@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 'ベイク処理とは '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 &#x200B;>> 
 
-（クレジット：[Paolo Cignoni] （https://commons.wikimedia.org/wiki/File:Normal_map_example.png） - [CC BY-SA 1.0] （https://creativecommons.org/licenses/by-sa/1.0））
+（クレジット：[Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
 ベイク処理とは、**3D メッシュ**&#x200B;に関連する情報&#x200B;**を** テクスチャ **ファイル （[&#x200B; ビットマップ &#x200B;](https://en.wikipedia.org/wiki/Raster_graphics)）に保存するプロセスの名前です。**&#x200B;ほとんどの場合、このプロセスには別のメッシュが含まれます。 この場合、最初のメッシュの情報は2番目のメッシュ UVに転送され、その後テクスチャに保存されます。
 
