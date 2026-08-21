@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: ベーキングとは何かを説明し、3D メッシュ情報をテクスチャファイルに保存してSubstance マテリアルを強化する方法を説明します。
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: 'ベイク処理とは '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
-（クレジット：[Paolo Cignoni] （https://commons.wikimedia.org/wiki/File:Normal_map_example.png） - [CC BY-SA 1.0] （https://creativecommons.org/licenses/by-sa/1.0））
+（クレジット：[Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
-ベイク処理とは、**3D メッシュ**&#x200B;に関連する情報&#x200B;**を** テクスチャ **ファイル （[&#x200B; ビットマップ &#x200B;](https://en.wikipedia.org/wiki/Raster_graphics)）に保存するプロセスの名前です。**&#x200B;ほとんどの場合、このプロセスには別のメッシュが含まれます。 この場合、最初のメッシュの情報は2番目のメッシュ UVに転送され、その後テクスチャに保存されます。
+ベイク処理とは、**3D メッシュ**&#x200B;に関連する情報&#x200B;**を** テクスチャ **ファイル （[ ビットマップ ](https://en.wikipedia.org/wiki/Raster_graphics)）に保存するプロセスの名前です。**&#x200B;ほとんどの場合、このプロセスには別のメッシュが含まれます。 この場合、最初のメッシュの情報は2番目のメッシュ UVに転送され、その後テクスチャに保存されます。
 
 一部のアプリケーションでは、メッシュプロパティ（頂点カラーなど）への情報のベイク処理をサポートしていますが、Substance Bakersではテクスチャへの情報のベイク処理のみ可能です。 ただし、メッシュのプロパティを読み取り、テクスチャ（頂点カラーなど）にベイク処理することができます。
 
@@ -60,7 +60,7 @@ Substance ソフトウェアはテクスチャを生成します。これらの�
 * **曲率** （ジオメトリのエッジとキャビティ）
 * **位置** （正規化された立方体内のジオメトリの相対位置）
 
-詳しくは、各ベイカー[&#128279;](../../bakers-settings/bakers-settings.md)の ドキュメントを参照してください。
+詳しくは、各ベイカー](../../bakers-settings/bakers-settings.md)の[ ドキュメントを参照してください。
 
 ## 「レギュラー」と「メッシュから」ベイカーの違い
 
