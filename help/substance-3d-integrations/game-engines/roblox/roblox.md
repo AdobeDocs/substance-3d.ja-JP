@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Substance 3D Designerテンプレート
 
-Robloxのテクスチャを作成するには、以下のSubstance 3Dファイルを[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)の[Substance合成グラフ](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)テンプレートとして使用できます。
+Robloxのテクスチャを作成するには、以下のSubstance 3Dファイルを[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)の[Substance合成グラフ](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)テンプレートとして使用できます。
 
 [![robloxテンプレートにリンクするsbsファイル形式のアイコンの画像。](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,7 +78,7 @@ Robloxのテクスチャを作成するには、以下のSubstance 3Dファイ�
 次に、Designerにテンプレートフォルダーの&#x200B;*視聴*&#x200B;を依頼して、グラフテンプレートを検索します。
 
 * Designerで、**編集/環境設定…**&#x200B;に移動します
-* [環境設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window)ウィンドウで、**プロジェクト/ユーザープロジェクト/一般**&#x200B;に移動します
+* [環境設定](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/workspace/preferences/preferences-window)ウィンドウで、**プロジェクト/ユーザープロジェクト/一般**&#x200B;に移動します
 * **テンプレートディレクトリ**&#x200B;のリストで、**+**&#x200B;ボタンをクリックします
 * `templates`ディレクトリに移動し、**[フォルダーの選択]**&#x200B;をクリックします
 * 「**OK**」ボタンをクリックします
@@ -104,9 +104,9 @@ Robloxテンプレートを使用してグラフを作成し、マテリアル�
 
 * [新しいSubstanceグラフ](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)ウィンドウで、`Roblox`テンプレートを選択します
 * グラフのIDとその他のパラメーターを設定し、[**OK**]をクリックします
-* [グラフビュー](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)で素材を処理します。ワークフローの使用を開始するには、[ここ](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)を参照してください
+* [グラフビュー](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)で素材を処理します。ワークフローの使用を開始するには、[ここ](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/getting-started/workflow-overview)を参照してください
 * 完了したら、グラフビューの&#x200B;**ツール/ビットマップを書き出し…**&#x200B;に移動します&#x200B;*ツールバー*
-* [ビットマップの書き出し](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)ウィンドウで、有効な&#x200B;**宛先**&#x200B;パスを設定し、出力が&#x200B;*オン*&#x200B;になっていることを&#x200B;*すべて*&#x200B;確認して、**書き出し**&#x200B;をクリックします
+* [ビットマップの書き出し](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)ウィンドウで、有効な&#x200B;**宛先**&#x200B;パスを設定し、出力が&#x200B;*オン*&#x200B;になっていることを&#x200B;*すべて*&#x200B;確認して、**書き出し**&#x200B;をクリックします
 * テクスチャが&#x200B;**宛先**&#x200B;パスに正しくエクスポートされていることを確認してください
 
 </td>

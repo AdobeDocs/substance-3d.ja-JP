@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Vrayを使用したレンダリングでは、[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)または[3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/)のSubstance PainterまたはSubstanceプラグインからエクスポートされたマップを使用できます。
 
-Substance Painter 2020.1 (6.1.0)には、メタリックとSpecularの両方のワークフローに対応するVrayMtlシェーダーが付属しており、Vray Next [出力テンプレート](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)を使用してVrayをサポートしています。
+Substance Painter 2020.1 (6.1.0)には、メタリックとSpecularの両方のワークフローに対応するVrayMtlシェーダーが付属しており、Vray Next [出力テンプレート](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/getting-started/export/export)を使用してVrayをサポートしています。
 
 ## 目次
 
