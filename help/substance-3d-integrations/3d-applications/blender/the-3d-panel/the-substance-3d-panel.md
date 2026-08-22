@@ -66,7 +66,7 @@ Substance Designerで公開されたパラメーターは、Substanceパラメ�
 
 出力テクスチャのファイル形式は、ドロップダウンで切り替えたり変更したりできます。
 
-詳細については、Designerドキュメントページの[パラメーターの公開](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)を参照してください。
+詳細については、Designerドキュメントページの[パラメーターの公開](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)を参照してください。
 
 ## 技術パラメーター
 

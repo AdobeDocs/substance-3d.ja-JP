@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # エコシステムとプラグイン
 
-[Substance素材のsbsar形式](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)は、すべての主要なゲームおよびデジタルコンテンツ作成(DCC)ツールでサポートされています。 フォーマットは.sbsarファイルとしてDesignerからパブリッシュされます。 このsbsarファイルは、Substanceのプラグインまたはネイティブの統合機能を介して、SubstanceのマテリアルをサポートするDCCアプリケーションおよびゲームエンジンに読み込むことができます。
+[Substance素材のsbsar形式](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)は、すべての主要なゲームおよびデジタルコンテンツ作成(DCC)ツールでサポートされています。 フォーマットは.sbsarファイルとしてDesignerからパブリッシュされます。 このsbsarファイルは、Substanceのプラグインまたはネイティブの統合機能を介して、SubstanceのマテリアルをサポートするDCCアプリケーションおよびゲームエンジンに読み込むことができます。
 
 * Substanceの無料マテリアルは、[3Dコミュニティアセット](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)のWebサイトにあります。
 * Substanceのダウンロード可能なマテリアルは、Substanceサブスクリプションの一部として[Substance 3D Assets](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)のWebサイトから入手できます。

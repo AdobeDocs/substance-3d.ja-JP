@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # アーノルドSubstance Painter
 
-Substance Painter 2020.1 (6.1.0)には、[aiStandardマテリアル](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)を使用したArnold用の[出力テンプレート](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)が付属しています。
+Substance Painter 2020.1 (6.1.0)には、[aiStandardマテリアル](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)を使用したArnold用の[出力テンプレート](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)が付属しています。
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

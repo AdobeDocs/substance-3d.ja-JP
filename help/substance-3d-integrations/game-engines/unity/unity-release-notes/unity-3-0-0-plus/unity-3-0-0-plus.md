@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * プラグインのC++コードのメモリリークの問題を修正し、オブジェクトの廃棄時に完全なメモリリカバリを保証します。
 * Linuxで、Unityプラグインパッケージをインポートすると「SubstanceException: An invalid argument was gived to the API」エラーが発生する問題を修正し、SBSARファイルのインポートを正常に実行できるようになりました。
-* Unityのカスタムエディターウィンドウスクリプトでプリセットを読み込むときにSubstanceGraphSO.CurrentStatePresetが正常に機能しない問題を解決しました。修正スクリプトは、アドビのSubstanceマニュアル(HelpX)ページで入手できます： https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Unityのカスタムエディターウィンドウスクリプトでプリセットを読み込むときにSubstanceGraphSO.CurrentStatePresetが正常に機能しない問題を解決しました。修正スクリプトは、アドビのSubstanceマニュアル(HelpX)ページで入手できます： https://experienceleague.adobe.com/ja/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * Unityエディターでの再選択時にグラフのプロパティが消えてしまうバグを修正しました。
 * UnityプラグインのSubstanceGraphSOに関連する「不明なマネージドタイプ参照」の問題が修正され、特にUnity 2022.1およびすべてのUnityバージョンのAndroidプラットフォームで互換性と機能が向上しました。
 * 「技術パラメーター」セクションの「標準フォーマット」の選択肢が、DirectXおよびOpenGLオプションを含む予期されるドロップダウンリストではなく、数値入力フィールドとして誤って表示される問題を修正しました。
