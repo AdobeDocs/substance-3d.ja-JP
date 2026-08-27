@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: BlenderのSubstance 3Dアドオンのキーボードショートカットを説明し、キーバインドをカスタマイズして効率的に操作できるようにします。
 helpx_creative_field: ""

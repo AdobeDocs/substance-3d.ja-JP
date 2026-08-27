@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-reference.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-reference.html"
 breadcrumb-title: ''
-description: Unreal Engine 4でマテリアルオペレーションに使用できるすべてのSubstanceBlueprintノードのリファレンスガイド。
+description: アンリアルエンジン 4でマテリアルオペレーションに使用できるすべてのSubstanceブループリントノードのリファレンスガイドです。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Blueprints - UE4 > Blueprint(UE4) Node Reference
 helpx_experience_level: ""
@@ -43,15 +43,15 @@ ht-degree: 0%
 
 | 名前 | 入力 | 説明 |
 | --- | --- | --- |
-| **GetInputNames** | なし | すべての入力パラメータ名を含む文字列の配列を返します。 |
+| **GetInputNames** | なし | すべての入力パラメーター名を含む文字列の配列を返します。 |
 | **GetInputType** | なし | この入力に関連付けられたデータ型を返します。 |
 | **SetInputInt** | 入力： **識別子** （文字列）入力： **入力値** （int配列） | 識別子によって検出された入力の値を変更します。 ゲーム内から、変更を適用するには、**AyncRender**&#x200B;または&#x200B;**SyncRender**&#x200B;を使用してサブスタンスをレンダリングする必要があります。 |
-| **SetInputFloat** | 入力： **Identifier** （文字列）入力： **InputValues** （実数配列） | 識別子によって検出された入力の値を変更します。 ゲーム内から、変更を適用するには、**AyncRender**&#x200B;または&#x200B;**SyncRender**&#x200B;を使用してサブスタンスをレンダリングする必要があります。 |
+| **SetInputFloat** | 入力： **識別子** （文字列）入力： **入力値** （実数配列） | 識別子によって検出された入力の値を変更します。 ゲーム内から、変更を適用するには、**AyncRender**&#x200B;または&#x200B;**SyncRender**&#x200B;を使用してサブスタンスをレンダリングする必要があります。 |
 | **GetInputInt** | 入力： **識別子** （文字列） | 入力パラメーターの現在の値を含むintの配列を返します。 |
-| **GetInputFloat** | 識別子（文字列） | 入力パラメータの現在の値を持つ浮動小数点の配列を返します。 |
-| **SetInputBool** | 入力： **Bool** （ブール値）入力： **識別子** （文字列） | 切り替え可能な入力値タイプを割り当てるブール値を取ります。 以前は、これはboolにキャストされたint値を1または0に設定することによってのみ実現できました。 |
+| **GetInputFloat** | 識別子（文字列） | 入力パラメーターの現在の値を持つ浮動小数点の配列を返します。 |
+| **SetInputBool** | 入力： **Bool** (ブーリアン)入力： **識別子** （文字列） | 切り替え可能な入力値タイプを割り当てるブール値を取ります。 以前は、これはboolにキャストされるint値を1または0に設定することによってのみ実現できました。 |
 | **GetInputBool** | 入力： **識別子** （文字列） | 入力の現在のブール値を返します。 |
 | **SetIputColor** | 入力： **Color** (LinearColor)入力： **識別子** (FString) | 入力カラー値のタイプを割り当てるFLinearColor値を取ります。 以前は、float値を設定し、floatの配列を渡すことによってのみ、この操作が可能でした。 |
 | **GetInputColor** | 入力：識別子(FString) | 現在のカラー値をUE4形式で返します。 |
-| **CreateAggregateSubstanceFactory** | 入力： **出力ファクトリ** (SubstanceInstanceFactory)*入力ファクトリへの入力として使用される出力を作成するファクトリ。*&#x200B;入力： **出力ファクトリグラフインデックス** （整数）*結合に使用するSubstance内のどのグラフ。* 入力： **入力ファクトリ** (SubstanceInputFactory)*出力ファクトリからの入力画像として出力を使用するファクトリ。*入力：**接続**（SubstanceConnectionsの配列）*これは、ブループリントノードのMake Arrayを使用して作成できます。 Substance接続は、入力した集計ノードを、どの出力にリンクさせるかを指定する方法です。* **&#x200B; Return (SubstanceInstanceFactory)***新しい結合されたインスタンスのグラフインスタンスを作成するために使用できます。* | 新しい集約substanceノードでは、2つのsubstanceインスタンスファクトリを使用して、実行時に新しいインスタンスファクトリを作成できます。このファクトリを使用して、新しいグラフインスタンスを作成できます。 この特別な機能は、一方の複合グラフインスタンスの出力テクスチャを、もう一方の複合グラフインスタンスの入力イメージにコネクトできることです。 この新しいファクトリからsubstance graphインスタンスを作成するには、ランタイムグラフインスタンスに関するドキュメントを参照してください。 |
+| **CreateAggregateSubstanceFactory** | 入力： **出力ファクトリ** (SubstanceInstanceFactory)*入力ファクトリへの入力として使用される出力を作成するファクトリ。*&#x200B;入力： **出力ファクトリグラフインデックス** （整数）*結合に使用するSubstance内のどのグラフ。* 入力： **入力ファクトリ** (SubstanceInputFactory)*出力ファクトリからの入力画像として出力を使用するファクトリ。*入力：**接続**（SubstanceConnectionsの配列）*これは、ブループリントノードのMake Arrayを使用して作成できます。 Substance接続は、入力した集計ノードを、どの出力にリンクさせるかを指定する方法です。* ** Return (SubstanceInstanceFactory)***新しい結合されたインスタンスのグラフインスタンスを作成するために使用できます。* | 新しい集約substanceノードでは、2つのsubstanceインスタンスファクトリを使用して、実行時に新しいインスタンスファクトリを作成できます。このファクトリを使用して、新しいグラフインスタンスを作成できます。 この特別な機能は、一方の複合グラフインスタンスの出力テクスチャを、もう一方の複合グラフインスタンスの入力イメージにコネクトできることです。 この新しいファクトリからsubstance graphインスタンスを作成するには、ランタイムグラフインスタンスに関するドキュメントを参照してください。 |
 | **SubstanceConnectionStruct** | 入力： **出力識別子** (FString)*入力にチェーンするテクスチャ出力の識別子。* 入力： **入力識別子** (FString) | 集約Substanceファクトリの作成で、各出力テクスチャを新しい入力テクスチャでチェーンする方法を指定するために使用します。 |

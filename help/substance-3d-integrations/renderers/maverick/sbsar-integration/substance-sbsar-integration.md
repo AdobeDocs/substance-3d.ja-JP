@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: MaverickレンダラーでSubstanceのSBSARファイルを直接使用すると、リアルタイムのマテリアル編集やパラメーター制御が可能になります。
 helpx_creative_field: ""
@@ -20,35 +20,35 @@ ht-degree: 0%
 
 # Substance SBSARとの連携
 
-**&#x200B;**&#x200B;**Substance DesignerまたはSubstanceで** **Alchemist** **から** **Maverick &#x200B;**&#x200B;**次の**&#x200B;**いずれか** **/** **これらの** **2** **方式**&#x200B;**:**&#x200B;**簡単に** **SBSARファイル**&#x200B;を **&#x200B; **&#x200B;簡単に利用できます&#x200B;**&#x200B;**
+**** **Substance DesignerまたはSubstanceで** **Alchemist** **から** **Maverick ****次の****いずれか** **/** **これらの** **2** **方式****:****簡単に** **SBSARファイル**&#x200B;を** **簡単に利用できます****
 
 **メソッド** **1:**
 
-1. SBSARアイコンを使用して、SBSARファイルを選択します。
+1. SBSARアイコンを使用して、Sbsar ファイルを選択します。
 
    ![](../../../assets/maverickrender-sbsar-icon.jpg)
-1. [読み込み]ダイアログでは、いくつかのマテリアルパラメータを設定できます。
+1. 読み込みダイアログでは、いくつかのマテリアルパラメーターを設定できます。
 
    ![](../../../assets/maverickrender-sbsar-import-1.jpg)
-1. 続行すると、マテリアルパネルにマテリアルが表示され、シーンで使用できるようになります。
+1. 続行すると、マテリアルパネルにマテリアルが表示され、シーンですぐに使用できるようになります。
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **メソッド** **2**&#x200B;**:**
-1. SBSARファイルをWindowsエクスプローラーからシーン内の任意のオブジェクトにドロップするだけです。 SBSARファイルはマテリアルパネルにもドロップできます。
-1. [読み込み]ダイアログでは、いくつかのマテリアルパラメータを設定できます。
+   **メソッド** **2****:**
+1. Windows エクスプローラーからシーン内の任意のオブジェクトにSbsar ファイルをドロップするだけです。 SBSARファイルはマテリアルパネルにもドロップできます。
+1. 読み込みダイアログでは、いくつかのマテリアルパラメーターを設定できます。
 
    ![](../../../assets/maverickrender-sbsar-import-1.jpg)
 1. マテリアルは、ドロップしたオブジェクトに適用されます。
 
    **ヒントとコツ:**
-1. SBSARパラメーターを編集するには、マテリアルパネルでSubstanceノードを選択するか、マテリアルのチャンネルプラグのいずれかをクリックします。
-1. より流動的に編集するために、マテリアルを512または1024の解像度で編集することをお勧めします。 最終レンダリングでは、解像度を2048または4096に上げることができます。
-1. 同じSBSARをシーン内の別のオブジェクトで異なるパラメーターを使用する場合は、そのSBSARを複製して新しいオブジェクトに適用します。 Maverickは新しいマテリアルを自動的に作成し、個別に編集することができます。
-1. シーンに複数のSBSARがある場合は、いずれかのSBSARで「グローバル解像度に設定」ボタンを使用して、一度にすべてのSBSARの解像度を制御できます。
+1. SBSARパラメーターを編集するには、 マテリアルパネルでSubstanceノードを選択するか、マテリアルのチャンネルプラグのいずれかをクリックします。
+1. より流動的な編集をおこなうには、マテリアルを512または1024の解像度で編集することをお勧めします。 最終レンダリングでは、解像度を2048または4096に上げることができます。
+1. 同じSBSARを使用する際に、シーン内の別のオブジェクトでパラメーターが異なる場合は、そのSBSARを複製して新しいオブジェクトに適用します。 新しいマテリアルが自動的に作成され、個別に編集できるようになります。
+1. シーン上に複数のSBSARがある場合は、いずれかのSBSARで「グローバル解像度に設定」ボタンを使用して、一度にすべてのSBSARの解像度を制御できます。
 
    ![](../../../assets/maverickrender-sbsar-resolution.jpg)
-1. Maverickには、シェーディングライブラリのMaterialsフォルダーとMapsフォルダーおよびSbsar Substanceーの下にある10個のマテリアルとSBSARが含まれています。
+1. Maverickには10個のマテリアルとSBSARが含まれています。これらはシェーディングライブラリのマテリアル / SubstanceおよびMaps / Sbsarフォルダーの下にあります。
 
    ![](../../../assets/maverickrender-sbsar-library.jpg)
 1. 独自のSBSARをMaverickで使用できるようにするには、それらを配置するサブフォルダーを作成します

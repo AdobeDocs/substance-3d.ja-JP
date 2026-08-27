@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
 breadcrumb-title: ''
 description: バッチインポート機能を使用して、複数SubstanceのSBSARファイルを一度に3ds Maxにインポートできます。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-0.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.4.0のリリースノートを確認して、新機能、改善点、およびバグ修正について学習します。
 helpx_creative_field: ""
@@ -39,12 +39,12 @@ ht-degree: 0%
 ### バグ修正：
 
 * Mac OSでSubstance Sourceを開くとLinuxエラーが発生するバグを修正しました
-* プラットフォームの切り替えに要する時間を短縮。 モバイルプラットフォームのテクスチャ変換は、ターゲットプラットフォームの切り替え時ではなくビルド時に行われるようになりました。
+* プラットフォームの切り替えに要する時間を短縮。 モバイルプラットフォームのテクスチャコンバージョンは、ターゲットプラットフォームの切り替え時ではなくビルド時に実行されるようになりました。
 * sbsarの読み込み時のアサーション失敗エラー
-* .NET 3.5を使用してプロジェクトをアップグレードすると、Substanceマテリアルが壊れる
+* .NET 3.5を使用してプロジェクトをアップグレードすると、Substanceのマテリアルが機能しなくなる
 * OS XのLinuxダイアログでSubstanceソースがサポートされていない
 * グラフ名を変更すると、ForceTextシリアル化モードでプレハブとシーンファイルが破棄される
-* 同じ使用方法を使用して複数の出力を行うSubstanceマテリアルは、プラグインがsbsarのカスタム出力をサポートしません
+* 同じ使用方法を使用する複数の出力を持つマテリアルでは、プラグインがsbsarのカスタム出力をサポートしません
 
 ### 既知の問題：
 

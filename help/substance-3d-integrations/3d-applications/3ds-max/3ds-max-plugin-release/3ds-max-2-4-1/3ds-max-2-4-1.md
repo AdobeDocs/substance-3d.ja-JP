@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正については、 3ds Maxプラグインバージョン2.4.1のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 * Substance\_link.dllが大量のCPUサイクルを消費している
 * Substanceプリセットの書き出し時にアサーションエラーが発生する
-* プリセットがない状態でプリセットを作成するとクラッシュする
-* コロナレンダラーのノイズ除去を使用するとクラッシュする
+* プリセットがない場合にプリセットを作成するとクラッシュが発生する
+* コロナレンダラーのノイズ除去を使用したクラッシュ
 
 このバージョンは3ds Max 2019、2020、2021用にリリースされています

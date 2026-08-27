@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
 breadcrumb-title: ''
 description: 公式WebサイトまたはブレンダーのアドオンマネージャーからSubstance 3DアドオンBlender版をダウンロードしてインストールします。
 helpx_creative_field: ""

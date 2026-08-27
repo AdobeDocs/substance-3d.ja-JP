@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
 breadcrumb-title: ''
-description: MayaのRedshiftレンダラで、エクスポートされたマップまたはSubstanceプラグインを介してSubstanceマテリアルを使用します。
+description: MayaのRedshiftレンダラで、エクスポートされたマップまたはSubstanceプラグインを介してSubstance マテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift > Redshift for Maya
 helpx_experience_level: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## MayaプラグインのSubstance
 
-Redshift [Render Workflow](https://docs.substance3d.com/display/integrations/Using+Workflows)を使用すると、シェーダーネットワークを自動的に作成できます。
+Redshift [Render Workflow](https://docs.substance3d.com/display/integrations/Using+Workflows)を使用すると、シェーダーネットワークを自動作成できます。
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/rs-1?$png$&jpegSize=100&wid=420)

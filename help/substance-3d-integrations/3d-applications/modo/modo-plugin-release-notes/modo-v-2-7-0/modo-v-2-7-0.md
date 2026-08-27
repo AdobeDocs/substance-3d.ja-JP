@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-0.html"
 breadcrumb-title: ''
 description: MODOプラグインバージョン2.7.0のリリースノートを確認し、新機能、改善点、バグの修正について確認してください。
 helpx_creative_field: ""
@@ -39,7 +39,7 @@ ht-degree: 0%
 
   これらはすべて、substance.getsbsnameから取得された適切な内部名を期待します。
 
-  **substance.setpreset** Substanceの現在のプリセットをインデックスに設定&#x200B;**substance.getpresetindex**&#x200B;現在のプリセットインデックスを取得&#x200B;**substance.getpresetat**&#x200B;指定の&#x200B;**インデックスsubstance.getpresetcount**&#x200B;にあるプリセットの文字列名を返しますSubstanceが持つプリセットの数を返します&#x200B;**substance.savepresetfile**&#x200B;指定のファイルパスに現在ののプリセットを保存します&#x200B;**substance.loadprepresetfile&lbrace;111111111ファイル1ファイル**
+  **substance.setpreset** Substanceの現在のプリセットをインデックスに設定&#x200B;**substance.getpresetindex**&#x200B;現在のプリセットインデックスを取得&#x200B;**substance.getpresetat**&#x200B;指定の&#x200B;**インデックスsubstance.getpresetcount**&#x200B;にあるプリセットの文字列名を返しますSubstanceが持つプリセットの数を返します&#x200B;**substance.savepresetfile**&#x200B;指定のファイルパスに現在ののプリセットを保存します&#x200B;**substance.loadprepresetfile{111111111ファイル1ファイル**
 
   UIコマンド：
 

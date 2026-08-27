@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
-description: 出力テンプレートと適切なマテリアル設定を使用して、Redshiftレンダラー用のSubstance Painterテクスチャを書き出します。
+description: 出力テンプレートと適切なSubstance Painterテクスチャを使用して、Redshiftレンダラーのマテリアル設定を書き出します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift > Redshift - Substance Painter
 helpx_experience_level: ""
@@ -20,19 +20,19 @@ ht-degree: 2%
 
 # Redshift -Substance Painter
 
-Substance Painter 2020.1(6.1.0)では、金属/粗さ(rsMaterial)に対してRedshift [出力テンプレート](https://docs.substance3d.com/display/SPDOC/Export)がサポートされています。 Redshiftテンプレートを使用して書き出すだけで、Redshiftマテリアルと互換性のあるテクスチャを作成できます。
+Substance Painter 2020.1(6.1.0)では、メタリック/ラフネス(rsMaterial)に対してRedshift [出力テンプレート](https://docs.substance3d.com/display/SPDOC/Export)がサポートされています。 Redshift マテリアルを使用して書き出すだけで、Redshiftテンプレートと互換性のあるテクスチャを作成できます。
 
 ![](../../../assets/rs-export.png)
 
-## Redshiftマテリアルの設定
+## Redshift マテリアルの設定
 
-| Substance Painter書き出し | Redshiftマテリアル |
+| Substance Painter書き出し | Redshift マテリアル |
 | --- | --- |
 | Color | 拡散反射光/カラー |
-| 粗さ | 反射/粗さ(BRDF = GGX) |
+| 粗さ | 反射/ラフネス(BRDF = GGX) |
 | 金属度 | 反射/メタル（フレネルタイプ=メタル） |
-| 法線 | Overall / Bump Map / rsBumpMap (Input Map Type = Tangent Space Normal - Tangent Scale = 1.0) |
-| DisplaceHeightField | ディスプレイスメントシェーダ/ rsDisplacement TexMap （マップエンコーディング= Heightフィールド） |
+| 法線 | 全体/バンプマップ/ rsBumpMap （入力マップの種類= 接線空間法線 – Heightスケール= 1.0） |
+| DisplaceHeightField | シェーダー / rsDisplacement TexMap（マップエンコーディング= Heightフィールド） |
 | EmissionColor | 全体/エミッション（エミッションウェイト= 1.0） |
 
 >[!NOTE]

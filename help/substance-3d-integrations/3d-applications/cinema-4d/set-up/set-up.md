@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
 breadcrumb-title: ''
 description: 必要システム構成を満たし、プラグインを正しくインストールして、Cinema 4DのSubstanceプラグインを設定します。
 helpx_creative_field: ""

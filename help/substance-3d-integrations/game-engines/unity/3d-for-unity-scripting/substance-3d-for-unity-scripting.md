@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
 breadcrumb-title: ''
 description: 実行時にSubstanceパラメーターを更新および変更するスクリプトを記述するには、UnityでSubstance 3D APIを使用します。
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ public class scifiScript: MonoBehaviour {
 ```
 
 
-また、SubstanceRuntimeGraphを使用して、Substanceのマテリアルに関する入出力情報にアクセスすることもできます。
+また、SubstanceRuntimeGraphを使用して、マテリアルに関する入出力情報にアクセスすることもできます。
 
 #### 入力情報を取得
 

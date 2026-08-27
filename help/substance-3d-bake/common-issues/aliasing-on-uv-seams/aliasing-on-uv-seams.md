@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
-description: アンチエイリアス設定とパディング設定を調整することで、ベイク処理中にUV シームに表示されるエイリアスアーティファクトを修正します。
+description: アンチエイリアスとパディングの設定を調整して、ベイク中にUVシームに表示されるエイリアスの斑点を修正します。
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Aliasing on UV Seams
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: UV シームのエイリアス
+title: UVシーム上のエイリアス
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 0%
 ---
 
 
-# UV シームのエイリアス
+# UVシーム上のエイリアス
 
 >[!WARNING]
 >
 > **問題**
 > 
-> 焼いた後、UV シームの境界線に暗い斑点またはドットが表示されます。
+> ベイク後、UVシームの境界に暗い点やドットが表示されます。
 > 
 > ![](../../assets/edge-aliasing.png)
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 >
 > **説明**
 > 
-> ベイカーがテクスチャに情報を書き込む場合、ジオメトリからピクセルに変換する必要があります。 この情報の処理により、[&#x200B; エイリアス &#x200B;](https://en.wikipedia.org/wiki/Aliasing)が発生する可能性があります。 エイリアシングは、UVのジオメトリがピクセルグリッドと整列していないか、UVが十分な解像度を提供するのに十分なピクセルをカバーしていないために頻繁に発生します。
+> ベイカーが情報をテクスチャに書き込むときには、ジオメトリからピクセルに変換する必要があります。 この情報を処理すると、[エイリアス](https://en.wikipedia.org/wiki/Aliasing)が発生する可能性があります。 エイリアスが発生するのは、UVのジオメトリがピクセルの解像度に合っていなかったり、UVのグリッドがピクセルを十分にカバーしていないことが原因です。
 > 
-> 次の画像では、ジオメトリが赤いオーバーレイになっています。 ベイカーは、その表面の半分以上がジオメトリで覆われている場合、ピクセルを完全としてマークします（白い正方形は完全なピクセル、黒い正方形は空のピクセルです）。 右側の画像では、ピクセルグリッドが2倍の解像度で、ジオメトリをより正確に表現できます。
+> 次の図では、ジオメトリは赤のオーバーレイです。 サーフェスの半分以上がジオメトリで覆われている場合（白い正方形は完全なピクセル、黒い正方形は空のピクセル）、ベイカーはピクセルに完全とマークします。 右側の図では、ピクセルグリッドはジオメトリをより正確に表現できる解像度の2倍です。
 > 
 > ![](../../assets/aliasing-example-large.png)
 > 
@@ -46,5 +46,5 @@ ht-degree: 0%
 > 
 > * ベイカーの出力テクスチャ解像度を上げます。
 > * アンチエイリアス設定を上げます（注意：計算に時間がかかる場合があります）。
-> * 3D モデリングソフトウェアのUV エディターで、UVをピクセルグリッドに合わせます。
-> * UVに対してより良いテクセル比を与えます。
+> * 3DモデリングソフトウェアのUVエディタで、UVをピクセルグリッドに位置合わせします。
+> * UVに対するテクスチャの比率を上げます。

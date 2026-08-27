@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
 description: pxrSurfaceマテリアルと適切な出力変換を使用して、Renderman用のSubstance Painterテクスチャをエクスポートします。
 helpx_creative_field: ""

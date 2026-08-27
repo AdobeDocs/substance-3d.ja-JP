@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
 breadcrumb-title: ''
-description: 正確なカラーマネジメントとレンダリングを行うために、MayaでSubstanceテクスチャのカラースペースを設定します。
+description: 正確なカラーマネジメントとレンダリングを行うために、Mayaのテクスチャのカラースペース設定を行います。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Color Management > Substance textures in Maya
 helpx_experience_level: ""
@@ -25,7 +25,7 @@ ht-degree: 0%
 MayaプラグインのSubstanceは、ファイルノードで「カラースペースファイルルールを無視」に設定されています。 プラグインは、次を使用して、カラーマネジメントに関係なくカラースペースの設定を処理します。
 
 BaseColor、Diffuse、Emissive、Specular = sRGB\
-法線、Height、ディスプレイスメント、粗さ、メタリック= RAW
+標準、Height、ディスプレイスメント、ラフネス、メタリック= RAW
 
 通常、色以外のデータを表す画像の場合は、カラースペースをRAWに設定する必要があります。 ただし、この設定はカラーマネジメントで設定した規則の影響を受ける場合があります。
 

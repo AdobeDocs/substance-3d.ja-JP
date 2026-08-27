@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.5.3のリリースノートを確認して、新機能、改善点、およびバグ修正について学習します。
 helpx_creative_field: ""
@@ -24,11 +24,11 @@ ht-degree: 0%
 
 修正：
 
-* Specularマップのパッキングを変更するとクラッシュする
-* 標準3DプロジェクトのAlphaチャンネルで、SpecularマップがパッキングSmoothnessにならない
-* ライブラリフォルダーを削除した後にHDRP/HRPプロジェクトを再起動するとクラッシュする
-* 重複したマテリアルに割り当てられたシェーダとマテリアルプロパティがありません
-* シーンおよびプリファブファイルの行末文字の変更。
+* Specularマップのパッキングを変更するときにクラッシュが発生しました
+* 標準3Dプロジェクトのアルファチャンネルで、SpecularマップがパッキングSmoothnessではない
+* ライブラリフォルダーを削除した後に、HDRP/HRPプロジェクトを再起動するとクラッシュが発生する
+* 重複したマテリアルに割り当てられたシェーダーとマテリアルプロパティがありません
+* シーンおよびプレファブファイルの行末文字の変更。
 
 既知の問題：
 

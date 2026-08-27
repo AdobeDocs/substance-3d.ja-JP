@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: MayaでSubstance出力のレンダリングプリセットを作成して使用し、さまざまなレンダラ用にシェーダネットワークを自動生成します。
 helpx_creative_field: ""

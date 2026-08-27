@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
 breadcrumb-title: ''
 description: SubstanceシェーダがSubstanceアセットをレンダリングワークフロー用のCinema 4Dマテリアルにリンクする方法について説明します。
 helpx_creative_field: ""

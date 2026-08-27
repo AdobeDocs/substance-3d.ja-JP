@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: Blenderのサイクルおよび各種レンダラーを使用して、様々なワークフローでSubstanceマテリアルを使用する方法について説明します。
 helpx_creative_field: ""

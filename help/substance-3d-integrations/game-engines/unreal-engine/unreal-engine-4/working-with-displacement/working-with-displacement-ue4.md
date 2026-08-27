@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
-description: サーフェスの詳細については、テッセレーションを有効にし、Unreal Engine 4のSubstanceマテリアルからディスプレイスメントマップを使用します。
+description: サーフェスの詳細については、アンリアルエンジン 4でSubstanceマテリアルのディスプレイスメントマップを使用してテセレーションを有効にします。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Working with Displacement - UE4
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # ディスプレイスメントの操作 – UE4
 
-ディスプレイスメントを使用するには、マテリアルでテッセレーションを有効にする必要があります。
+ディスプレイスメントを使用するには、マテリアルーのテセレーションを有効にする必要があります。
 
 ![](../../../../assets/tess.png){width="600px"}
 
@@ -28,16 +28,16 @@ Height出力を使用するには、Substance・ファクトリ・インスタ�
 
 ![](../../../../assets/height-1.png){width="800px"}
 
-Height出力をマテリアルに追加したら、ワールドディスプレイスメントとテッセレーションモディファイヤを動かすためにいくつかのノードを作成する必要があります。
+マテリアルにHeight出力を追加したら、ワールドディスプレイスメントとテセレーションモディファイヤを駆動するノードをいくつか作成する必要があります。
 
-1. 2つのスカラーパラメーターを作成します。 一方は[距離]で、もう一方は面分割のマルチプライヤです。
+1. 2つのスカラーパラメーターを作成します。 1つは[距離]で、もう1つは[テセレーション]の乗数です。
 1. Heightから[距離]パラメータに赤チャンネルを掛けます
 1. VertexNormalWSノードを追加し、手順2の乗算結果と乗算します。
-1. マテリアルのワールドディスプレイスメントに対するVertexNormalの乗数を入力します。
-1. テッセレーション乗数パラメータを取得し、これをマテリアルのテッセレーション乗数に入力します。
+1. VertexNormalの乗数をマテリアルのワールドディスプレイスメントに入力します。
+1. [テセレーションマルチプライヤ]パラメータを指定し、マテリアルの[テセレーションマルチプライヤ]にこのパラメータを入力します。
 
 ![](../../../../assets/setup-3.png){width="800px"}
 
 >[!NOTE]
 >
-> グラフを簡素化するために、この画像では他のテクスチャ出力が省略されています。 ここでは、ディスプレイスメントノードとマルチプライヤノードのみが分かりやすくするために表示されています。
+> この図では、グラフを簡素化するために、他のテクスチャ出力が省略されています。 ここでは、ディスプレイスメントノードとマルチプライヤノードのみが分かりやすくするために表示されています。

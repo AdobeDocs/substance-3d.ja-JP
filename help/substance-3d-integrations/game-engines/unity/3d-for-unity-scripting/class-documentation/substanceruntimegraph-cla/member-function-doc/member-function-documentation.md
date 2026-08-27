@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: UnityスクリプティングのSubstanceRuntimeGraphクラスのすべてのメンバー関数に関する詳細なドキュメント。
 helpx_creative_field: ""
@@ -330,7 +330,7 @@ Vector2Int Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetTexturesResolution (
 ```
 
 
-インスタンステクスチャ出力解像度を返します。
+インスタンステクスチャの出力解像度を返します。
 
 **戻り値**
 
@@ -363,7 +363,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.LoadPreset ( string presetXML
 ```
 
 
-プリセットXMLを使用して、グラフ入力パラメーターを設定します。
+プリセットXMLを使用して入力パラメーターを設定します。
 
 **パラメーター**
 

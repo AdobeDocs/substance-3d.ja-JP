@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/custom-materials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/custom-materials.html"
 breadcrumb-title: ''
 description: 特殊なワークフロー用のSubstanceプラグインを使用して、MODOでUnreal、Unity、およびglTFカスタムマテリアルを使用します。
 helpx_creative_field: ""
@@ -46,14 +46,14 @@ Unityマテリアルを使用する場合は、自動的にマテリアルレイ
 
 | Substance出力 | カラースペース | マテリアルレイヤー効果 |
 | --- | --- | --- |
-| ベースカラー | sRGB | アンリアルのベースカラー |
-| 粗さ | 線形 | 非現実的な粗さ |
-| メタリック | 線形 | アンリアルメタリック |
+| ベースカラー | sRGB | 非現実Base color |
+| 粗さ | 線形 | 非現実ラフネス |
+| メタリック | 線形 | 非現実メタリック |
 | 法線 | 線形 | 非現実的な標準 |
 | 高さ | 線形 | 非現実バンプ |
-| 放射 | sRGB | 画像の静止画像で非現実的な放射&#x200B;**\*sRGBに設定** |
-| アンビエントオクルージョン | 線形 | アンリアル環境オクルージョン |
-| 不透明度 | 線形 | 非現実不透明度&#x200B;**\*テクスチャレイヤーの反転をオフにする必要があります** |
+| 放射 | sRGB | 非現実Emissive **\*静止画のsRGBに設定** |
+| アンビエントオクルージョン | 線形 | 非現実Ambient occlusion |
+| 不透明度 | 線形 | 非現実の不透明度&#x200B;**\*テクスチャレイヤーの反転を解除する必要があります** |
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/unreal?$png$&jpegSize=200&wid=1343){width="600px"}
 
@@ -61,16 +61,16 @@ Unityマテリアルを使用する場合は、自動的にマテリアルレイ
 
 ## glTFマテリアル
 
-glTFマテリアルを使用する場合、マテリアルレイヤーエフェクトは自動的に設定されます。 Substanceプラグインは、glTF MaterialをSubstance項目Materialの上に直接配置します。
+glTFマテリアルを使用する場合は、マテリアルレイヤーエフェクトが自動的に設定されます。 Substanceプラグインは、glTF マテリアルをSubstance項目マテリアルの上に直接配置します。
 
 | Substance出力 | カラースペース | マテリアルレイヤー効果 |
 | --- | --- | --- |
-| ベースカラー | sRGB | glTFベースカラー |
-| 粗さ | 線形 | glTFの粗さ |
+| ベースカラー | sRGB | glTFBase color |
+| 粗さ | 線形 | glTFラフネス |
 | メタリック | 線形 | glTFメタリック |
 | 法線 | 線形 | glTF標準 |
-| 放射 | sRGB | glTF放射形式&#x200B;**\*静止画のsRGBに設定** |
-| アンビエントオクルージョン | 線形 | glTF環境オクルージョン |
+| 放射 | sRGB | glTF Emissive **\*静止画のsRGBに設定** |
+| アンビエントオクルージョン | 線形 | glTFAmbient occlusion |
 
 ![](../../../assets/gltf.png){width="600px"}
 

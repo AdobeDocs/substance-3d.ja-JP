@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
 breadcrumb-title: ''
 description: Unreal Engine 5のSubstanceプラグインの設定をプロジェクト設定から変更し、プラグインの動作をカスタマイズします。
 helpx_creative_field: ""
@@ -42,6 +42,6 @@ Substance engineはCPUまたはGPUです。 GPUエンジンを使用すると、
 
 ## 非同期/同期レンダリング
 
-同期レンダリングは、ブロッキングレンダリング呼び出しです。 このメソッドは、Substanceグラフのインスタンスを、再計算するSubstanceエンジンに渡しますが、コードの実行を続ける前に、SubstanceエンジンがSubstanceの処理を完了するまで実行を停止します。 結果は、処理が完了するとすぐに画面で更新されます。
+同期レンダリングは、ブロッキングレンダリング呼び出しです。 このメソッドは、グラフインスタンスを再計算するSubstanceエンジンに渡しますが、SubstanceエンジンがSubstanceの処理を完了するまで実行を停止してから、コードの実行に進みます。 結果は、処理が完了するとすぐに画面で更新されます。
 
-Asyncは、プラグインのアップデート中にグラフをキューに追加し、複数のグラフを一度にSubstanceエンジンに送ります（Substance設定内から設定します）。 シンクレンダリングとは異なり、Substanceエンジンが完成するのを待つのではなく、送出されるとすぐにプログラムは通常のように動作し続けます。 Substanceエンジンがそのバッチを完了すると、結果が返され、出力に適用されて、別のバッチが開始されます。
+Asyncは、グラフをキューに追加し、プラグインのアップデート中に一度に複数のグラフをSubstanceエンジンに送ります（Substance設定内から設定します）。 同期レンダリングとは異なり、エンジンが完了するのを待つのではなく、送信されるとすぐにプログラムは通常のように動作し続けます。 エンジンがそのバッチを完了すると、結果が返され、出力に適用されて、別のバッチが開始されます。

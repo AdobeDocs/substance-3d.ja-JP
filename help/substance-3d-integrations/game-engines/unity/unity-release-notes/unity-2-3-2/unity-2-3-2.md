@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-2.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.3.2のリリースノートを確認して、新機能、改善点、バグ修正について学習します。
 helpx_creative_field: ""
@@ -22,21 +22,21 @@ ht-degree: 0%
 
 ## 新機能：
 
-* 材料のシリアル化
+* マテリアルのシリアル化
 * Reflection：このプラグインでは、パッケージに古いSubstanceファイルを読み込むことができるようになりました（読み込み時に新しいSubstanceデータに自動的に更新されます）
-* マテリアルプロパティは、Substanceデータを含むパッケージの読み込みで引き継がれます
+* マテリアルプロパティは、Substanceデータを含むパッケージの読み込み時に引き継がれます
   * 注意：これは、2.3.0アップデート以降を使用して作成されたパッケージにのみ適用されます
-* Substanceグラフメニューに「テクスチャのベイク」ボタンを追加
+* グラフメニューに「テクスチャをベイク」ボタンを追加
 
 ### バグ修正：
 
-* ライブラリフォルダーを削除すると、Substanceのマテリアルのタイル表示がリセットされる問題を修正しました
+* ライブラリフォルダーを削除するとマテリアルタイリングがリセットされる問題を修正しました。
 * 再生モードから出る速度が向上しました
-* プラグインDLLの使用中にSubstanceをアップデートするとクラッシュする問題を修正しました。
+* Substance DLLの使用中にプラグインをアップデートする際のクラッシュを修正しました。
 * AllegorithmicフォルダはUnity内で削除できません。
   * 注意： Allegorithmicフォルダーの内容は変更できません。 Unity内で削除すると、複数の問題が発生する可能性があり、Unityを閉じて再び開くと、Allegorithmicフォルダが再び魔法のように表示されます。 UnityをプロジェクトのAssetsフォルダから手動で閉じた状態で削除するようユーザに通知する警告が表示されるようになりました
 * 再生モードから出る速度が向上しました
-* ライブラリフォルダーを削除したときに、Substanceのマテリアルプロパティがリセットされるバグを修正しました
+* ライブラリフォルダーを削除したときに、マテリアルのプロパティがリセットされるバグを修正しました
 
 ## 既知の問題：
 

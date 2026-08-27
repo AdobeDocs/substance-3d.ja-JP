@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maverick.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick.html"
 breadcrumb-title: ''
-description: MaverickレンダラーのSubstanceマテリアルを使用して、Painterとの統合およびSBSARのサポートにより製品をビジュアル化します。
+description: Maverickレンダラーのマテリアルを使用して、Painterとの統合およびSBSARのサポートによる製品のビジュアライゼーションを行います。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Maverick
 helpx_experience_level: ""
@@ -23,8 +23,8 @@ ht-degree: 0%
 **Maverick**&#x200B;は、製品のビジュアル化に焦点を当てたスタンドアロンのアプリケーションです。デザイナー、エンジニア、マーケティングのスペシャリストが、これまでにないスピード、品質、使いやすさでプロジェクトを実現できます。\
 **Maverick**&#x200B;レンダリングは完全なGPUベースであり、バイアスされておらず、物理的に正しいです。
 
-**Maverick**&#x200B;は、Substance Painterからモデルを簡単に読み込んだり、Substance Designerからマテリアルを読み込んだりできる「ワンクリック」ワークフローを開発しました。これにより、モデルを簡単に照らしたり、フォトリアルな画質でレンダリングしたりできます。\
-**Maverick**&#x200B;にSBSARが統合され、顧客は高品質の素材を利用できるようになりました。この素材は、ジュエリー、工業デザイン、自動車、ビジュアライゼーションなど、ほとんどの顧客が事業を行う業界で非常に役立ちます。
+**Maverick**&#x200B;は、Substance Painterからモデルを簡単に読み込んだり、Substance Designerからマテリアルを簡単に読み込んだりできる「ワンクリック」ワークフローを開発しました。このワークフローにより、モデルに照明を当ててフォトリアルな画質でレンダリングすることができます。\
+**Maverick**&#x200B;にSBSARが統合され、お客様は高品質のマテリアルにアクセスできるようになりました。これは、ジュエリー、工業デザイン、自動車、ビジュアライゼーションなど、ほとんどのお客様が事業を行う業界で非常に役立ちます。
 
 ## 目次
 

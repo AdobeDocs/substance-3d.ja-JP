@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maxwell.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell.html"
 breadcrumb-title: ''
-description: MayaとPainterのMaxwellレンダラでSubstanceマテリアルを使用して、物理的なベースのレンダリングワークフローを実現します。
+description: MayaとPainterのMaxwellレンダラでSubstanceマテリアルを使用して、物理的なレンダリングワークフローを実現します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Maxwell
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [Maxwell](https://maxwellrender.com/)でレンダリングする場合は、Substance Painterまたは[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)のSubstanceプラグインからエクスポートされたマップを使用できます。
 
-Substance Painter 2020.1(6.1.0)には、**Maxwell 5.1.0**&#x200B;で使用する金属/粗さとSpecular/光沢の両方に対応したMaxwell [出力テンプレート](https://docs.substance3d.com/display/SPDOC/Export)が付属しています。
+Substance Painter 2020.1 (6.1.0)には、**Maxwell 5.1.0**&#x200B;で使用するメタリック/ラフネスおよびSpecular/光沢度の両方のMaxwell [出力テンプレート](https://docs.substance3d.com/display/SPDOC/Export)が付属しています。
 
 ## 目次
 

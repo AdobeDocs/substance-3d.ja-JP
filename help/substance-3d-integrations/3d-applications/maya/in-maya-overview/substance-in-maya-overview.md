@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
 breadcrumb-title: ''
 description: MayaのSubstanceプラグインと、ワークフローでSubstanceマテリアルをインポートおよび使用する方法について説明します。
 helpx_creative_field: ""
@@ -46,6 +46,6 @@ Substanceプラグインを使用すると、Substance Designerで作成したSu
 1. Substance出力をディスクにベイク処理し、Arnoldなどのレンダラーで使用できるようにするには、[キャッシュ出力をディスクにベイク]を有効にします。 キャッシュされたファイルは、プラグインがMayaファイルノードを使用して読み取り戻します。
 
    ![](../../../assets/outputsettings.png)
-1. 使用しているレンダラのワークフローを選択し、 Create Shader Networkボタンをクリックします。 レンダラーワークフロー用にシェーダネットワークが作成されます。 これで、シーンにマテリアルを適用できます。
+1. 使用しているレンダラのワークフローを選択し、 Create Shader Networkボタンをクリックします。 レンダラーワークフロー用にシェーダネットワークが作成されます。 これで、シーンでマテリアルを適用できます。
 
    ![](../../../assets/createnetwork.gif){width="1000px"}

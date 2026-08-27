@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
-description: Mayaと3ds Maxでは、RedshiftレンダラでSubstanceマテリアルを使用できます。これにはメタリックワークフローのサポートが含まれます。
+description: メタリックワークフローのサポートなど、Mayaと3ds MaxでRedshiftレンダラとSubstanceマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Redshift
 
-バージョン2.5.43のRedshiftマテリアルは、メタリックワークフローをサポートしています。 Redshiftを使用したレンダリングでは、Substance Painterまたは[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)のSubstanceプラグインからエクスポートされたマップを使用できます。
+バージョン2.5.43のRedshift マテリアルは、メタリックワークフローをサポートしています。 Redshiftを使用したレンダリングでは、Substance Painterまたは[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)のSubstanceプラグインからエクスポートされたマップを使用できます。
 
 Substance Painter 2020.1 (6.1.0)には、Redshift ([rsMaterial](https://docs.redshift3d.com/display/RSDOCS/Material)) [出力テンプレート](https://docs.substance3d.com/display/SPDOC/Export)と、Redshift 3の従来の出力が付属しています。
 

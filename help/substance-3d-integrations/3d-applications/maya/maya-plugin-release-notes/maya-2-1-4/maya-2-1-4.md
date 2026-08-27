@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-4.html"
 breadcrumb-title: ''
 description: Mayaプラグインバージョン2.1.4のリリースノートを確認し、新機能、改善点、およびバグ修正について学習してください。
 helpx_creative_field: ""
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 リストの変更：
 
-* 4つ未満のチャンネルの画像ファイルを画像入力として使用しても、クラッシュしなくなりました
+* チャンネルが4つ未満の画像ファイルを画像入力として使用しても、クラッシュが使用されなくなった
 
 このバージョンは、Linux、MacOS、WindowsではMaya 2017、2018、2019、2020、MacOS、WindowsではMaya LT 2018、2019、2020でリリースされています

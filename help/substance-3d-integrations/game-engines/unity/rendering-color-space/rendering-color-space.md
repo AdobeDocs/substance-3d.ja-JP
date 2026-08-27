@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: Unityのカラースペース設定を行い、物理的にベースとなるシェーダを使用してSubstanceマテリアルを適切にレンダリングできるようにします。
 helpx_creative_field: ""

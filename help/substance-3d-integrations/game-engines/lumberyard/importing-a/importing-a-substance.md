@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
 breadcrumb-title: ''
 description: 手続き型マテリアルエディタを使用して、SubstanceマテリアルファイルをLumberyardプロジェクトに読み込みます。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
 breadcrumb-title: ''
 description: UnityプロジェクトからSubstance 3Dプラグインを適切に削除し、関連するファイルをクリーンアップする方法について説明します。
 helpx_creative_field: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Substanceプラグインを削除中
 
-AdobeフォルダーおよびAdobe.metaファイルを削除する前または後に、Substanceのマテリアルを削除できます。
+SubstanceフォルダーとAdobe.metaファイルを削除する前または後に、Adobeマテリアルを削除できます。
 
-1. Unityを閉じます。 プラグインを削除するには、Unityを閉じる必要があります。 プロジェクトが開いており、プラグインが削除されている場合は、エンジンdllが引き続き再読み込みされます。
-1. エクスプローラーを使用して、Assetフォルダーを参照し、AdobeフォルダーとAdobe.metaファイルを削除します。
+1. Unityを閉じます。 プラグインを削除するには、Unityを閉じる必要があります。 プロジェクトが開いていてプラグインが削除されている場合、エンジン dllが引き続き再読み込みされます。
+1. ファイルエクスプローラーを使用してAsset Folderを参照し、AdobeフォルダーとAdobe.metaファイルを削除します。
 1. Unityを再起動します。

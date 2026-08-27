@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正について詳しくは、 Blenderアドオンバージョン2.0.0のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -47,9 +47,9 @@ Substance 3Dアドオン2.0は、完全にリファクタリングされたプ�
 * [SRE]マテリアルのすべてのマップが常時書き出されます
 * [SRE]統合ツールが階段のステップで法線マップをエクスポートする
 * [SRE] Substanceの読み込みが完了しない
-* [SRE]物理サイズユニットがシーンに合わせて調整されない
+* [SRE]物理サイズユニットがシーンに調整されていない
 * [BLD] Blenderで生成されたプリセットが他の統合と連携しない
-* [BLD]マテリアルがサイクルで更新されない
+* [BLD] マテリアルがサイクルで更新されない
 * [BLD]入力のソフトリミットおよびハードリミットは無視される
 * [BLD]パラメーターを調整するときに、カラーの適用度が正しく更新されない
 * [SRE]統合ツールのアンインストールに失敗する

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
 breadcrumb-title: ''
-description: MayaのSubstanceマテリアル出力を有効または無効にして、計算および使用するテクスチャを制御します。
+description: Mayaのマテリアル出力を有効または無効にして、計算および使用するテクスチャを制御します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Working with Outputs
 helpx_experience_level: ""
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 ![](../../../assets/outputs-1.png){width="800px"}
 
-閉じた円は、出力が作成されたことを示します。 上の画像では、元のカラーが作成されています。 ディスクへのキャッシュ出力が有効になっているため、Mayaファイルノードと同様にSubstance出力が作成されました。 ファイルノードは、ディスク上にキャッシュされたテクスチャを読み取り、Substance engineがテクスチャを処理するたびに自動的に更新されます。 閉じた円をもう一度クリックして出力を無効にし、ノードを削除します。
+閉じた円は、出力が作成されたことを示します。 上の図は、Base colorが作成されたことを示しています。 ディスクへのキャッシュ出力が有効になっているため、Mayaファイルノードと同様にSubstance出力が作成されました。 ファイル・ノードは、ディスク上のキャッシュ・テクスチャを読み取り、Substance engineがテクスチャを処理するたびに自動的に更新されます。 閉じた円をもう一度クリックして出力を無効にし、ノードを削除します。
 
 ![](../../../assets/enabled-3.png)
 
-眼鏡のアイコンをクリックして、Substance出力またはファイルノードを選択します。 ファイルノードが作成されている場合は、眼鏡アイコンをクリックすると選択されます。 ファイルノードが存在しない場合は、Substance出力が選択されます。 これにより、出力またはファイルノードにすばやく移動できます。 *\*ヒント：ノードエディターで選択したノードをフレーム化するには、Fキーを押します。 多くの出力があり、特定のファイルノードを検索する必要がある場合に便利です。*
+眼鏡のアイコンをクリックして、Substance出力またはファイルノードを選択します。 ファイルノードが作成されている場合は、眼鏡アイコンをクリックすると選択されます。 ファイルノードが存在しない場合は、Substance出力が選択されます。 これにより、出力またはファイルノードにすばやく移動できます。 *\*ヒント： Fキーを押すと、ノードエディタで選択したノードがフレームされます。 多くの出力があり、特定のファイルノードを検索する必要がある場合に便利です。*

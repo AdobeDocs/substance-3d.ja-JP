@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
 description: このリファレンスを使用して、ソフトウェアと互換性のあるSubstanceエンジンのバージョンを確認し、マテリアルの互換性を確認します。
 helpx_creative_field: ""

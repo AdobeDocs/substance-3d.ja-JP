@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: 書き出されたマップまたはレンダリング用のSubstanceプラグインを使用して、3ds MaxでV-Ray NextでSubstanceマテリアルを使用します。
 helpx_creative_field: ""

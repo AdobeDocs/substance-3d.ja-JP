@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
-description: Unityで設定やテクスチャ解像度を調整して、モバイルプラットフォーム向けのSubstanceマテリアルを最適化します。
+description: マテリアルとテクスチャ解像度を調整して、Unityのモバイルプラットフォーム向けのSubstance設定を最適化します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Publishing for Mobile
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **モバイルデバイスのテクスチャサイズ**
 > 
-> Unity Editorのテクスチャセットの解像度は、アプリケーションバイナリにパブリッシュされるサイズになります。 Substanceマテリアルの解像度を下げると、ファイルサイズが小さくなるテクスチャが作成されます。
+> Unity Editorのテクスチャセットの解像度は、アプリケーションバイナリでパブリッシュされるサイズになります。 マテリアルの解像度を下げると、ファイルサイズが小さくなるテクスチャが発生します。
 
 ## プラットフォーム
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 対応するUnityバージョンのiOSモジュールがダウンロードされていることを確認します。
 1. Unityで、build targetをiOSに変更します。
-1. Player設定を開き、「Identification - Bundle Identifier」フィールドを他と重複しない値に変更します。 （例：com.Adobe.iosProject）
+1. Player Settingsを開き、「Identification - Bundle Identifier」フィールドを他と異なる識別子に変更します。 （例：com.Adobe.iosProject）
 1. ゲームをビルドして実行します。
 1. Xcodeで、iOSデバイスをクリックし、「Signing - Team」ドロップダウンをデベロッパーチームIDに変更します。
 1. iOSデバイスで、「Settings - General - Device Management」に移動し、表示されるDeveloper Team IDの「Trust」をクリックします。
@@ -43,6 +43,6 @@ ht-degree: 0%
 
 1. 対応するUnityバージョンのAndroidモジュールがダウンロードされていることを確認してください。
 1. Unityで、build targetをAndroidに変更します。
-1. Player設定を開き、「Identification - Bundle Identifier」フィールドを他と重複しない値に変更します。 （例：com.Adobe.androidProject）
+1. Player Settingsを開き、「Identification - Bundle Identifier」フィールドを他と異なる識別子に変更します。 （例：com.Adobe.androidProject）
 1. ゲームをビルドして実行します。
 1. ゲームはAndroidデバイスで実行されている必要があります。

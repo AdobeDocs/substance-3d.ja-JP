@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
-description: 不透明度マスクを生成するには、不透明度の高いレイをグレースケールのバイナリ画像に変換します。
+description: ぼかした光線をグレースケールのバイナリ画像に変換して不透明度マスクを生成し、透明効果を適用します。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Opacity Mask from Mesh
 helpx_experience_level: ""
@@ -20,14 +20,14 @@ ht-degree: 10%
 
 # メッシュからの不透明度マスク
 
-メッシュベイカーの不透明度マスクは、逃した光線がグレースケールのバイナリ画像に変換されるテクスチャを計算します。 このテクスチャは、一般的に不透明度マップとして使用されます。
+「不透明度マスク（メッシュから）」ベイカーは、レイが欠落した場合にグレースケールのバイナリ画像に変換されるテクスチャを計算します。 このテクスチャは、一般に不透明度マップとして使用されます。
 
-テクスチャのプロパティは次のように定義されます。
+テクスチャプロパティは次のように定義されます。
 
-* 黒い値は空の領域を表します。
-* 白い値は凸状の領域を表します。
+* 黒の値は空の領域を表します。
+* 白の値は凸形の領域を表します。
 
-**次の場所で利用できます：**
+**使用可能：**
 
 * Painter
 * Designer
@@ -35,4 +35,4 @@ ht-degree: 10%
 
 ## パラメーター：
 
-このベイカーには特定のパラメーターがありません。
+このベイカーには固有のパラメーターはありません。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/thea.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/thea.html"
 breadcrumb-title: ''
 description: レンダリングワークフロー用のTheaSubstanceコンバーターを使用して、SubstanceのSBSARファイルをTheaマテリアルに変換します。
 helpx_creative_field: ""
