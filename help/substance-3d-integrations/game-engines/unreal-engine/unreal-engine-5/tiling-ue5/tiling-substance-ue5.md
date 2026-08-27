@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
-description: テクスチャ座標ノードとスカラーパラメータをマテリアルに追加して、Unreal Engine 5のSubstanceテクスチャをタイリングします。
+description: マテリアルにテクスチャ座標テクスチャとスカラーパラメータを追加して、Substanceノードを非現実エンジン 5で並べて表示します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Tiling Substance - UE5
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: タイルSubstance- UE5
+title: Substance - UE5
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# タイルSubstance- UE5
+# Substance - UE5
 
-Substanceテクスチャをタイリングするには、テクスチャ座標ノードを追加し、これをスカラーパラメータで乗算する必要があります。
+サブスタンステクスチャをタイリングするには、テクスチャ座標ノードを追加し、これをスカラーパラメータで乗算する必要があります。
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Coordinates/#texturecoordinate>
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/renderman.html"
 breadcrumb-title: ''
-description: Mayaやその他のDCCアプリケーションでpxrSurfaceまたはpxrDisneyマテリアルを使用して、RendermanでSubstanceマテリアルをレンダリングします。
+description: Mayaやその他のDCCアプリケーションでpxrSurfaceまたはpxrDisney マテリアルを使用して、RendermanでSubstanceマテリアルをレンダリングします。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Renderman
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Renderman
 
-pxrSurfaceまたはpxrDisneyサーフェスマテリアルを使用すると、Substance DesignerおよびSubstance PainterからPBR出力をレンダリングできます。 PxrDisneyは、ベースカラー/粗さ/メタリック出力を直接サポートするため、より簡単ですが、Rendermanでは従来のマテリアルになり、[pxrSurface](https://rmanwiki.pixar.com/display/REN/PxrSurface)が推奨される方法になりました。
+pxrSurfaceまたはpxrDisneyサーフェスマテリアルを使用すると、Substance DesignerおよびSubstance PainterからPBR出力をレンダリングできます。 Basecolor/ラフネス/メタリック出力を直接サポートしているため、pxrDisneyの方が簡単ですが、Rendermanでは従来のマテリアルになり、[pxrSurface](https://rmanwiki.pixar.com/display/REN/PxrSurface)をお勧めします。
 
 pxrSurfaceの詳細については、Rendermanドキュメントを参照してください。<https://rmanwiki.pixar.com/display/REN/PxrSurface>
 

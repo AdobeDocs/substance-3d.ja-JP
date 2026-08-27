@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo.html"
 breadcrumb-title: ''
-description: MODO用のSubstanceプラグインをインストールして使用し、3DプロジェクトでSubstanceのマテリアルを読み込んで操作します。
+description: MODO用のSubstanceプラグインをインストールして使用し、3DプロジェクトでSubstanceマテリアルを読み込んで操作します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO
 helpx_experience_level: ""
@@ -33,7 +33,7 @@ ht-degree: 1%
 * [パラメーター](../../3d-applications/modo/parameters/parameters.md)
 * [カスタムマテリアル](../../3d-applications/modo/custom-materials/custom-materials.md)
 * [法線の操作](../../3d-applications/modo/working-with-normals/working-with-normals.md)
-* [Emissiveの操作](../../3d-applications/modo/working-with-emissive/working-with-emissive.md)
+* [emissiveの操作](../../3d-applications/modo/working-with-emissive/working-with-emissive.md)
 * [バンプとディスプレイスメント](../../3d-applications/modo/bump-and-displacement/bump-and-displacement.md)
 * [参照の操作](../../3d-applications/modo/working-with-references/working-with-references.md)
 * [Substanceのアニメート](../../3d-applications/modo/animating-substances/animating-substances.md)

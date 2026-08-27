@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
 breadcrumb-title: ''
-description: UnityプロジェクトをSubstanceの資料とともにアップグレードする方法と、マイグレーション中に避けるべき既知の問題について説明します。
+description: Unityプロジェクトをマテリアルでアップグレードする方法と、マイグレーション中に避けるべき既知の問題について説明します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Upgrading ProjectsKnown Issues
 helpx_experience_level: ""
@@ -32,4 +32,4 @@ ht-degree: 1%
 * パネルフォルダーのナビゲーション中に「*式でのアサーションに失敗しました」というエラーが発生しました。*
   * これは、UIに変更が加えられた場合にUnity側で発生するエラーです。通常、サムネイルの変更は無害なメッセージである必要があります。
 * *画像入力が8ビットにロックされているようです*
-  * この問題は、バージョン3.8.0 ～ 3で修正されました。 正しいワークフローは、ユーザがテクスチャのUnityのデフォルトフォーマットをRGBA64に変更することです。 プラグインは、その情報をSubstance engineに適切に送信します。
+  * この問題は、バージョン3.8.0 ～ 3で修正されました。 正しい手順は、テクスチャに対するUnityのデフォルトフォーマットをRGBA64に変更することです。 プラグインは、その情報をSubstance engineに適切に送信します。

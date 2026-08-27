@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
-description: 適切な出力設定を使用して、ブレンダーのサイクルおよび各レンダラのSubstance Painterテクスチャを書き出します。
+description: 適切な出力テクスチャを使用して、ブレンダーサイクルおよび各レンダラーのSubstance Painter設定を書き出します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Cycles and Eevee > Cycles and Eevee - Susbtance Painter
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # サイクルとイベント – Susbtance Painter
 
-テクスチャをBlenderに書き出すためにカスタムテンプレートを作成できます。
+テクスチャをBlenderに書き出すためのカスタムテンプレートを作成できます。
 
-1. 「PBRメタルの粗さ」テンプレートを選択した状態で、「複製」ボタンをクリックしてコピーを作成します。
+1. [PBRメタルラフネス]テンプレートを選択した状態で、[複製]ボタンをクリックしてコピーを作成します。
 1. 「マップの変換」から「標準RBG」へオプションをドラッグし、「RBGから」を選択して、DirectXからOpenGLへコピーする際の標準タイプを変更します。
 1. 必要に応じて、プリセットの名前を変更します
 

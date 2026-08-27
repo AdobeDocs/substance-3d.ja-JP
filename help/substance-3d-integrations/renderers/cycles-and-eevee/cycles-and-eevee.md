@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/cycles-and-eevee.html"
 breadcrumb-title: ''
-description: 書き出したマップまたはSubstanceアドオンを使用して、ブレンダーのサイクルおよびエイベールレンダラーでSubstanceマテリアルを使用します。
+description: 書き出されたマップまたはSubstanceアドオンを使用して、ブレンダーのサイクルおよびエイベールレンダラーでSubstanceマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Cycles and Eevee
 helpx_experience_level: ""

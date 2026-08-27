@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
 breadcrumb-title: ''
-description: UnityでのSubstanceのマテリアル管理に使用されるSubstanceEditorToolsクラスのリファレンスドキュメント。
+description: Unityでのマテリアル管理に使用されるSubstanceEditorToolsクラスの参照ドキュメント。
 helpx_creative_field: ""
 helpx_description: Substance 3D Integrations
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ユーザーがエディタースクリプトで使用するツールおよびユーティリティ。
 
-Substance.SubstanceEditor.SubstanceEditorToolsのAdobe図：
+Adobe.SubstanceEditor.SubstanceEditorToolsの継承図：
 
 ![](../../../../../assets/image2022-10-14-17-53-23.png)
 
@@ -35,56 +35,56 @@ Substance.SubstanceEditor.SubstanceEditorToolsのAdobe図：
 ```
 
 
-グラフのフロート入力を設定します。
+グラフfloat入力を設定します。
 
 ```
 • static void SetGraphFloat2Input (SubstanceGraphSO graph, int inputId, Vector2 value)
 ```
 
 
-グラフのfloat2入力を設定します。
+グラフfloat2入力を設定します。
 
 ```
 • static void SetGraphFloat3Input (SubstanceGraphSO graph, int inputId, Vector3 value)
 ```
 
 
-グラフのfloat3入力を設定します。
+グラフfloat3入力を設定します。
 
 ```
 • static void SetGraphFloat4Input (SubstanceGraphSO graph, int inputId, Vector3 value)
 ```
 
 
-グラフのfloat4入力を設定します。
+グラフfloat4入力を設定します。
 
 ```
 • static void SetGraphIntInput (SubstanceGraphSO graph, int inputId, int value)
 ```
 
 
-グラフの入力を設定します。
+入力にグラフを設定します。
 
 ```
 • static void SetGraphInt2Input (SubstanceGraphSO graph, int inputId, Vector2Int value)
 ```
 
 
-グラフのint2入力を設定します。
+グラフ int2入力をセットします。
 
 ```
 • static void SetGraphInt3Input (SubstanceGraphSO graph, int inputId, Vector3Int value)
 ```
 
 
-グラフのint3入力を設定します。
+グラフ int3入力をセットします。
 
 ```
 • static void SetGraphInt4Input (SubstanceGraphSO graph, int inputId, int value0, int value1, int value2, int value3)
 ```
 
 
-グラフのint4入力を設定します。
+グラフ int4入力を設定します。
 
 ```
 • static void SetGraphInputString (SubstanceGraphSO graph, int inputId, string value)
@@ -98,14 +98,14 @@ Substance.SubstanceEditor.SubstanceEditorToolsのAdobe図：
 ```
 
 
-グラフテクスチャ入力を設定します。
+テクスチャ入力を設定します。
 
 ```
 • static void RenderGraph (SubstanceGraphSO graph)
 ```
 
 
-ターゲットグラフをレンダリングし、そのアセットを更新します。
+ターゲットグラフをレンダリングしてそのアセットを更新します。
 
 ```
 • static string CreatePresetFromCurrentState (SubstanceGraphSO graph)

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
-description: 3ds MaxのArnoldレンダラーでは、Substanceプラグインと標準サーフェスマテリアルを使用して、Substanceマテリアルを使用します。
+description: 3ds MaxのArnoldレンダラーでSubstance マテリアルを使用するには、Substanceプラグインと標準サーフェスマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Arnold > Arnold - Substance in 3ds Max
 helpx_experience_level: ""
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Arnoldを使用するには、Substanceテクスチャに対する従来の3ds Max Mapのサポートを有効にする必要があります
+> Arnoldを使用するには、Substance テクスチャの従来の3ds Max Mapサポートを有効にする必要があります
 
 ## 3ds MaxプラグインのSubstance
 
-[3ds Maxプラグイン](../../../3d-applications/3ds-max/3ds-max.md)を使用すると、Substanceメニューで[Arnold]を選択して、Substanceテクスチャ入力を使用してArnoldマテリアルを自動的に設定できます。
+[3ds Maxプラグイン](../../../3d-applications/3ds-max/3ds-max.md)を使用すると、Substanceメニューで[Arnold]を選択して、Substanceテクスチャ入力を使用してArnold マテリアルを自動的に設定できます。
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/arnold?$png$&jpegSize=200&wid=1047)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
 >[!WARNING]
 >
-> ActiveShadeを使用する場合、GPUレンダラーはSubstanceテクスチャではサポートされません。
+> ActiveShadeを使用する場合、GPUレンダラーはテクスチャでサポートされません。
 
 ![](../../../assets/legacy-1.png)

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-1.html"
 breadcrumb-title: ''
-description: 新機能、改善点、バグ修正について詳しくは、 Unreal Engine 5プラグインバージョン5.0.1のリリースノートを参照してください。
+description: 新機能、改善点、バグ修正について詳しくは、アンリアルエンジン 5プラグインバージョン5.0.1のリリースノートを参照してください。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Release Notes > Unreal plugin 5.0.1
 helpx_experience_level: ""
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 更新/追加：
 
-* Unreal Engineバージョン5.0.0以降のサポート
-* Unreal Engine 5プラグインドキュメント
-* 新しいTri-planarマテリアルテンプレートのサポート
+* アンリアルエンジンバージョン5.0.0以降のサポート
+* Unreal エンジン 5プラグインドキュメント
+* 新しい3マテリアルテンプレートのサポート
 * 新しい「物理サイズ」機能のサポート
 * Substanceの標準テンプレートとSubstance屈折テンプレートを&#x200B;*改良*&#x200B;しました
-* ワールド空間のXYZ値を変更する機能
+* ワールド空間のXYZ値を変更できます
 * Pythonスクリプティング
-* 物理サイズマテリアルノードをサブスタンス出力の値で自動設定
+* Substance出力の値を使用して物理サイズマテリアルノードを自動設定
 
 削除：
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 修正：
 
-* 青写真で材料パラメーターを調整すると、パッケージ化されたUE5プロジェクトがクラッシュする
+* ブループリントでマテリアルパラメーターを調整する場合の、パッケージ化されたUE5プロジェクトクラッシュ
 * Substance グラフインスタンスの出力がオフの場合、プラグインがパラメーターウィンドウを閉じる
 * パラメーターの変更が遅れる原因となっていたレンダリングの時折の遅れを修正
 

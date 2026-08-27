@@ -97,7 +97,7 @@ public class scifiScript: MonoBehaviour {
 ```
 
 
-また、SubstanceRuntimeGraphを使用して、Substanceのマテリアルに関する入出力情報にアクセスすることもできます。
+また、SubstanceRuntimeGraphを使用して、マテリアルに関する入出力情報にアクセスすることもできます。
 
 #### 入力情報を取得
 

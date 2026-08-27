@@ -330,7 +330,7 @@ Vector2Int Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetTexturesResolution (
 ```
 
 
-インスタンステクスチャ出力解像度を返します。
+インスタンステクスチャの出力解像度を返します。
 
 **戻り値**
 
@@ -363,7 +363,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.LoadPreset ( string presetXML
 ```
 
 
-プリセットXMLを使用して、グラフ入力パラメーターを設定します。
+プリセットXMLを使用して入力パラメーターを設定します。
 
 **パラメーター**
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
-description: Substanceプラグインを使用して、リアルタイムのマテリアル編集とレンダリングを行い、Unreal Engine 5でSubstanceマテリアルを使用します。
+description: リアルタイムのSubstance編集とレンダリング用のSubstanceプラグインを使用して、アンリアルエンジン 5のマテリアルマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5
 helpx_experience_level: ""
@@ -22,18 +22,18 @@ ht-degree: 0%
 
 ![](../../../assets/feature.png)
 
-Unreal Engine 5のAdobe Substance 3Dプラグインは、Unreal Engineマーケットプレイスで正式に公開されています： [Unreal EngineのSubstance 3D](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin?sessionInvalidated=true)。 プラグインをダウンロードするには、マーケットプレイスにアクセスしてください。
+アンリアルエンジン 5のAdobe Substance 3Dプラグインは、アンリアルエンジンマーケットプレイスで正式に公開されています： [アンリアルエンジン用Substance 3D](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin?sessionInvalidated=true)。 プラグインをダウンロードするには、マーケットプレイスにアクセスしてください。
 
 ## 目次
 
 * [プラグインの概要 – UE5](../../../game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5/plugin-overview-ue5.md)
 * [Plugin Settings - UE5](../../../game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5/plugin-settings-ue5.md) — UnrealのSubstanceプラグインの設定を詳細に指定します
-* [Substance入力画像 – UE5](../../../game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md) – 入力を使用してSubstanceを作成し、素材で処理する画像を指定できます。
-* [マテリアルインスタンス定義 – UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md) — UE5マテリアルインスタンスはSubstanceで使用できます。
+* [Substanceの入力画像- UE5](../../../game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md) — Substanceは、入力を使用して作成できます。入力を使用すると、マテリアルで処理するイメージを指定できます。
+* [マテリアルインスタンス定義 – UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md) — UE5 マテリアルインスタンスはSubstanceで使用できます。
 * [マテリアルテンプレートの使用 – UE5](../../../game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
 * [物理サイズ- UE5](../../../game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-* [タイリングSubstance - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md) — Substanceテクスチャをタイリングするには、Texture Coordinateノードを追加し、これをスカラーパラメータで乗算する必要があります。
+* [Substance - UE5](../../../game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md) – サブスタンステクスチャをタイリングするには、テクスチャ座標ノードを追加し、これをスカラーパラメーターで乗算する必要があります。
 * [Substance 3Dプラグインのデフォルトテンプレート](../../../game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
 * [Substance 3D Assetsライブラリの使用 – UE5](../../../game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
-* [Blueprints - UE5](../../../game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md) – 幅広いBlueprint APIを使用して、実行時にSubstanceのマテリアルを更新します。
+* [Blueprints - UE5](../../../game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md) – 広範なBlueprint APIを使用して、実行時にマテリアルを更新します。
 * [Unreal Engine 5スクリプティング](../../../game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting/unreal-engine-5-scripting.md)

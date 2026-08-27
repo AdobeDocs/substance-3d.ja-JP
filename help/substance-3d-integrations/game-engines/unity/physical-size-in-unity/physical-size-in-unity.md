@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/physical-size-in-unity.html"
 breadcrumb-title: ''
-description: 物理サイズ設定を使用して、Unityの実際の寸法に基づいてSubstanceマテリアルを適用したり、尺度を変更します。
+description: 物理サイズ設定を使用して、Unityの実際の寸法に基づいてSubstanceマテリアルを適用および尺度変更します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Physical Size in Unity
 helpx_experience_level: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 統一物理サイズ
 
-Unity用の[Substance 3D](https://www.adobe.com/jp/products/substance3d/3d-augmented-reality.html)プラグインの物理サイズ機能を使用すると、Substanceのマテリアルを実際のサイズに基づいて適用したり、拡大縮小したりできます。 サイズはDesignerなどのSubstanceアプリケーションで設定され、プラグインパネルの「物理サイズ」セクションに表示されます。
+Unity用の[Substance 3D](https://www.adobe.com/jp/products/substance3d/3d-augmented-reality.html)プラグインの物理サイズ機能を使用すると、実際のサイズに基づいてSubstanceマテリアルを適用したり、拡大縮小したりできます。 サイズはDesignerなどのSubstanceアプリケーションで設定され、プラグインパネルの「物理サイズ」セクションに表示されます。
 
 この機能は現在、HDRPワークフローでのみ使用できます。
 
-物理サイズが有効になっている場合、マテリアルは実際のサイズ（センチメートル）に基づいてタイルされます。 マテリアルのタイリングは、オブジェクトのスケールに関係なく同じままです。
+物理サイズが有効になっている場合、マテリアルは実際のサイズ（センチメートル）に基づいてタイルされます。 マテリアルのタイリングは、オブジェクトの拡大・縮小に関係なく変わりません。
 
-この機能は、プラグインパネルのUIで「物理サイズを使用」を切り替えることで有効にできます。 マテリアルのタイルをアーティスティックに制御するために、物理サイズの値をオーバーライドできます。
+この機能は、プラグインパネルのUIで「物理サイズを使用」を切り替えることで有効にできます。 物理サイズの値は、マテリアルのタイリングをアーティスティックに制御するためにオーバーライドできます。

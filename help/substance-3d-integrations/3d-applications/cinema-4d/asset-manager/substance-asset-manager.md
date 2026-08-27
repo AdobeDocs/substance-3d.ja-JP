@@ -60,7 +60,7 @@ Asset Managerに表示されているすべてのSubstanceの選択を解除し�
 
 ## マテリアルを選択
 
-現在選択されているSubstanceを参照するすべてのマテリアルを選択します。
+現在選択されているマテリアルを参照するすべてのSubstanceを選択します。
 
 ## アクションメニュー
 
@@ -70,7 +70,7 @@ Asset Managerに表示されているすべてのSubstanceの選択を解除し�
 
 ## Substanceが重複しています
 
-現在選択されているSubstanceを複製します。 これは、複数のマテリアル上の異なるパラメータセットで同じSubstanceを使用する場合に便利です。
+現在選択されているSubstanceを複製します。 これは、複数のマテリアルで異なるパラメータセットを使用して同じSubstanceを使用する場合に便利です。
 
 ## Substanceを再読み込み
 
@@ -83,7 +83,7 @@ Asset Managerに表示されているすべてのSubstanceの選択を解除し�
 
 ## 未使用のSubstanceを削除
 
-マテリアルによって参照されていないすべてのSubstanceを削除します。
+現在どのマテリアルからも参照されていないすべてのSubstanceを削除します。
 
 ## Substance engineメニュー
 

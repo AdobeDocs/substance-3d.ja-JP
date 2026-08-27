@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
-description: メッシュ UVをベクターグラフィックファイルに変換し、正確なマスクとオーバーレイを作成できます。
+description: メッシュのUVをベクターグラフィックファイルに変換して、正確なマスクとオーバーレイの作成に使用できます。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Convert UV to SVG
 helpx_experience_level: ""
@@ -20,16 +20,16 @@ ht-degree: 6%
 
 # UV を SVG に変換
 
-「UVをSVGに変換」ベイカーは、ローポリメッシュ UVをベクターグラフィックファイルに変換します。 このベクターグラフィックファイルは、マスクの作成に使用できます。
+UVをSVGに変換ベイカーは、ローポリゴンメッシュUVをベクターグラフィックファイルに変換します。 このベクターグラフィックファイルを使用して、マスクを作成できます。
 
-**次の場所で利用可能：**
+**使用可能：**
 
 * Substance Designer
-* Substance Automation Toolkit
+* Substance自動処理ツールキット
 
 ## パラメーター
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| **パディング** | SVGのシェイプにどれだけの幾何学的パディングを追加するかを制御します。 |
-| **カラーモード** | SVG シェイプの色付け方法を定義します。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> ランダム：</strong>各UV シェルは、ランダムな色で色付けされます。</li><li data-preserve-html="true"><strong>HUE Shift:</strong>各UV シェルは、一意の色相値で色付けされます。</li><li data-preserve-html="true"><strong> グレースケール：</strong>各UV シェルは、一意のグレースケール値で色付けされます。</li><li data-preserve-html="true"><strong>均一なカラー：</strong>すべてのUV シェルは、50%のグレー値で色付けされます。</li><li data-preserve-html="true"><strong> マテリアル ID カラー</strong>:UV シェルは、シーン ビューで定義されたマテリアル カラーでカラー設定されます。</li></ul> |
+| **パディング** | SVGのシェイプに追加する幾何学的パディングの量を制御します。 |
+| **カラーモード** | SVGの形状に色を付ける方法を指定します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>ランダム：</strong>各UVシェルはランダムな色で色付けされます。</li><li data-preserve-html="true"><strong>色相のシフト:</strong>各UVシェルは、固有の色相値で色付けされます。</li><li data-preserve-html="true"><strong>グレースケール：</strong>各UVシェルは固有のグレースケール値で色付けされます。</li><li data-preserve-html="true"><strong>均一な色：</strong>すべてのUVシェルは50%グレー値で色付けされます。</li><li data-preserve-html="true"><strong>マテリアルIDカラー</strong>: UVシェルは、[シーンビュー]で定義されたマテリアルカラーによって色付けされます。</li></ul> |

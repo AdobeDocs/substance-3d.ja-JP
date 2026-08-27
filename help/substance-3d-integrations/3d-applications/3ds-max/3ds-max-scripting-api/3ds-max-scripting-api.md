@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
 breadcrumb-title: ''
-description: マテリアルオペレーションを自動化するための3ds Max SubstanceスクリプティングAPIのリファレンスドキュメント。
+description: マテリアルオペレーションを自動化するための3ds Max SubstanceスクリプトAPIのリファレンスドキュメントです。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > 3ds MAX Scripting API
 helpx_experience_level: ""
@@ -32,11 +32,11 @@ ht-degree: 2%
 
 | コマンド | 説明 | Return | 戻り値のタイプ： | パラメーター |
 | --- | --- | --- | --- | --- |
-| getCurrentPackageName | ロードされたパッケージのベースファイル名を取得します（グラフノードにロードされたsbsarファイル） | ロードされたパッケージ（sbsarファイル）のファイル名（接頭辞付きディレクトリなし） | 文字列 |  |
+| getCurrentPackageName | ロードされたパッケージのベースファイル名を取得します（sbsar ファイルはグラフノードにロードされます） | 読み込まれたパッケージ(sbsar ファイル)のファイル名（接頭辞付きディレクトリなし） | 文字列 |  |
 | getCurrentGraphName | 現在のグラフの名前を取得する | 現在のグラフインスタンスの識別子 | 文字列 |  |
 | getOutputsNamesFromCurrentGraph | 有効な出力の出力使用名のリストを取得します | 有効な出力のチャンネル名のリストを含む表 | リスト |  |
-| getPresetIdentities | Substanceグラフからプリセットのリストを取得 | すべてのプリセットの文字列識別子のリストを示す表 | リスト |  |
-| setPackageAndGraphNames | ディスクからグラフノードにsbsarファイルをロードします。 | 成功の場合はTrue、失敗の場合はFalse | ブーリアン | ***文字列パラメーター***: **substancePackageFilePath**&#x200B;ディスク上のsbsarファイルへのパス&#x200B;***文字列パラメーター***: **graphInstanceNameToSelect**&#x200B;グラフの文字列識別子 |
+| getPresetIdentities | グラフからのプリセットのリストの取得 | すべてのプリセットの文字列識別子のリストを示す表 | リスト |  |
+| setPackageAndGraphNames | ディスクからグラフ・ノードへのsbsar ファイルのロード | 成功の場合はTrue、失敗の場合はFalse | ブーリアン | ***文字列パラメーター***: **substancePackageFilePath**&#x200B;ディスク上のsbsarファイルへのパス&#x200B;***文字列パラメーター***: **graphInstanceNameToSelect**&#x200B;グラフの文字列識別子 |
 | setInputInt | 整数入力を新しい値で設定します |  |  | ***整数パラメーター***: **値**&#x200B;入力を設定する整数値&#x200B;***文字列パラメーター***: **inputIdentifier**&#x200B;入力の一意の文字列識別子 |
 | setInputFloat | 新しい値を使用したfloat入力の設定 |  |  | ***Floatパラメーター***: **value**&#x200B;入力を設定するFloat値&#x200B;***Stringパラメーター***: **inputIdentifier**&#x200B;入力の一意の文字列識別子 |
 | setInputString | 新しい値で文字列入力を設定する |  |  | ***文字列パラメーター***: **value**&#x200B;入力を設定する文字列値&#x200B;***文字列パラメーター***: **inputIdentifier**&#x200B;入力の一意の文字列識別子 |
@@ -44,9 +44,9 @@ ht-degree: 2%
 | setInputVec2 | 2つの要素を使用したベクトル入力の設定 |  |  | ***Point2パラメーター：**&#x200B;***value**&#x200B;入力を設定するための最大point2値&#x200B;***Stringパラメーター&#x200B;***: **inputIdentifier**&#x200B;入力の一意の文字列識別子 |
 | setInputVec3 | 3つの要素によるベクトル入力の設定 |  |  | ***Point3パラメーター：*&#x200B;値&#x200B;**&#x200B;入力を設定するための最大point3値&#x200B;***Stringパラメーター&#x200B;***: **inputIdentifier**&#x200B;入力の一意の文字列識別子 |
 | setInputVec4 | 4つの要素によるベクトル入力の設定 |  |  | ***Point4パラメーター***: **value**&#x200B;入力を設定するための最大point4値&#x200B;***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
-| setInputColor | 新しい値を使用したカラー入力の設定 |  |  | ***色パラメーター***: **値**&#x200B;入力を設定する最大色値&#x200B;***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
+| setInputColor | 新しい値を使用したカラー入力の設定 |  |  | ***色パラメーター***: **値**&#x200B;入力を設定するための最大色値&#x200B;***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
 | setInputComboSelection | コンボボックス入力の現在選択されている値を設定する |  |  | ***整数パラメーター***: **値**&#x200B;コンボボックスウィジェットのインデックス&#x200B;***文字列パラメーター***: **inputIdentifier**&#x200B;入力の一意の文字列識別子 |
-| getInputInt | 整数入力タイプの入力値を取得する | 入力の現在整数値 | 整数 | ***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
+| getInputInt | 整数入力タイプの入力値を取得する | 入力の現在の整数値 | 整数 | ***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
 | getInputFloat | float入力タイプの入力値を取得する | 入力の現在の浮動小数値 | 浮動小数 | ***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
 | getInputString | 文字列入力型の入力値を取得する | 入力の現在の文字列値 | 文字列 | ***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |
 | getInputBool | ブール型の入力タイプの入力値を取得する | 入力の現在のブール値 | ブーリアン | ***文字列パラメーター：* inputIdentifier &#x200B;** 入力の一意の文字列識別子 |

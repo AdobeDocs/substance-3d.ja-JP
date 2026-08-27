@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/corona.html"
 breadcrumb-title: ''
-description: 3ds MaxでSpecular/光沢ワークフローと必要なマップを使用して、コロナレンダラーでSubstanceマテリアルを使用します。
+description: 3ds Maxのコロナレンダラで、Specular/光沢度のワークフローと必要なマップを使用してSubstanceマテリアルを行います。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Corona
 helpx_experience_level: ""
@@ -27,11 +27,11 @@ Coronaを使用したレンダリングでは、Substance PainterまたはSubsta
 * グロシネス
 * 1/IOR （変換済み）
 
-1/IORマップは、Substance DesignerとSubstance Painterの両方で既定のワークフローであるメタリック/粗さワークフローからのみ変換できます。
+1/IORマップは、Substance DesignerとSubstance Painterの両方で既定のワークフローであるメタリック/ラフネスワークフローからのみ変換できます。
 
 1. 「コロナ」プリセットを使用して、Substance Painterからマップを書き出します。
-1. カスタムSubstanceの場合は、Vrayプリセットに設定されたbasecolor\_metallic\_roughness変換ノードを使用して、カスタム出力を作成できます。
-1. 3ds MaxとCinema 4Dの場合は、レイヤコロナマテリアルを使用して金属および誘電体マテリアルを扱い、1/IORマップを変換する必要はありません。
+1. カスタムSubstanceの場合は、Vrayプリセットに変換されたbasecolor\_メタリック\_nodeを使用してカスタム出力を作成できます。
+1. 3ds MaxとCinema 4Dの場合は、レイヤコロナマテリアルを使用して金属と誘電体のマテリアルを処理し、1/IORマップを変換する必要はありません。
 
 ## 目次
 

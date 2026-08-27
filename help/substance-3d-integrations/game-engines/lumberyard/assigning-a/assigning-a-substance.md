@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
 breadcrumb-title: ''
-description: 他のマテリアルと同様に、[マテリアルエディタ]を使用して、LumberyardのオブジェクトにSubstanceマテリアルを割り当てます。
+description: 他のマテリアルと同様に、Substanceエディタを使用して、Lumberyardのオブジェクトにマテリアルマテリアルを割り当てます。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Lumberyard > Assigning a Substance
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Substanceの割り当て
 
-Lumberyardの他のマテリアルと同様に、マテリアルエディタを使用してSubstanceマテリアルを割り当てます。
+Lumberyardの他のマテリアルと同様に、マテリアルエディタを使用してSubstance マテリアルを割り当てます。
 
-1. [マテリアルエディタ]ボタンをクリックしてエディタを開き、マテリアルファイルをコピーしたマテリアルフォルダ内の場所に移動します。
-1. オブジェクトとマテリアルを選択してから、[マテリアルエディタ]の上部にある[選択したオブジェクトに項目を割り当て]ボタンをクリックします。
+1. 「マテリアルエディター」ボタンをクリックしてエディターを開き、マテリアルフォルダー内でsubstanceファイルをコピーした場所に移動します。
+1. オブジェクトとマテリアルを選択し、マテリアルエディタの上部にある「選択したオブジェクトにアイテムを割り当て」ボタンをクリックします。
 
 ![](../../../assets/assign-7.png)
