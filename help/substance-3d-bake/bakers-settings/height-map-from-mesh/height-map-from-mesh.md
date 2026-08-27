@@ -30,5 +30,5 @@ ht-degree: 8%
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| ****正規化**** | Heightの値の範囲をテクスチャに保存する方法を定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>レイ距離に対する相対</strong>:</li><li data-preserve-html="true"><strong>ローポリメッシュを基準（UVタイル単位）</strong> （デフォルト）</li><li data-preserve-html="true"><strong>最小/最大を基準（UVタイル単位）</strong></li><li data-preserve-html="true"><strong>マニュアル</strong></li></ul> |
+| **&#x200B;**&#x200B;正規化&#x200B;**&#x200B;** | Heightの値の範囲をテクスチャに保存する方法を定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>レイ距離に対する相対</strong>:</li><li data-preserve-html="true"><strong>ローポリメッシュを基準（UVタイル単位）</strong> （デフォルト）</li><li data-preserve-html="true"><strong>最小/最大を基準（UVタイル単位）</strong></li><li data-preserve-html="true"><strong>マニュアル</strong></li></ul> |
 | **縮尺除数** | Heightの値を乗算または除算する量を指定します。**正規化**&#x200B;が&#x200B;**手動**&#x200B;に設定されている場合にのみ使用できます。 |
