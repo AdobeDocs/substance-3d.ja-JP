@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds MaxのArnoldレンダラーでSubstance マテリアルを使用するには、Substanceプラグインと標準サーフェスマテリアルを使用します。
 helpx_creative_field: ""

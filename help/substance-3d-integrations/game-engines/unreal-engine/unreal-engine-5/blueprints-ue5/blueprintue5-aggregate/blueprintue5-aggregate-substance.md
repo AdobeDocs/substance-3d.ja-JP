@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate-substance.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate-substance.html"
 breadcrumb-title: ''
 description: Unreal Engine 5では、高度なワークフローを実現するBlueprint集計ノードを使用して、実行時に複数のSubstanceマテリアルを組み合わせることができます。
 helpx_creative_field: ""

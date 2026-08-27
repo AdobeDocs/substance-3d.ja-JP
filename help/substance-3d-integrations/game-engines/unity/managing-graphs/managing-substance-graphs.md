@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
 breadcrumb-title: ''
 description: UnityプロジェクトでSubstanceグラフを読み込み、整理、管理して、効率的なワークフローを実現する方法を学びます。
 helpx_creative_field: ""

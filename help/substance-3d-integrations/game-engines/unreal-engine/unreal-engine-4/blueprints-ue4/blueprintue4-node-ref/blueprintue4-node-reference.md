@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-reference.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-reference.html"
 breadcrumb-title: ''
 description: アンリアルエンジン 4でマテリアルオペレーションに使用できるすべてのSubstanceブループリントノードのリファレンスガイドです。
 helpx_creative_field: ""

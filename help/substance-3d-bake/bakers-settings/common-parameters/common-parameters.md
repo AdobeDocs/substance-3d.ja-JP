@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/common-parameters.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
 description: すべてのベイカーに適用される一般的なパラメーターと、最適なテクスチャ生成ができるように設定する方法について説明します。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 1%
 | **アンチエイリアス** | アンチエイリアスを制御します。これにより、ベイク処理されたテクスチャの品質が向上し、さまざまなジオメトリが接続する部分のエイリアスが減少します。エイリアスの詳細については、[UVシームでのエイリアス](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)および[Wikipediaでのエイリアス](https://en.wikipedia.org/wiki/Aliasing)を参照してください。利用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>なし</strong> （既定）</li><li data-preserve-html="true"><strong>サブサンプリング2x2</strong></li><li data-preserve-html="true"><strong>サブサンプリング4x4</strong></li><li data-preserve-html="true"><strong>サブサンプリング8x8</strong></li></ul>  **注意：**&#x200B;アンチエイリアスを有効にすると、テクスチャの解像度を上げて計算し、選択した元のサイズにダウンスケールするので、ベイク処理にかかる時間が大幅に長くなります。 つまり、2x2サブサンプリングを使用した2Kテクスチャは、実際には4Kテクスチャを計算します。場合によっては、サブサンプルを増やすよりもパン屋の光線数を増やすほうが好ましい場合があります。 あまり長く待つことなく、より良い結果を得ることができます。 |
 | **UVセット** | ベイク処理されたテクスチャの計算に使用するローポリメッシュのUVを制御します。*Substance Painterで使用できません。* |
 |  |  |
-| **膨張(px)** | UVの外側または境界のピクセルを、指定されたピクセルの量だけ拡張または拡張します。 この操作により、境界がテクスチャピクセルに完全に位置合わせされていない場合、またはテクスチャ解像度が低い場合（例：ミップマップ）に、UV境界の継ぎ目を避けることができます。 これは、ベイクプロセスの後に適用されるポストプロセスです。 パディングと呼ばれることもあります。拡張の詳細については、[UVシーム上のエイリアス](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)および[パディング](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)を参照してください。 |
+| **膨張(px)** | UVの外側または境界のピクセルを、指定されたピクセルの量だけ拡張または拡張します。 この操作により、境界がテクスチャピクセルに完全に位置合わせされていない場合、またはテクスチャ解像度が低い場合（例：ミップマップ）に、UV境界の継ぎ目を避けることができます。 これは、ベイクプロセスの後に適用されるポストプロセスです。 パディングと呼ばれることもあります。拡張の詳細については、[UVシーム上のエイリアス](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)および[パディング](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)を参照してください。 |
 | **誤差拡散法を適用** | 有効にすると、UVの外側は、UV境界に基づく滑らかなグラデーションカラーで塗りつぶされます。 このプロセスにより、テクスチャのサイズを小さくしても安定した状態が保たれ、目に見えすぎる継ぎ目（例： mipmaps）が生じなくなります。 これは、ベイクプロセスの後に適用されるポストプロセスです。 |
 | **平均法線** | このオプションが有効な場合、ベイク処理のメッシュマッチング処理中にレイを送信する方向を知るために頂点の平均法線を計算します。 無効にすると、レイはメッシュの元の頂点法線に従います。 |
 

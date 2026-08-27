@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux/faq.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/ecosystem/substance-for-linux/faq.html"
 breadcrumb-title: ''
 description: Substance 3Dライセンスの管理や、AdobeのDownload Accessポータルからのソフトウェアのアクセスに関するよくある質問への回答を参照してください。
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ ADAポータルは、ライセンスと資格認定を管理するための中�
 
 
 
-別の種類のエラーが発生した場合は、[弊社のエンタープライズサポートにお問い合わせください](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
+別の種類のエラーが発生した場合は、[弊社のエンタープライズサポートにお問い合わせください](https://helpx.adobe.com/jp/enterprise/using/support-for-enterprise.html)。
 
 
 
@@ -118,20 +118,20 @@ ADAポータルは、ライセンスと資格認定を管理するための中�
 
 * 「検索」をクリックします。
 
-[LWSの詳細については、こちらを参照してください](https://helpx.adobe.com/x-productkb/policy-pricing/volume-licensing-site.html)。
+[LWSの詳細については、こちらを参照してください](https://helpx.adobe.com/jp/x-productkb/policy-pricing/volume-licensing-site.html)。
 
 
 
 +++
 
 +++さらにサポートが必要な場合の問い合わせ先を教えてください。
-さらにサポートが必要な場合は、エンタープライズサポートチームにお問い合わせください。 管理者は、[AdobeのAdmin Consoleにログインし、サポートケースを開く](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)必要があります。
+さらにサポートが必要な場合は、エンタープライズサポートチームにお問い合わせください。 管理者は、[AdobeのAdmin Consoleにログインし、サポートケースを開く](https://helpx.adobe.com/jp/enterprise/using/support-for-enterprise.html)必要があります。
 
 さらにサポートが必要な場合は、AdobeのCSMに連絡してください。
 
 +++
 
 +++ADAのライセンスキーファイルを使用してソフトウェアをライセンス認証できません。
-[ライセンス認証の詳細な手順については、こちらを参照してください](../../../ecosystem/for-linux/substance-for-linux.md)。 問題が解決しない場合は、[エンタープライズサポートチームにお問い合わせください](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
+[ライセンス認証の詳細な手順については、こちらを参照してください](../../../ecosystem/for-linux/substance-for-linux.md)。 問題が解決しない場合は、[エンタープライズサポートチームにお問い合わせください](https://helpx.adobe.com/jp/enterprise/using/support-for-enterprise.html)。
 
 +++

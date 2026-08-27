@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-3.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-3.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正について詳しくは、 Unreal Engine 4プラグインバージョン4.25.0.3のリリースノートを確認してください。
 helpx_creative_field: ""

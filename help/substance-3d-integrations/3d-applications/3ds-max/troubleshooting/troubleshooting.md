@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
 breadcrumb-title: ''
 description: スクリプトリスナーを使用して3ds MaxのSubstanceプラグインに関する問題を診断し、解決します。
 helpx_creative_field: ""

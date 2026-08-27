@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/lumberyard.html"
 breadcrumb-title: ''
 description: マテリアルワークフローのネイティブプラグインサポートを使用して、Amazon LumberyardゲームエンジンでSubstanceのマテリアルを使用します。
 helpx_creative_field: ""

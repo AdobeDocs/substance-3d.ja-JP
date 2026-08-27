@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: 3Dワークフローで、Arnold、V-Ray、Redshiftなどの主要なレンダラーを使用したSubstanceマテリアルを使用します。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 例えば、ArnoldまたはVray Nextでは、メタリック/ラフネス出力を直接使用できます。 ただし、RendermanのpxrSurfaceでは、ベースカラー/メタリック出力を拡散反射光およびSpecular面の色に変換する必要があります。 レンダラーがサポートされている場合は、Substance統合プラグインによってこれらの変換が自動的に処理されます。
 
-Substance Painterを使用すると、特定のレンダラーに必要な適切なマップの種類を作成する[出力テンプレート](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)を選択できます。 レンダラーがデフォルトでサポートされていない場合は、カスタム出力テンプレートを作成することもできます。
+Substance Painterを使用すると、特定のレンダラーに必要な適切なマップの種類を作成する[出力テンプレート](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)を選択できます。 レンダラーがデフォルトでサポートされていない場合は、カスタム出力テンプレートを作成することもできます。
 
 **出力テンプレート**
 

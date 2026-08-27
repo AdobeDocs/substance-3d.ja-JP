@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/custom-materials.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/custom-materials.html"
 breadcrumb-title: ''
 description: 特殊なワークフロー用のSubstanceプラグインを使用して、MODOでUnreal、Unity、およびglTFカスタムマテリアルを使用します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/how-to-export-the-baked-maps.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/how-to-export-the-baked-maps.html"
 breadcrumb-title: ''
 description: ベイクドテクスチャをSubstance DesignerおよびPainterから書き出して、他のアプリケーションで使用する方法について説明します。
 helpx_creative_field: ""

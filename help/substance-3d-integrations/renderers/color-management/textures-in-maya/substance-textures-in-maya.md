@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
 breadcrumb-title: ''
 description: 正確なカラーマネジメントとレンダリングを行うために、Mayaのテクスチャのカラースペース設定を行います。
 helpx_creative_field: ""

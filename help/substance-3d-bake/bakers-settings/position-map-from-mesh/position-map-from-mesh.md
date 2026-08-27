@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
 breadcrumb-title: ''
 description: 高ポリゴンメッシュから正確な位置マップを計算して、正確なジオメトリ位置情報をキャプチャします。
 helpx_creative_field: ""

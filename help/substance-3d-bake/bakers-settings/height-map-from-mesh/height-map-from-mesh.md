@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
 breadcrumb-title: ''
 description: ハイポリゴンメッシュからHeightマップを作成し、テクスチャリング用にサーフェスのディテールとジオメトリ情報をキャプチャします。
 helpx_creative_field: ""

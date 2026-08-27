@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: ハードウェアアクセラレーション対応GPU レイトレーシングを有効にすると、ベイク計算が25倍以上高速化され、ワークフローが高速化されます。
 helpx_creative_field: ""

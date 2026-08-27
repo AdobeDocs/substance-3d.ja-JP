@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
 description: マテリアルとテクスチャ解像度を調整して、Unityのモバイルプラットフォーム向けのSubstance設定を最適化します。
 helpx_creative_field: ""

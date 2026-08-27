@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
 description: マテリアルにテクスチャ座標テクスチャとスカラーパラメータを追加して、Substanceノードを非現実エンジン 5で並べて表示します。
 helpx_creative_field: ""

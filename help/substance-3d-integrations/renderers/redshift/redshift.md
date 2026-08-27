@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
 description: メタリックワークフローのサポートなど、Mayaと3ds MaxでRedshiftレンダラとSubstanceマテリアルを使用します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/asm-specifications.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/adobe-standard-material/asm-specifications.html"
 breadcrumb-title: ''
 description: マテリアルモデルの構造を理解するには、Adobe Standard Materialの仕様書をすべてダウンロードしてレビューします。
 helpx_creative_field: ""

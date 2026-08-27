@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: 法線テクスチャのファセットの外観を修正するには、メッシュ法線をスムージングし、スムージンググループの設定を調整します。
 helpx_creative_field: ""

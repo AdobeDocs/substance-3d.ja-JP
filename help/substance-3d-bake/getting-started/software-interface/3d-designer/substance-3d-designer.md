@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Substance 3D Designerのベイクウィンドウにアクセスして使用し、モデル情報をテクスチャにベイクする方法を説明します。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-ベイクウィンドウには、[エクスプローラー](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)ウィンドウのメッシュファイルを使用してアクセスできます。 メッシュ名を右クリックして「**モデル情報をベイク処理**」を選択し、ベイク処理ウィンドウを開きます。
+ベイクウィンドウには、[エクスプローラー](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)ウィンドウのメッシュファイルを使用してアクセスできます。 メッシュ名を右クリックして「**モデル情報をベイク処理**」を選択し、ベイク処理ウィンドウを開きます。
 
 ## 概要
 

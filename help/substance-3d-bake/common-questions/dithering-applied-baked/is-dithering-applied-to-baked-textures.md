@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
 breadcrumb-title: ''
 description: ディザリングがベイクされたテクスチャに適用されるかどうか、およびデータがテクスチャの質にどのような影響を与えるかを理解します。
 helpx_creative_field: ""

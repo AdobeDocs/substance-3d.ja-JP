@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
 breadcrumb-title: ''
 description: Substance PainterとMaverickレンダラーを統合することで、シームレスなマテリアルワークフローと製品のビジュアル化を実現します。
 helpx_creative_field: ""

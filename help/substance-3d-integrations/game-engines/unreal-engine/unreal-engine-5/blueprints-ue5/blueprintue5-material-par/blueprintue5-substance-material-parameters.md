@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Unreal Engine 5では、動的なマテリアルコントロールのためのBlueprintノードを使用して、実行時にSubstanceマテリアルパラメーターを変更します。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## フロートパラメータを変更する：
 
-[入力浮動小数点の設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)を使用して、float、color(float4)、およびブール型substanceパラメーターを変更します。
+[入力浮動小数点の設定](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)を使用して、float、color(float4)、およびブール型substanceパラメーターを変更します。
 
 1. 「変数インスタンス」という型を参照としてSubstance グラフを作成します。\
    \**これを行うには、[My Blueprint]タブに変数を追加し、名前を付けます。 ドロップダウンで、Substance グラフインスタンス/オブジェクト参照を検索します。 変数をグラフにドラッグし、「取得」（変数名）を選択します。 [詳細]タブの[既定値]セクションでSubstance グラフインスタンスを設定します。*

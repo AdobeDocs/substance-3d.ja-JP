@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
 breadcrumb-title: ''
 description: SubstanceがUnityでテクスチャを生成する方法と、最適なシェーダ入力のためのテクスチャパッキングを設定する方法について説明します。
 helpx_creative_field: ""
