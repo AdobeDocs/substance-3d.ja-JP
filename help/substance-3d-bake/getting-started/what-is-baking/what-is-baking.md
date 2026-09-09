@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
+helpx_url: 'https://helpx.adobe.com/jp/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
 description: ベイク処理とは何かを知り、Substanceマテリアルを向上させるために3D メッシュ情報をテクスチャファイルに保存する方法を学びます。
 helpx_creative_field: ''
