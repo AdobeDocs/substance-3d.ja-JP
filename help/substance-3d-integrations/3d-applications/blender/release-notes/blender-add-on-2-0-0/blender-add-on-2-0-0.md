@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正について詳しくは、 Blenderアドオンバージョン2.0.0のリリースノートを確認してください。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-24-0-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-24-0-3.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正について詳しくは、 Unreal Engine 4プラグインバージョン4.24.0.3のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # アンリアルプラグイン4.24.0.3
 
-Unreal EngineのSubstanceは大幅なリストラクチャリングを経ています。 この再構築の一部では、**UTexture2D**&#x200B;の完全なサポートが提供され、入力と出力の両方が含まれています。 **UTexture2D**&#x200B;のサポートにより、このプラグインを使用して、モバイルを含むUnrealサポートの任意のプラットフォームにパブリッシュできるようになりました。 **UTexture2D**&#x200B;では、複数のプラットフォームのサポートが追加されたことに加え、UE4内でテクスチャストリーミングシステムをネイティブに使用することもできます。
+UnrealエンジンのSubstanceは、大幅なリストラクチャリングを経ています。 この再構築の一部では、**UTexture2D**&#x200B;の完全なサポートが提供され、入力と出力の両方が含まれています。 **UTexture2D**&#x200B;のサポートにより、このプラグインを使用して、モバイルを含むUnrealサポートの任意のプラットフォームにパブリッシュできるようになりました。 **UTexture2D**&#x200B;では、複数のプラットフォームのサポートが追加されたことに加え、UE4内でテクスチャストリーミングシステムをネイティブに使用することもできます。
 
-このプラグインでは、マテリアル&#x200B;**インスタンス化**&#x200B;も完全にサポートされ、Substance engineでサポートされている数値出力を含む新しいマテリアルテンプレートワークフローが導入されています。 マテリアルテンプレートを使用すると、UE4でのSubstanceマテリアルシェーダの設定方法を正確に定義できます。
+このプラグインは、マテリアル **インスタンス化**&#x200B;の完全なサポートも提供し、Substance engineがサポートする数値出力を備えた新しいマテリアルテンプレートワークフローを導入します。 マテリアルテンプレートを使用すると、UE4でのSubstanceマテリアルシェーダの設定方法を正確に定義できます。
 
 ![](../../../../../assets/ue4-material-templates.png)
 

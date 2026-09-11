@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: ベイカーの非推奨曲率のリファレンス。 代わりに、ベイカーの更新された曲率を使用してください。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # メッシュからの曲率（非推奨）
 
-メッシュベイカーの曲率は、ハイポリメッシュから曲率テクスチャを生成します。 ベースの[曲率](../../bakers-settings/curvature/curvature.md)ベイカーよりも低速ですが、より正確な結果が得られます。
+ベイカーからの曲率は、高ポリメッシュから曲率テクスチャを発生させる。 基本の[曲率](../../bakers-settings/curvature/curvature.md)ベイカーよりも低速ですが、より正確な結果が得られます。
 
 **使用可能：**
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Substance Designer 2019.3以降、このベイカーは非推奨となり、代わりにメッシュ[&#128279;](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md) ベイカーの新しい曲率を使用することをお勧めします。
+> Substance Designer 2019.3以降、このベイカーは非推奨となり、代わりにメッシュ](../../bakers-settings/curvature-from-mesh/curvature-from-mesh.md) ベイカーの新しい[曲率を使用することをお勧めします。
 
 ## パラメーター
 

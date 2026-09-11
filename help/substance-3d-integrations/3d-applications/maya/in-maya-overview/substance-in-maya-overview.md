@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
 breadcrumb-title: ''
-description: MayaのSubstanceプラグインと、ワークフローでSubstanceマテリアルをインポートおよび使用する方法について説明します。
+description: MayaのSubstanceプラグインと、ワークフローでSubstance マテリアルをインポートおよび使用する方法について説明します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Substance in Maya Overview
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## プラグインの概要
 
-Substanceプラグインを使用すると、Substance Designerで作成したSubstanceマテリアルをMayaに直接ロードできます。 プラグインはMayaマテリアルを作成し、マテリアルチャンネルの入力にSubstanceテクスチャを供給します。 その後、Substanceパラメーターを変更すると、テクスチャが自動的に更新されます。
+Substanceプラグインを使用すると、Substance Designerで作成したSubstance マテリアルを直接Mayaにロードできます。 このプラグインはMaya マテリアルを作成し、substance テクスチャをマテリアルチャンネルの入力に送ります。 その後、substanceパラメーターに変更を加えると、テクスチャが自動的に更新されます。
 
 >[!NOTE]
 >
@@ -36,16 +36,16 @@ Substanceプラグインを使用すると、Substance Designerで作成したSu
 
    ![](../../../assets/createnode.png)
 
-   ノードエディターのtabを押して、テキストフィールドに「substance」と入力すると、substanceオプションにフィルターされます。 オプションから、「Substanceテクスチャ」を選択します。
+   ノードエディターのtabを押して、テキストフィールドに「substance」と入力すると、substanceオプションにフィルターされます。 オプションから、「テクスチャ」を選択します。
 1. Substanceノードを選択し、プロパティーエディタで参照してSubstance (.sbsar)ファイルを読み込みます。
 
    ![](../../../assets/1.png)
-1. Substanceに複数のグラフが含まれている場合は、「選択したグラフ」ドロップダウンが表示されます。 選択したグラフは、マテリアルの作成に使用されます。
-1. 「グラフ情報」ボタンをクリックすると、Substance Designerで設定されたグラフの属性が表示されます。
+1. Substanceに複数のグラフが含まれている場合は、「選択したグラフ 」ドロップダウンが表示されます。 選択したグラフは、マテリアルの作成に使用されます。
+1. 「グラフ情報」ボタンをクリックすると、Substance Designerに設定されているグラフ属性が表示されます。
 1. 幅とHeightのドロップダウンボックスから値を選択して、解像度を設定します。 ロック比率はデフォルトで有効になっています。
-1. Substance出力をディスクにベイク処理し、Arnoldなどのレンダラーで使用できるようにするには、[キャッシュ出力をディスクにベイク]を有効にします。 キャッシュされたファイルは、プラグインがMayaファイルノードを使用して読み取り戻します。
+1. ディスクへのキャッシュ出力を有効にして、Substance出力をディスクにベイクし、Arnoldなどのレンダラーで使用できるようにします。 キャッシュされたファイルは、プラグインがMayaファイルノードを使用して読み取り戻します。
 
    ![](../../../assets/outputsettings.png)
-1. 使用しているレンダラのワークフローを選択し、 Create Shader Networkボタンをクリックします。 レンダラーワークフロー用にシェーダネットワークが作成されます。 これで、シーンでマテリアルを適用できます。
+1. 使用しているレンダラーのワークフローを選択し、「 シェーダーネットワークを作成」ボタンをクリックします。 レンダラーワークフロー用にシェーダーネットワークが作成されます。 これで、シーンでマテリアルを適用できます。
 
    ![](../../../assets/createnetwork.gif){width="1000px"}

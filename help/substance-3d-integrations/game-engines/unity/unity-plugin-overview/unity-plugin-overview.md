@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
 breadcrumb-title: ''
 description: バージョンのサポート、機能、統合機能を含む、Unity用Substance 3Dプラグインについて説明します。
 helpx_creative_field: ""

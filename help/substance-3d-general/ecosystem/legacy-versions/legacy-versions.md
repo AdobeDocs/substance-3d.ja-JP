@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/ecosystem/legacy-versions.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/legacy-versions.html"
 breadcrumb-title: ''
 description: 以前のライセンスキーファイルアクティベーションシステムを使用するSubstance 3Dアプリケーションのレガシーバージョンにアクセスします。
 helpx_creative_field: ""

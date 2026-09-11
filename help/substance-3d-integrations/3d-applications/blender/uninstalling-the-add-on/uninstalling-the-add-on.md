@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
 breadcrumb-title: ''
 description: 環境設定メニューを使用して、Substance 3DアドオンをBlenderから適切にアンインストールする方法について説明します。
 helpx_creative_field: ""

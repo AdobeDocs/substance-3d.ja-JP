@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
-description: MODOのSubstanceのマテリアルパラメーターをSubstanceのプロパティパネルで変更して、マテリアルをカスタマイズします。
+description: MODOのマテリアルパラメーターをSubstanceプロパティパネルで変更し、マテリアルをカスタマイズします。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Parameters
 helpx_experience_level: ""
@@ -36,13 +36,13 @@ Substanceには一連のコアパラメーターがあります。コアパラ�
 * **プリセットの読み込み：**&#x200B;プリセットを読み込んで、Substanceの微調整パラメーターを構成できます。 プリセットは、Substance Playerを使用して作成できます。 プリセットファイルのファイルタイプは.sbsprsです。 プリセットを読み込んだら、プリセットドロップダウンをクリックしてプリセットを選択する必要があります。.sbsprには複数のプリセットが含まれている場合があります。
 * **プリセットの保存：**&#x200B;プリセットを保存できます
 * **プリセットを選択：** Substanceファイルに埋め込まれたプリセット、またはMODO内に保存されたプリセットから埋め込まれたプリセットを選択できます。
-* **ディスクにベイク：**&#x200B;このパラメーターは、Substanceによって生成されたテクスチャをビットマップファイルにベイクします。
-* **出力サイズ：**&#x200B;このパラメーターは、設定されたサイズに合わせてテクスチャのサイズを動的に変更します。 Substance engineは、テクスチャを適切なサイズに再生成します。
-* **ランダムシード：**&#x200B;このパラメーターは、Substanceの手続き型の生成を変更します。 このパラメーターは、同じSubstanceのランダム化されたバージョンを作成する場合に便利です。 これにより、Substanceパラメーターをすばやく変更して、新しいバージョンのテクスチャを作成できます
+* **ディスクへのベイク:**&#x200B;このパラメーターは、Substanceによって生成されたテクスチャをビットマップファイルにベイクします。
+* **出力サイズ：**&#x200B;このパラメーターは、サイズセットに合わせてテクスチャのサイズを動的に変更します。 Substance engineによって、テクスチャが適切なサイズに再生成されます。
+* **ランダムシード：**&#x200B;このパラメーターは、Substanceのプロシージャルの生成を変更します。 このパラメーターは、同じSubstanceのランダム化されたバージョンを作成する場合に便利です。 これにより、Substanceパラメーターをすばやく変更して、テクスチャの新しいバージョンを作成できます
 
 ## 出力
 
-「出力」オプションを使用すると、Substance出力を有効または無効にできます。 出力は、Substance engineによって生成され、シェーダツリーにテクスチャとしてレンダリングされます。
+「出力」オプションを使用すると、Substance出力を有効または無効にできます。 出力は、Substance engineによって生成され、シェーダーツリー内のテクスチャとしてレンダリングされます。
 
 ![](../../../assets/outputs-02.png){width="300px"}
 

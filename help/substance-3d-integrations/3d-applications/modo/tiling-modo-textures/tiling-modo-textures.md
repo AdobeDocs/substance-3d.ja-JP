@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
-description: MODOでSubstanceテクスチャのタイリングプロパティを調整するには、横回りと縦回りの設定を行います。
+description: MODOでテクスチャタイリングのプロパティを変更するには、横回りと縦回りを設定します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Tiling Modo textures
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Modoテクスチャをタイリング
 
-Substanceテクスチャのプロパティは、MODOのテクスチャと同じように調整できます。 テクスチャを並べて表示するには、水平方向と垂直方向の回り込みを設定します。
+テクスチャのプロパティは、MODOの他のテクスチャと同じように調整できます。 テクスチャを並べて表示するには、水平方向と垂直方向の回り込みを設定します。
 
 ![](../../../assets/wrap-1.png)

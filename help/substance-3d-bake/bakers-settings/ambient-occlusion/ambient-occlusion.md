@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: ベイカーを使用して、高速なGPUアクセラレーションアルゴリズムにより環境シャドウテクスチャを生成する方法について説明します。
 helpx_creative_field: ""

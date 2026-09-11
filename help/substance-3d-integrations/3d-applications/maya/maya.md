@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
-description: MayaのSubstanceプラグインをインストールして使用し、Substanceマテリアルをインポートしてワークフローに統合します。
+description: MayaのSubstanceプラグインをインストールして使用し、Substance マテリアルをインポートしてワークフローに統合します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya
 helpx_experience_level: ""
@@ -36,4 +36,4 @@ ht-degree: 3%
 * [Arnoldサポート](../../3d-applications/maya/arnold-support/arnold-support.md)
 * [ワークフローをマップに適用](../../3d-applications/maya/apply-workflow-to-maps/apply-workflow-to-maps.md)
 * [Mayaスクリプティング](../../3d-applications/maya/maya-scripting/maya-scripting.md)
-* [Mayaの物理サイズ](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/232292481.html)
+* [Mayaの物理サイズ](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/232292481.html)

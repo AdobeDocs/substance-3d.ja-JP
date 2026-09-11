@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4.html"
 breadcrumb-title: ''
 description: Unreal エンジン 4でSubstanceマテリアルをインポートし、使用する方法については、Substanceプラグイン概要ガイドをご覧ください。
 helpx_creative_field: ""

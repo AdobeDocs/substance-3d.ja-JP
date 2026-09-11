@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: MODOで法線マップの向きを設定し、Substanceマテリアルを使用して法線マップを正しくレンダリングできるようにします。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 法線データを使用する – 正しい方向を設定する
 
-ストックSubstanceは、DX法線方向を使用するように作成されています。 ただし、MODOはOGLを使用します。 法線を反転するには、[法線の形式]パラメータを1.0に設定します。 Substanceプラグインは、Substanceで設定されたパラメーターのみを解釈します。 このコントロールをカスタムSubstanceに追加するのはSubstanceの作成者の責任であるため、「normal\_format」パラメーターを持たないSubstanceが発生する可能性があります。 このパラメータを持たないSubstanceが発生した場合は、法線マップのテクスチャレイヤの緑チャンネルをフリップして方向を固定できます。
+ストックSubstanceは、DX法線方向を使用するように作成されています。 ただし、MODOはOGLを使用します。 法線を反転するには、[法線の形式]パラメータを1.0に設定します。 Substanceプラグインは、Substanceで設定されたパラメーターのみを解釈します。 このコントロールをカスタムSubstanceに追加するのはSubstanceの作成者の責任であるため、「normal\_format」パラメーターを持たないSubstanceが発生する可能性があります。 このパラメーターが設定されていないSubstanceが発生した場合は、法線マップのテクスチャレイヤーで緑のチャンネルを反転して、方向を固定できます。
 
 >[!NOTE]
 >

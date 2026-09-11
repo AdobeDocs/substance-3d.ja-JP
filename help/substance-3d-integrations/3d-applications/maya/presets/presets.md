@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/presets.html"
 breadcrumb-title: ''
 description: Substanceファイルに埋め込まれたプリセットを管理するか、Mayaで新しいプリセットを作成してパラメータ設定を保存します。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # プリセット
 
-プリセットセクションでは、Substanceのsbsarファイルに含まれている埋め込みプリセットを完全に管理したり、新しいプリセットを作成したりできます。
+「プリセット」セクションでは、sbsar ファイルに含まれている埋め込みプリセットを完全に管理したり、新しいプリセットを作成したりできます。
 
 ![](../../../assets/presets-15.png)
 

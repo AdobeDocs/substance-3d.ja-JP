@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-3-2.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正について詳しくは、アンリアルエンジン 5プラグインバージョン5.3.2のリリースノートを参照してください。
 helpx_creative_field: ""

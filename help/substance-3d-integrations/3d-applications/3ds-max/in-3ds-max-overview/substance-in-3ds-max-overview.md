@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ''
-description: 3ds Max用のSubstanceプラグインと、Substanceマテリアルをプロジェクトに読み込んで使用する方法について学習します。
+description: 3ds MaxのSubstanceプラグインと、Substance マテリアルをプロジェクトに読み込んで使用する方法について学習します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > Substance in 3ds Max Overview
 helpx_experience_level: ""
@@ -29,13 +29,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   > また、.sbsarファイルをスレートエディターにドラッグ&amp;ドロップして、ノードを自動的に作成し、スバーを読み込むこともできます。
-1. Substanceに複数のグラフが含まれている場合は、マテリアルとして出力するグラフを「選択したグラフ」ドロップダウンメニューで選択できます。
+   > .sbsar ファイルをスレートエディターにドラッグ&amp;ドロップして、ノードを自動作成し、スバーを読み込むこともできます。
+1. Substanceに複数のグラフが含まれている場合は、マテリアルとして出力するグラフを「選択したグラフ 」ドロップダウンメニューで選択できます。
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/max8?$png$&jpegSize=100&wid=341)
 
    ![](../../../assets/max1.png)
-1. Substanceノードを選択した状態で、「Substance」メニューに移動し、サポートされているレンダラーを選択します。 マテリアルが作成され、オブジェクトに適用できるようになります。 Substanceテクスチャがレンダリングマテリアルにフックされます。
+1. Substanceノードを選択した状態で、「Substance」メニューに移動し、サポートされているレンダラーを選択します。 マテリアルが作成され、オブジェクトに適用できるようになります。 テクスチャはレンダリングマテリアルに接続されます。
 
    | サポートされるレンダラー |
    | --- |
@@ -48,15 +48,15 @@ ht-degree: 0%
 
 ## 解像度の変更：
 
-1. Substanceの出力設定で、計算されたSubstanceテクスチャの解像度を設定します。
-1. 解像度を最大8Kにするには、[Substance設定](../../../3d-applications/3ds-max/settings-1/substance-settings.md)で設定されているGPUエンジンを使用していることを確認してください。
+1. Substanceの出力の設定で、計算されたSubstanceテクスチャの解像度を設定します。
+1. 解像度を最大8Kにするには、[Substance設定](../../../3d-applications/3ds-max/settings-1/substance-settings.md)で設定されているGPU エンジンを使用していることを確認してください。
 
    ![](../../../assets/max6.png)
 
 ## パラメータの変更：
 
 1. Substanceノードをダブルクリックして、パラメータウィンドウにSubstanceパラメータを読み込みます。
-1. パラメーターを変更すると、Substanceテクスチャが自動的に更新されます。
+1. パラメーターを変更すると、テクスチャが自動的に更新されます。
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/max4?$png$&jpegSize=200&wid=1276){width="500px"}
 
@@ -68,8 +68,8 @@ Substanceノードのサムネールにチャンネルを指定できます。
 
    ![](../../../assets/max7.png)
 
-## タイリングSubstance:
+## Substance:
 
-[座標]プロパティを使用すると、Substanceテクスチャを並べて表示したり、マップチャンネルを設定することができます。
+[座標]プロパティを使用すると、テクスチャを並べて表示したり、マップチャンネルを設定することができます。
 
 ![](../../../assets/max10.png)

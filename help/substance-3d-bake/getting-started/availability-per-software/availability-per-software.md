@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/availability-per-software.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/availability-per-software.html"
 breadcrumb-title: ''
 description: 各Substance 3Dアプリケーションで、ベーキングのワークフローを計画するのに使用できるベーカーを確認します。
 helpx_creative_field: ""

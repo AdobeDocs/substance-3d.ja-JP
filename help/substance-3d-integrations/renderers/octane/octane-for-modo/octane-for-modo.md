@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/octane/octane-for-modo.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-modo.html"
 breadcrumb-title: ''
 description: MODOのオクタンレンダラーでは、ライブDBマテリアルと適切な出力マテリアルを使用して、Substance構成を使用します。
 helpx_creative_field: ""
@@ -24,15 +24,15 @@ ht-degree: 0%
 
 Substanceはオクタンでネイティブに動作を出力します。 次のSubstance出力とテクスチャレイヤーエフェクトの設定を使用できます。
 
-1. Substanceを作成/テクスチャ/Substanceを作成を選択し、マテリアルを「非現実」に設定します。 アンリアルマテリアルを使用すると、詳細OGL ビューポートでテクスチャを表示できます。
-1. base color、メタリック、ラフネス、標準の出力を作成します。
+1. Substanceを作成/テクスチャ/Substanceを作成を選択し、Unreal Materialを選択します。 アンリアルマテリアルを使用すると、高度なOGLビューポートでテクスチャを表示できます。
+1. ベースカラー、メタリック、粗さ、法線の出力を作成します。
 1. MODOはOGL 法線マップを使用します。 Substanceプロパティで、法線方向をOpenGLに変更する必要があります。
 
    ![](../../../assets/ogl.png)
 1. Substance PBRプリセットを読み込みます。 このプリセットはオクタンオーバーライドです。 シェーダーグループにドラッグします。
 
    [Substance\_PBR.lxp](https://helpx.adobe.com/content/dam/help/en/substance-3d/documentation/integrations/files/162005234/162005272/1/1502792782697/substance-pbr.lxp)
-1. 上書きを選択し、Substance出力をクリップブラウザからスケマティクビューにドラッグします。 ファイル名を出力したノードを、base colorまたはbase colorなどの適切な入力ノード→接続します。
+1. 上書きを選択し、Substance出力をクリップブラウザからスケマティクビューにドラッグします。 ファイル名出力のあるノードを、適切な入力ノード（ベースカラー→ベースカラー）に接続します。
 
    ![](../../../assets/connect-6.png)
 1. 残りのSubstance出力をフックします

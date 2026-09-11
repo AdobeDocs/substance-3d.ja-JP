@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/world-space-direction.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
-description: ワールド空間内のベクター方向を計算し、それらをテクスチャに保存して、指向性エフェクトとマスクを作成します。
+description: ワールド空間でベクトル方向を計算し、それらをテクスチャに保存して、方向効果やマスキングを行います。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > World Space Direction
 helpx_experience_level: ""
@@ -20,18 +20,18 @@ ht-degree: 4%
 
 # ワールド空間方向
 
-ワールド空間方向ベイカーを使用すると、ワールド空間内のベクトル方向をテクスチャに計算できます。
+ベイカーは、テクスチャにワールド空間するベクトル方向を計算できる。
 
-**次の場所で利用可能：**
+**使用可能：**
 
 * Substance Designer
-* Substance Automation Toolkit
+* Substance自動処理ツールキット
 
 ## パラメーター
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| **入力方向** | 方向が計算される入力を定義します。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong> テクスチャから</strong>: ベクトル方向は、入力テクスチャによって定義されます。</li><li data-preserve-html="true"><strong>均一ベクトルから</strong> （既定値）: ベクトルの方向は、X、Y、Z スライダーで定義されます。</li></ul> |
-| **通常の向き** | 出力テクスチャの通常のフォーマットを定義します。 これにより、書式に応じて緑色のチャンネルが反転されます。使用可能な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> （既定値）</li></ul> |
-| **X Y Z** | **入力方向**&#x200B;が&#x200B;**均一ベクトルから**&#x200B;に設定されている場合、方向ベクトルの3つのコンポーネントを定義するスライダー。 |
-| **方向ファイル** | **入力方向**&#x200B;が&#x200B;**テクスチャから**&#x200B;に設定されている場合、方向ベクトルを定義するための入力テクスチャファイルへのパス。 |
+| **入力方向** | どの入力から方向を計算するかを定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>テクスチャから</strong>:ベクトル方向は入力テクスチャによって定義されています。</li><li data-preserve-html="true"><strong>均一ベクトルから</strong> （既定）:ベクトルの方向は、X、Y、Zスライダーで定義されます。</li></ul> |
+| **法線の向き** | 出力テクスチャの法線フォーマットを定義します。 これにより、形式に応じてグリーンチャンネルが反転します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> （既定）</li></ul> |
+| **X Y Z** | **入力方向**&#x200B;が&#x200B;**均一ベクトルから**&#x200B;に設定されている場合、方向ベクトルの3つの要素を定義するスライダー。 |
+| **方向ファイル** | **入力テクスチャ**&#x200B;が&#x200B;**テクスチャから**&#x200B;に設定されている場合、方向ベクトルを定義するための入力方向ファイルへのパス。 |

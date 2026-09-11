@@ -22,13 +22,13 @@ ht-degree: 4%
     + [よくある質問](/help/substance-3d-general/ecosystem/for-linux/faq/faq.md)
   + [書式の取り込みと書き出し](/help/substance-3d-general/ecosystem/import-and-export-formats/import-and-export-formats.md)
   + [従来のバージョン](/help/substance-3d-general/ecosystem/legacy-versions/legacy-versions.md)
-  + [Substanceエンジンのバージョン管理](/help/substance-3d-general/ecosystem/engine-versioning/substance-engine-versioning.md)
+  + [エンジンのバージョン管理](/help/substance-3d-general/ecosystem/engine-versioning/substance-engine-versioning.md)
   + [アーティストのSubstance 3Dアイコン](/help/substance-3d-general/ecosystem/susbtance-3d-app-icons/susbtance-3d-app-icons.md)
 + OpenPBR{#openpbr}
   + [OpenPBR](/help/substance-3d-general/openpbr/openpbr-overview.md)
   + [よくある質問](/help/substance-3d-general/openpbr/openpbr-faq.md)
 + ASM{#asm}
-  + [Adobe Standardマテリアルの概要](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
+  + [Adobe Standard Materialについて](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
   + [ASMの仕様](/help/substance-3d-general/adobe-standard-material/asm-specifications/asm-specifications.md)
   + [ASMの技術文書](/help/substance-3d-general/adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)
-  + [メタル材料のリファレンス](/help/substance-3d-general/adobe-standard-material/metal-material-references/metal-material-references.md)
+  + [メタルマテリアルのリファレンス](/help/substance-3d-general/adobe-standard-material/metal-material-references/metal-material-references.md)

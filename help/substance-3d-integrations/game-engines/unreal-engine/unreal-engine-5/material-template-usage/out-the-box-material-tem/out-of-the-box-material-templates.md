@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5/out-of-the-box-material-templates.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5/out-of-the-box-material-templates.html"
 breadcrumb-title: ''
 description: SBSARマテリアルをUnreal Engine 5に読み込む際には、事前定義済みのマテリアルテンプレートを使用して、迅速なセットアップとワークフローを行うことができます。
 helpx_creative_field: ""
@@ -58,13 +58,13 @@ Tirplanarテンプレートは、メッシュのX、Y、Zの角度または面�
 > 
 > 警告：次のテンプレートは試験的であり、バージョン間で大きな変更が発生する可能性があります。 これらのテンプレートは、エピックのNanite機能を利用しており、この執筆時点ではそれ自体が実験的です。 100%安定していない場合があり、プロジェクトで使用する際には注意が必要です。
 
-次の手順を使用して、プロジェクトでNaniteディスプレイスメントサポートを完全に有効にし、メッシュでディスプレイスメントマテリアルを使用します。
+プロジェクトでNaniteディスプレイスメントサポートを完全に有効にし、メッシュでディスプレイスメントマテリアルを使用するには、次の手順を実行します。
 
 1. プロジェクトフォルダー/設定/DefaultEngine.iniに移動して開きます
 1. [/Script/Engine.RendererSettings]セクションに次を追加します。
    * r.Nanite.AllowTessellation=1
-   * r.Nanite.Tessellation=1
-1. ディスプレイスメントテンプレートを適用するスタティックメッシュを選択し、その設定を開きます。
+   * r.Nanite.テセレーション=1
+1. ディスプレイスメントテンプレートを適用する静的メッシュを選択し、その設定を開きます。
 1. 「 Naniteサポートを有効にする」オプションをオンにします。
 1. 目的の.sbsarをコンテンツブラウザにインポートし、Substance\_Displaceent\_TemplateまたはSusbtance\_Triplanar\_Displacement\_Templateのいずれかを選択します
 1. ディスプレイスメント量を変更するには、マテリアルテンプレートに移動し、出力ノードを選択します。 次に、「ディスプレイスメント」セクションで「マグニチュード」を調整します。
@@ -73,10 +73,10 @@ Tirplanarテンプレートは、メッシュのX、Y、Zの角度または面�
 
 Substance標準テンプレートと同様に、Naniteディスプレイスメントのサポートを加えながら、U値とV値を調整できます。
 
-![ディスプレイスメントの詳細メニュー](../../../../../assets/displacement-template.png)
+ディスプレイスメントマテリアルの![詳細メニュー](../../../../../assets/displacement-template.png)
 
 ## Substance三平面ディスプレイスメントテンプレート
 
-ディスプレイスメントテンプレートと同様に、物理サイズサポートにナナイトディスプレイスメントサポートを加え、三面投影を行います。
+ディスプレイスメントテンプレートと同様に、このテンプレートは、Naniteディスプレイスメントサポートに加えて、物理サイズサポートのオプションでトライプラナー投影を適用します。
 
-![Substanceの三平面ディスプレイスメントマテリアルの[詳細]メニュー](../../../../../assets/triplanar-displacement-template.png)
+![Substanceの三平面ディスプレイスメントマテリアルの詳細メニュー](../../../../../assets/triplanar-displacement-template.png)

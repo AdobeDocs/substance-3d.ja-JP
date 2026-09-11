@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-2.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.2.2のリリースノートを確認して、新機能、改善点、バグ修正について学習します。
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ### コアプラグイン：
 
-* In UnityプラグインのSubstanceをインストールすると、UnityのデフォルトテクスチャGUIが上書きされるバグを修正しました
+* UnityプラグインのSubstanceをインストールすると、UnityのデフォルトテクスチャのGUIが上書きされるバグを修正しました
   * 設定されているEditorApplication.delayCallが他のプラグインで問題が発生するバグを修正しました
-  * プロジェクト名でラテン文字以外を使用すると発生するクラッシュを修正しました
+  * プロジェクト名でラテン文字以外を使用しているときに発生したクラッシュを修正しました。

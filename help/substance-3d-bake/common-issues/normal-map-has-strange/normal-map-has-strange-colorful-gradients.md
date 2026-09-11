@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
 description: メッシュ法線、スムージンググループ、およびUVマッピングをチェックして、法線マップの奇妙でカラフルなグラデーションを修正します。
 helpx_creative_field: ""

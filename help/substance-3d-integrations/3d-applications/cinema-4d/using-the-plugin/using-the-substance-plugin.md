@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
 breadcrumb-title: ''
 description: Cinema 4D内のSubstanceプラグインを使用して、マテリアルを読み込み、Substanceアセットを管理する方法について説明します。
 helpx_creative_field: ""
@@ -26,16 +26,16 @@ SubstanceプラグインはCinema 4Dプラグインメニューにあります�
 
 ## アセットを読み込み…
 
-これを使用して、Substanceアセットをシーンにロードします。 Substanceアーカイブ(.sbsar)のみを読み込むことができます。 Substanceアセットマネージャーが表示されていない場合は、Substanceの読み込みに成功すると自動的に開きます。 このコマンドは、Substanceアセットマネージャーでも見つけることができます。
+これを使用して、Substanceアセットをシーンに読み込みます。 Substanceアーカイブ(.sbsar)のみを読み込むことができます。 Substanceアセットマネージャーが表示されていない場合は、Substanceの読み込みに成功すると自動的に開きます。 このコマンドは、Substanceアセットマネージャーでも見つけることができます。
 
 読み込み時に、Substanceをプロジェクトフォルダーにコピーするかどうかをたずねられることがあります。
 
 ![](../../../assets/cinema-4d-2.png){width="500px"}
 
-* 「いいえ」を選択すると、Substanceへの絶対パスがシーンに保存されます。
-* 「はい」を選択すると、Substanceはプロジェクトのtexサブフォルダーにコピーされ、シーン内ではfilenameのみが参照されます。
+* 「いいえ」と答えると、Substanceへの絶対パスがシーンに保存されます。
+* 「はい」と答えると、Substanceはプロジェクトのtexサブフォルダーにコピーされ、シーンではfilenameによってのみ参照されます。
 
-このプロンプトは、読み込み1回につき1回だけ表示されます（例えば、エクスプローラーまたはFinderから複数のSubstanceをドラッグ&amp;ドロップした場合）。
+このプロンプトは、読み込み1回につき1回だけ表示されます（例えば、エクスプローラーーまたはFinderから複数のSubstanceをドラッグ&amp;ドロップした場合）。
 
 ## Substanceアセットマネージャー
 
@@ -43,4 +43,4 @@ SubstanceプラグインはCinema 4Dプラグインメニューにあります�
 
 >[!NOTE]
 >
-> Cinema 4Dの他のすべてのコマンドと同様に、これらの2つのコマンドはレイアウト内の任意の場所に統合したり、キーボードショートカットを使用して素早くアクセスできるように設定したりできます。
+> Cinema 4Dの他のすべてのコマンドと同様に、これらの2つのコマンドは、レイアウト内の任意の場所に統合したり、すばやくアクセスできるようにキーボードショートカットを使用して設定したりできます。

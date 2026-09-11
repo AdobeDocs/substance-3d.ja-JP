@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: メッシュのUVをベクターグラフィックファイルに変換して、正確なマスクとオーバーレイの作成に使用できます。
 helpx_creative_field: ""

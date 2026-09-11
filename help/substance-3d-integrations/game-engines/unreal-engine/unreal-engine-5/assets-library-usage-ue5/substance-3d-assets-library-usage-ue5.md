@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
 breadcrumb-title: ''
-description: Unreal Engine 5プロジェクトのAssets Libraryとcommunity assetsから高品質なSubstanceマテリアルにアクセスできます。
+description: Assets LibraryやUnreal エンジン 5プロジェクトのSubstanceマテリアルから高品質のコミュニティアセットにアクセスできます。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Substance 3D Assets Library Usage - UE5
 helpx_experience_level: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Substance 3D Assetsライブラリの使用 – UE5
 
-[Substance 3Dアセットライブラリ](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)のプリセットで、微調整および書き出し対応の1000以上の高品質の4Kマテリアルにアクセスできます。 [コミュニティアセットライブラリ](https://helpx.adobe.com/jp/substance-3d/unlisted/community-assets.html)で、コミュニティが提供するアセットを検索できます。
+[Substance 3Dアセットライブラリ](https://helpx.adobe.com/substance-3d/unlisted/assets.html)のプリセットで、微調整および書き出し対応の1000以上の高品質の4K マテリアルにアクセスできます。 [コミュニティアセットライブラリ](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)で、コミュニティが提供するアセットを検索できます。
 
-アセットライブラリからマテリアルをダウンロードして、UE5で使用できます。
+Asset Libraryからマテリアルをダウンロードして、UE5で使用できます。
 
 ![](../../../../assets/screen-shot-2022-03-31-at-6-29-24-pm.png)

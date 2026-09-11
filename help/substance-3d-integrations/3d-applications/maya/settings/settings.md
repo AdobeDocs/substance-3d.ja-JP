@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
-description: MayaのSubstanceプラグイン設定をSubstanceシェルフまたはメニューを使用して設定し、動作をカスタマイズします。
+description: MayaのSubstanceプラグイン設定は、Substance シェルフまたはメニューを使用して行います。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Settings
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 設定
 
-Substance設定メニューには、SubstanceシェルフまたはSubstanceメニューからアクセスできます。 このメニューの設定は、編集可能な設定ファイル「substance.cfg」に保存されます。
+Substance設定メニューには、SubstanceメニューまたはSubstanceシェルフからアクセスできます。 このメニューの設定は、編集可能な設定ファイル「substance.cfg」に保存されます。
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Substance設定メニューには、SubstanceシェルフまたはSubstanceメ�
 
 ## デフォルトの解像度
 
-sbsarファイルが読み込まれるときのSubstanceノードのデフォルト解像度を設定します。
+sbsar ファイルの読み込み時のSubstanceノードの既定の解像度を設定します。
 
 ## レンダリングワークフロー
 
@@ -47,21 +47,21 @@ Substanceノードで使用する既定のレンダリングワークフロー�
 
 ## Substance Engine
 
-Substanceに固有の環境設定およびすべてのSubstance engineノードに対するグローバル設定。 Substanceエンジンは、Substanceテクスチャの計算に使用されます。
+Substanceに固有の環境設定およびすべてのSubstance engineノードに対するグローバル設定。 エンジンは、Substanceテクスチャの計算に使用されます。
 
-### エンジンタイプ
+### エンジンの種類
 
-このSubstance engineは、CPUおよびGPUエンジンとして利用できます。 エンジンを切り替えるには、Mayaを再起動する必要があります。 GPUエンジンでは、CPUエンジンよりも高い解像度が使用できます。
+Substance engineは、CPUおよびGPU エンジンとして使用できます。 エンジンを切り替えるには、Mayaを再起動する必要があります。 GPU エンジンでは、CPU エンジンよりも高い解像度が使用できます。
 
 >[!WARNING]
 >
-> CPUエンジンとGPUエンジンには演算の違いがある場合があるため、一貫した結果を得るには、Substance Designerで使用するエンジンと同じ種類のエンジンを使用することをお勧めします。
+> CPUとGPUのエンジンには演算上の違いがある場合があるため、一貫した結果を得るには、Substance Designerで使用するエンジンと同じ種類にすることをお勧めします。
 
-CPUコアとエンジンメモリは、Substanceエンジンが使用できるリソースの量に関する設定です。
+CPUコアとエンジンメモリは、Substanceエンジンで使用できるリソースの量に関する設定です。
 
 ### レンダリングのブロック
 
-Substanceエンジンの計算がMaya UIプロセスをブロックするかどうかを設定します。 有効にすると、Substanceエンジンが優先され、Maya UIプロセスがブロックされます。 無効にすると、Maya UIプロセスはエンジン計算によってブロックされません。
+エンジン computeがMaya UIプロセスをブロックするかどうかを設定します。 有効にすると、エンジンが優先され、Maya UIプロセスがブロックされます。 無効にすると、Maya UIプロセスはSubstanceエンジンの計算によってブロックされません。
 
 ## 出力をディスクにキャッシュ
 

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
 breadcrumb-title: ''
-description: Unityの実行時グラフ操作に使用されるSubstanceRuntimeGraphクラスのリファレンスドキュメントです。
+description: Unityのランタイムグラフオペレーションに使用されるSubstanceRuntimeGraphクラスのリファレンスドキュメントです。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Substance 3D for Unity Scripting > Class Documentation > SubstanceRuntimeGraph Class
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Substanceグラフの入力を変更およびレンダリングするランタイム機能を提供するクラスです。このクラスにより、←GraphSOは実行時にアセットを生成できます。
 
-Substance.Substance.Runtime.SubstanceRuntimeGraphのAdobeダイアグラム：
+Adobe.Substance.ランタイム.SubstanceRuntimeGraphの継承ダイアグラム：
 
 ![](../../../../../assets/image2022-10-14-17-53-23-1.png)
 
@@ -49,7 +49,7 @@ Substance浮動小数点入力を更新
 ```
 
 
-Substance浮動小数点値を取得する
+浮動小数の入力を取得
 
 ```
 • void SetInputVector2 (string inputName, Vector2 value)
@@ -119,7 +119,7 @@ Substanceのブール値入力を更新
 ```
 
 
-Substanceのブール値入力を取得します。
+ブーリアン入力を取得します。
 
 ```
 • void SetInputInt (string inputName, int value)
@@ -210,7 +210,7 @@ Substanceテクスチャ2D入力を更新します。
 ```
 
 
-インスタンステクスチャ出力解像度を返します。
+インスタンステクスチャの出力解決を返します。
 
 ```
 • void SetTexturesResolution (Vector2Int size)
@@ -259,14 +259,14 @@ Substanceインスタンスを非同期でレンダリングします。
 ```
 
 
-プリセットXMLを使用して、グラフ入力パラメーターを設定します。
+プリセットXMLを使用して入力パラメーターを設定します。
 
 ```
 • string CreatePresetFromCurrentState ()
 ```
 
 
-現在のグラフ状態をプリセットXMLに保存します。
+現在のグラフステートをプリセットXMLに保存します。
 
 ## パブリック属性
 

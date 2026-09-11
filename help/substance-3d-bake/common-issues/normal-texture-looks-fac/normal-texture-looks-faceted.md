@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: 法線テクスチャのファセットの外観を修正するには、メッシュ法線をスムージングし、スムージンググループの設定を調整します。
 helpx_creative_field: ""
@@ -45,4 +45,4 @@ ht-degree: 0%
 > * ブレンダーで&#x200B;**スムーズシェード**&#x200B;を使用します。
 > * zBrushから書き出されたメッシュは常にファセットされ、別のソフトウェアでクリーンアップされます。
 > 
-> メッシュを書き出す際には、頂点の法線またはシェーディング情報も保存/生成してください。
+> メッシュを書き出す際には、頂点法線またはシェーディング情報も保存/生成してください。

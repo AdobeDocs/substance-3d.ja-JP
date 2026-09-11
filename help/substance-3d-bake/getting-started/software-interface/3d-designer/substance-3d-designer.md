@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
-description: Substance 3D Designerのベイクウィンドウにアクセスして使用し、モデル情報をテクスチャにベイクする方法を説明します。
+description: Substance 3D Designerのベイク処理ウィンドウにアクセスして使用し、モデル情報をテクスチャに烘焙する方法について説明します。
 helpx_creative_field: ""
 helpx_description: bakers > Getting Started > Software Interface > Substance 3D Designer
 helpx_experience_level: ""
@@ -22,31 +22,31 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-ベイクウィンドウには、[エクスプローラー](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)ウィンドウのメッシュファイルを使用してアクセスできます。 メッシュ名を右クリックして「**モデル情報をベイク処理**」を選択し、ベイク処理ウィンドウを開きます。
+ベイクウィンドウには、[エクスプローラー](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)ウィンドウのメッシュファイルからアクセスできます。 メッシュ名を右クリックして「**モデル情報を烘焙**」を選択し、ベイクウィンドウを開きます。
 
 ## 概要
 
 ![](../../../assets/sd-window-overview.png){width="500px"}
 
-のベーキングウィンドウは、以下に説明するいくつかのパネルに分割されています。
+のベイクウィンドウは、次に示すいくつかのパネルに分かれています。
 
-### ベイクする要素
+### ベイクするエレメント
 
 ![](../../../assets/sd-mesh-selection.png)
 
-このパネルは、ベイク処理に使用するローポリメッシュの部分を制御します。
+このパネルは、ローポリメッシュのどの部分を使用してベイクを行うかを制御します。
 
-このパネルには、ローポリゴンメッシュファイル内にあるジオメトリが一覧表示されます。 デフォルトでは、リストはファイル内で見つかった個々のマテリアルに基づいていますが、関連する場合は代わりにサブメッシュに切り替えることができます。 ベイクプロセス中に無視する要素のチェックを外すことができます。
+このパネルには、ローポリゴンメッシュファイル内にあるジオメトリが一覧表示されます。 デフォルトでは、リストはファイル内で見つかった個々のマテリアルに基づいていますが、関連がある場合は代わりにサブメッシュに切り替えることができます。 ベイクプロセス中に無視するエレメントのチェックを外すことができます。
 
 ### 出力
 
 ![](../../../assets/sd-output.png)
 
-このパネルは、ベイク処理されたテクスチャの配置場所を制御します。
+このパネルは、ベイクされたテクスチャの場所を制御します。
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| **メソッド** | ベイク処理されたテクスチャをSubstanceパッケージと一緒に格納する方法を制御します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>埋め込み</strong> ：ベイク処理されたテクスチャは、特定の名前でSubstanceパッケージの横にあるサブフォルダーに保存されます。</li><li data-preserve-html="true"><strong>リンク</strong> （デフォルト） ：ベイク処理されたテクスチャは定義されたフォルダーに保存され、パッケージ化されたSubstanceー内で参照されます。</li></ul> |
+| **メソッド** | テクスチャをSubstanceパッケージと一緒に保存する方法を制御します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>埋め込み</strong> :ベイクされたテクスチャは、特定の名前でSubstanceパッケージの横にあるサブフォルダーに保存されます。</li><li data-preserve-html="true"><strong>リンク</strong> （デフォルト） ：ベイク処理されたテクスチャは定義されたフォルダーに保存され、パッケージ化されたSubstanceー内で参照されます。</li></ul> |
 | **フォルダー** | 保存時のベイク処理されたテクスチャの場所。 3つのドットボタンをクリックしてファイルダイアログを開き、書き出しフォルダーを選択します。右側にチェックマークが表示され、フォルダーが実際に存在するかどうかが示されます。 |
 | **名前** | ベイク処理されたテクスチャの命名規則。 3つのドットボタンをクリックしてドロップダウンを開き、他のプレースホルダー（ベーカネーム、カスタム、マテリアル、メッシュ）を挿入します。 |
 | **サンプル** | ファイル名をシミュレートして、命名規則をテストします。 |

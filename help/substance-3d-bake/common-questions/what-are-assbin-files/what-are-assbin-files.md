@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/what-are-assbin-files.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-are-assbin-files.html"
 breadcrumb-title: ''
-description: Asbin ファイルとは何か、およびベイク処理を高速化するためにジオメトリ キャッシュ ファイルとして使用される方法について説明します。
+description: Assbinファイルとは何か、およびそれらがジオメトリキャッシュファイルとしてどのように使用され、ベイク処理処理を高速化するかについて説明します。
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > What are Assbin files "
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 'Asbin ファイルとは '
+title: 'Assbinファイルとは '
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,18 +18,18 @@ ht-degree: 0%
 ---
 
 
-# Asbin ファイルとは？
+# Assbinファイルとは
 
 >[!WARNING]
 >
 > **質問**
 > 
-> Substance Painterで焼いた後、ファイル拡張子「assbin」を持つハイポリメッシュの横に1つまたは複数のファイルが見つかりました。 安全に取り外せますか？
+> Substance Painterでベイクした後、ファイル拡張子が「assbin」のhigh-poly メッシュの横に1つまたは複数のファイルが見つかりました。それは何ですか？ 安全に削除できますか？
 
 >[!NOTE]
 >
 > **解決策**
 > 
-> Asbin ファイルは、ベイク処理プロセスで使用されるハイポリメッシュの事前処理済みバージョンです。 これらは、元のメッシュファイルよりも読み込みが速く、ベイカー設定を反復処理する際により素早く焼き直すことができます。 安全に取り外すことができます。 Substance Painterは、必要に応じてそれらを再生成します。 これはベーキングのパフォーマンスに影響を与える可能性があります。
+> ベイク処理プロセス中に使用されるhigh-poly メッシュの前処理されたバージョンのAssbinファイル。 読み取りが元の設定よりも高速なため、メッシュファイルを繰り返し使用するときにより早く再ベイクできます。 これらは安全に取り外すことができます。 Substance Painterは必要に応じて再生成します。 ただし、これはベイク処理のパフォーマンスに影響を与える可能性があります。
 > 
-> Substance Painter [のメイン設定](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/general-71008262.html)に移動し、「前処理されたシーンファイルを保存」オプションを無効にすると、これらのファイルを生成することはできません。
+> Substance Painter[メインの環境設定](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/general-71008262.html)で、「前処理されたシーンファイルを保存」オプションを無効にすると、これらのファイルを生成しないことがあります。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Max用のSubstanceプラグインをインストールして使用し、Substanceマテリアルを読み込んで、レンダリングワークフローを強化します。
 helpx_creative_field: ""

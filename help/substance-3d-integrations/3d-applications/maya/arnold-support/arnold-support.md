@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/arnold-support.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/arnold-support.html"
 breadcrumb-title: ''
 description: Connect Substance出力をMayaのArnoldシェーダに直接コネクトして、シームレスなレンダリングワークフローを実現します。
 helpx_creative_field: ""

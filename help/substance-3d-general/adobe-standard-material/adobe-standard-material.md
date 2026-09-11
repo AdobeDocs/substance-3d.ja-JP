@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
-description: Adobe Standardマテリアルモデルについて、およびAdobeアプリケーション間での物理的なレンダリングに使用する方法について説明します。
+description: Adobe Standard Materialモデルと、Adobeアプリケーション間での物理的なレンダリングに使用する方法について説明します。
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # Adobe Standard Material
 
-<b>Adobe Standard Material</b> (ASM)はマテリアルモデルで、Adobeのアプリケーションおよびサービスで使用されるマテリアルの共通インターフェイスとして、Physically-Based Rendering (PBR)用に設計されています。
+<b>Adobe Standard Material</b> (ASM)はマテリアルモデルで、Adobeアプリケーションおよびサービスで使用されるマテリアルの共通インターフェイスとして、物理ベースレンダリング(PBR)用に設計されています。
 
 詳しくは、次のページを参照してください。
 

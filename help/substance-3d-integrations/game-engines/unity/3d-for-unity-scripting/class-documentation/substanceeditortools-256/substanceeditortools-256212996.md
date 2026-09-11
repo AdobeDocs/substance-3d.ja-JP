@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
 breadcrumb-title: ''
 description: Unityでのマテリアル管理に使用されるSubstanceEditorToolsクラスの参照ドキュメント。
 helpx_creative_field: ""
@@ -98,7 +98,7 @@ Adobe.SubstanceEditor.SubstanceEditorToolsの継承図：
 ```
 
 
-テクスチャ入力を設定します。
+グラフテクスチャ入力を設定します。
 
 ```
 • static void RenderGraph (SubstanceGraphSO graph)

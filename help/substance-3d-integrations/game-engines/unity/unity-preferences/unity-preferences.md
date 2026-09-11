@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-preferences.html"
 breadcrumb-title: ''
 description: UnityでSubstance 3Dプラグインの環境設定を行い、プラグインの動作と設定をカスタマイズします。
 helpx_creative_field: ""

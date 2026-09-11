@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
 description: Substanceプラグインと標準サーフェスマテリアルを使用して、MayaのArnoldレンダラでSubstanceマテリアルを使用する方法について説明します。
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## MayaプラグインのSubstance
 
-Arnold[Render Workflow](../../../3d-applications/maya/using-workflows/using-workflows.md)を使用して、シェーダーネットワークを自動的に作成できます。
+Arnold[Render Workflow](../../../3d-applications/maya/using-workflows/using-workflows.md)を使用すると、シェーダーネットワークを自動的に作成できます。
 
 ![](../../../assets/render-workflow.png)

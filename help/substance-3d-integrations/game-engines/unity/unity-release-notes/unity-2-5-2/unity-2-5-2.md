@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-2.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.5.2のリリースノートを確認して、新機能、改善点、バグ修正について学習します。
 helpx_creative_field: ""
@@ -29,12 +29,12 @@ ht-degree: 0%
 修正：
 
 * 2048クランプおよび4096ターゲット設定の設定時にエラーが表示されなくなりました
-* 標準からHDRPやURPにアップグレードすると、マテリアルプロパティが引き継がれます。
-* モバイルにデプロイする場合、Substanceのマテリアルを変更するスクリプトは想定どおりに動作します
+* 標準からHDRPやURPにアップグレードすると、マテリアルのプロパティが引き継がれます。
+* マテリアルを変更するスクリプトは、モバイルへのデプロイ時に想定どおりに動作します
 * レッドチャンネルはAlphaにコピーされなくなり、デフォルトのAlphaは白に設定される
-* Macでターゲット設定を変更するとクラッシュする
-* Unityマテリアルの作成時にNullReferenceExceptionエラーが削除されました
+* Macでのターゲット設定の変更クラッシュ
+* Unity マテリアルの作成時にNullReferenceExceptionエラーが削除されました
 * タイリングプロパティの編集後に再生モードを終了すると、エラーが削除されました
 * 「 GPUインスタンス化を有効にする」を有効にできる
-* 既存の再生モードで、透明を使用しているマテリアルが消えたり、誤って黒くなったりすることはありません
-* プラグインのアップグレード時に、HDRPプロジェクトでSubstanceのマテリアルが破棄されない
+* 既存の再生モードで、透明部分を使用しているマテリアルが消えたり、黒くなったりすることはありません
+* プラグインのアップグレード時に、HDRPプロジェクトのマテリアルが破棄されない

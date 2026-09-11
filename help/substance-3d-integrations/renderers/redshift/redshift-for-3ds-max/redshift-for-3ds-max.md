@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
 breadcrumb-title: ''
-description: 書き出されたマップまたはSubstanceプラグインを使用して、3ds MaxでRedshiftレンダラーでSubstanceマテリアルを使用します。
+description: 3ds MaxでRedshiftレンダラーを使用したマテリアルは、書き出されたマップまたはSubstanceプラグインを介して使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift > Redshift for 3ds Max
 helpx_experience_level: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## 3ds MaxプラグインのSubstance
 
-Substanceプラグインは、Redshiftレンダリングプリセットを介してRedshiftをサポートします。 このプリセットを使用すると、Redshiftマテリアルに接続されたSubstance出力が自動的に設定されます。
+Substanceプラグインは、Redshiftレンダリングプリセットを介してRedshiftをサポートします。 このプリセットを使用すると、Redshift マテリアルに接続されたSubstance出力が自動的に設定されます。
 
 ![](../../../assets/redshift-max.png)

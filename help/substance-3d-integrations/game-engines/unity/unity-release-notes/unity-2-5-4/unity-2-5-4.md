@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-4.html"
 breadcrumb-title: ''
 description: Unityプラグインバージョン2.5.4のリリースノートを確認して、新機能、改善点、バグ修正について学習します。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 修正：
 
-* UnityプロジェクトにSubstanceのマテリアルが含まれている場合、ビットコード互換のiOSアプリケーションを生成できない
+* Unityプロジェクトにマテリアルが含まれている場合、ビットコード互換のiOSアプリケーションを生成できない
 
 既知の問題：
 

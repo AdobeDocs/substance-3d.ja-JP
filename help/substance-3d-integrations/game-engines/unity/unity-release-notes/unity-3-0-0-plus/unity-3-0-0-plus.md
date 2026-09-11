@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: 新機能と改善点については、Unityプラグインバージョン3.0.0以降のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * プラグインのC++コードのメモリリークの問題を修正し、オブジェクトの廃棄時に完全なメモリリカバリを保証します。
 * Linuxで、Unityプラグインパッケージをインポートすると「SubstanceException: An invalid argument was gived to the API」エラーが発生する問題を修正し、SBSARファイルのインポートを正常に実行できるようになりました。
-* Unityのカスタムエディターウィンドウスクリプトでプリセットを読み込むときにSubstanceGraphSO.CurrentStatePresetが正常に機能しない問題を解決しました。修正スクリプトは、アドビのSubstanceマニュアル(HelpX)ページで入手できます： https://experienceleague.adobe.com/ja/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Unityのカスタムエディターウィンドウスクリプトでプリセットを読み込むときにSubstanceGraphSO.CurrentStatePresetが正常に機能しない問題を解決しました。修正スクリプトは、アドビのSubstanceマニュアル(HelpX)ページで入手できます： https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * Unityエディターでグラフプロパティが再選択時に消えてしまうバグを修正しました。
 * UnityプラグインのSubstanceGraphSOに関連する「不明なマネージドタイプ参照」の問題が修正され、特にUnity 2022.1およびすべてのUnityバージョンのAndroidプラットフォームで互換性と機能が向上しました。
 * 「技術パラメーター」セクションの「標準フォーマット」の選択肢が、DirectXおよびOpenGLオプションを含む予期されるドロップダウンリストではなく、数値入力フィールドとして誤って表示される問題を修正しました。
@@ -93,14 +93,14 @@ ht-degree: 0%
 <b>追加/更新：</b>
 
 * 条件付き表示（Visible If機能）のパラメーターのサポートが導入されました。
-* Substanceエンジンをバージョン9にアップグレード。
+* エンジンをバージョン9にアップグレード。
 * カスタムエディターウィンドウスクリプトでNativeGraph.InRenderWorkが機能しない問題に対処するために、ドキュメントを更新しました。 詳しくは、[Unityスクリプティング用Substance 3D – クラスドキュメント](../../../../game-engines/unity/3d-for-unity-scripting/class-documentation/substanceruntime-class/substanceruntime-class.md)を参照してください。
 
 <b>修正済み：</b>
 
-* Androidプロジェクトの通常のマップに影響する問題を解決しました。
-* sbsarオブジェクトをシーンビューにドラッグすると、誤ってマウスオーバーしたすべてのオブジェクトのマテリアルがsbsarオブジェクトマテリアルでオーバーライドされるバグを修正しました。
-* ランタイムモードでランタイムのみマークされたマテリアルを検査して出力テクスチャマッピングを開くとエラーが発生するバグを修正しました。
+* Androidプロジェクトの法線マップに影響する問題を解決しました。
+* sbsarオブジェクトをシーンビューにドラッグすると、誤ってマウスオーバーしたすべてのオブジェクトのマテリアルがsbsarオブジェクトマテリアルで上書きされるバグを修正しました。
+* ランタイムモードで「ランタイムのみ」とマークされたマテリアルを確認して出力テクスチャマッピングを開くと、エラーが発生するバグを修正しました。
 
 ## Unity 3.7.0
 
@@ -111,8 +111,8 @@ ht-degree: 0%
 
 <b>修正済み：</b>
 
-* グラフのコピーボタンを使用してsbsarファイルの新しいグラフを作成する際にエラーが発生しました：「スクリプトクラスの予期しない再帰転送」
-* プロジェクトを再度開いた後、Macで余分なマテリアルフォルダーが作成される
+* 「グラフのコピー」ボタンを使用してsbsar ファイルの新しいグラフを作成する際にエラーが発生しました：「スクリプトクラスの予期しない再帰転送」
+* プロジェクトを再度開いた後の、Macでの余分なマテリアルフォルダーの作成
 * グラフインスタンスの作成時/削除時にSubstanceFileSO配列が更新されない
 * Substanceを複製すると、間違った入力オプションが表示される
 * .sbsprsファイルの書き出しの空のラベルフィールド
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 <b>修正済み：</b>
 
-* マテリアルにInt4入力がある場合のnull参照エラー
+* マテリアルにInt4入力がある場合のNull参照エラー
 * Int4入力のエラーで、W値がData3ではなくData2に割り当てられます
 * 関数名「\_OcclusionStrength」に誤りがあります
 
@@ -157,14 +157,14 @@ ht-degree: 0%
 
 <b>追加/更新：</b>
 
-* 物理サイズパネルでサーフェス全体のテクスチャを移動する位置オフセットコントロール
+* 物理サイズパネルでテクスチャをサーフェス全体に移動するための位置オフセットコントロール
 * プロジェクト設定でのSubstance 3D AssetsとSubstanceコミュニティアセットのダウンロード用リンク
 
 ## Unity 3.3.0
 
 <b>追加/更新：</b>
 
-* HDRPの物理サイズ機能。マテリアルを実際のサイズに基づいて適用したり、拡大縮小したりできます。
+* HDRPの物理サイズ機能。実際のサイズに基づいてマテリアルを適用したり、拡大縮小したりできます。
 * プロジェクト設定でのGPU有効化のUI
 
 <b>削除済み：</b>
@@ -185,7 +185,7 @@ ht-degree: 0%
 
 <b>修正済み：</b>
 
-* カスタムSbsarマテリアルを読み込むときに、Unityプラグインでアセットの読み込みに失敗しました
+* カスタムSbsar マテリアルを読み込むときに、Unityプラグインでアセットの読み込みに失敗しました
 * エラー：「ArgumentException：値が期待値範囲内にありません」
 * &quot;ArgumentOutOfRangeException: Index was out of range&quot;エラー
 
@@ -194,11 +194,11 @@ ht-degree: 0%
 <b>追加/更新：</b>
 
 * Macの1.38倍のパフォーマンス向上
-* MacのGPUエンジンで、OpenGLではなくMetalが使用されている
+* MacのGPU エンジンで、OpenGLではなくMetalが使用されている
 
 <b>修正済み：</b>
 
-* 出力テクスチャのRチャンネルとBチャンネルがフリップするMacの問題
+* 出力テクスチャのRチャンネルとBチャンネルが反転するMacの問題
 
 ## Unity 3.0.0
 

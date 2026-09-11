@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
-description: ハードウェアアクセラレーション対応GPU レイトレーシングを有効にすると、ベイク計算が25倍以上高速化され、ワークフローが高速化されます。
+description: ハードウェアアクセラレーション対応GPU レイトレーシングを有効にすると、ベイク処理計算が25倍以上高速化され、ワークフローが高速化されます。
 helpx_creative_field: ""
 helpx_description: bakers > Features > GPU Raytracing
 helpx_experience_level: ""
@@ -60,24 +60,24 @@ ht-degree: 18%
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
-| アンビエントオクルージョン | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| ベント法線 | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| Color | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 曲率 | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 高さ | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 法線 | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 法線ワールド空間 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| アンビエントオクルージョン | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| ベント法線 | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| Color | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 曲率 | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 高さ | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 法線 | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 法線ワールド空間 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
 
 
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
-| 不透明マスク | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 位置 | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 位置 : 低 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| 厚み | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| 転送されたテクスチャ | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
-| ワールドから接線 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 不透明マスク | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 位置 | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 位置 : 低 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 厚み | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| 転送されたテクスチャ | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
+| ワールドから接線 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ ht-degree: 18%
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
-| アンビエントオクルージョン | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| メッシュからのアンビエントオクルージョン | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| メッシュからのベント法線 | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| メッシュからのカラー | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| UV を SVG に変換 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| メッシュからの曲率 | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| メッシュからの高さ | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| メッシュからの法線 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| アンビエントオクルージョン | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| メッシュからのアンビエントオクルージョン | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| メッシュからのベント法線 | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| メッシュからのカラー | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| UV を SVG に変換 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| メッシュからの曲率 | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| メッシュからの高さ | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| メッシュからの法線 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
-| メッシュから不透明マスク | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| メッシュからの位置 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| 位置 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| メッシュからの厚み | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| メッシュからの転送されるテクスチャ | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
-| ワールド空間方向 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
-| ワールド空間法線 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| メッシュの不透明度マスク | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| メッシュからの位置 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 位置 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| メッシュからの厚み | <div><img alt="（ティック）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
+| メッシュからの転送されるテクスチャ | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| ワールド空間方向 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| ワールド空間法線 | <div><img alt="（エラー）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
 
 
 \*: CPU GPU レイトレーシングをサポートします。このレイトレーシングは、データよりも非常に低速です。

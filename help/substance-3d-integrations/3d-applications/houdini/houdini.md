@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/houdini.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
-description: プロシージャワークフローとレンダリング用に書き出されたテクスチャマップを使用して、HoudiniのSubstanceマテリアルを使用します。
+description: プロシージャルのワークフローやレンダリング用に書き出されたテクスチャマップを介して、HoudiniのSubstanceマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Houdini
 helpx_experience_level: ""
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> HoudiniのSubstanceはSideFX Labsによって開発されました。
+> HoudiniのSubstanceはSideFXラボによって開発されました。
 
-[Houdini用Substanceプラグイン](https://www.sidefx.com/tutorials/sidefx-labs-substance-plugin/)を使用すると、COPのHoudiniにSubstanceアーカイブファイル(SBAR)を読み込むことができます。 これにより、Substanceノードをチェーン化し、Substanceグラフの出力をHoudini (Terrains、Materials、Geometry)およびその他の多くのワークフローのすべての部分に送ることができます。 プラグインはSideFX Labsチームが管理しています。
+[Houdini用Substanceプラグイン](https://www.sidefx.com/tutorials/sidefx-labs-substance-plugin/)を使用すると、COPのHoudiniにSubstanceアーカイブファイル(SBAR)を読み込むことができます。 これにより、Substanceノードをチェーン接続し、Substanceグラフの出力をHoudiniのすべての部分（地形、マテリアル、ジオメトリ）およびその他の多くのワークフローに送ることができます。 プラグインはSideFX ラボチームが管理しています。
 
 ## インストール手順
 
 Houdini 17.5の場合、プラグインはGameDevelopment Toolsetとともに配布されます\
 [GameDevelopment Toolsetのインストール手順](https://www.sidefx.com/tutorials/game-dev-toolset-installation/)
 
-Houdini 18.0の場合、プラグインはSideFX Labsとともに配布されます。\
-[SideFXラボのインストール手順](https://www.sidefx.com/tutorials/sidefx-labs-installation/)
+Houdini 18.0の場合、プラグインはSideFX ラボと共に配布されます。\
+[SideFX ラボのインストール手順](https://www.sidefx.com/tutorials/sidefx-labs-installation/)

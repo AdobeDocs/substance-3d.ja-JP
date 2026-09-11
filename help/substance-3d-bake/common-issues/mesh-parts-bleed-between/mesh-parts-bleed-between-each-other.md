@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: 名前による一致を使用するか、距離を調整することで、ベイク処理の際にメッシュパーツが相互にににじむのを防ぎます。
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > この問題を回避するには、いくつかの解決策があります。
 > 
 > * [名前による一致](../../features/matching-by-name/matching-by-name.md)機能を使用して、メッシュを分離します
-> * [ケージ](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)を使用して、レイの距離を制限します。
+> * [ケージ](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)を使用して、レイの距離を制限します。
 > * 一般的なパンの設定で、既定のレイ距離を低い値に変更します。

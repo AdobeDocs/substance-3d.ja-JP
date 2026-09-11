@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Maxのレンダリングワークフローを使用して、Substanceマテリアルから各種レンダラー用のシェーダネットワークを自動作成します。
 helpx_creative_field: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 3ds Maxでのワークフローの使用
 
-3ds MaxプラグインのSubstanceには、レンダラをサポートするシェーダネットワークを自動作成するためのワークフローが含まれています。 レンダリングワークフローは、Substanceメニューにあります。
+3ds MaxプラグインのSubstanceには、レンダラーをサポートするシェーダーネットワークを自動作成するためのワークフローが含まれています。 レンダリングワークフローは、Substanceメニューにあります。
 
 ![](../../../assets/workflows-3.png)
 
-ワークフローを使用するには、マテリアルエディタでSubstanceノードを選択し、Substanceメニューからワークフローを選択します。
+ワークフローを使用するには、ワークフローエディターでSubstanceノードを選択し、マテリアルメニューからSubstanceを選択します。
 
 ![](../../../assets/max-workflow.gif)

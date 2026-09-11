@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maverick.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick.html"
 breadcrumb-title: ''
 description: Maverickレンダラーのマテリアルを使用して、Painterとの統合およびSBSARのサポートによる製品のビジュアライゼーションを行います。
 helpx_creative_field: ""

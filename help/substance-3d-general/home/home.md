@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/home.html"
 breadcrumb-title: ''
 description: Substance 3Dエコシステムに関する重要な情報を確認し、Adobeの3Dツールを開始する方法を学びます。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../assets/ecosystem-banner.jpg)
 
-[Substance 3Dエコシステム](https://www.adobe.com/jp/products/substance3d/3d-augmented-reality.html)全体に関連する情報を確認して見つけてください。
+[Substance 3Dエコシステム](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)全体に関連する情報を確認して見つけてください。
 
 ## エコシステム
 

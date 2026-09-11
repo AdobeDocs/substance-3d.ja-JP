@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-3.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正については、 3ds Maxプラグインバージョン2.3.3のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -29,9 +29,9 @@ ht-degree: 0%
 * プラグインファイルの名前がSubstanceMax.dltからsubstancemax.dltに変更されました
 * substance\_link.dllにバージョン情報と説明情報を追加
 * Redshiftバージョンの確認に関する問題を修正しました。Redshift 3でも動作するようになりました。
-* sbsarをsubstanceノードに読み込んだ後に取り消し/やり直しを行うとクラッシュする問題を修正しました。
+* sbsarをsubstanceノードに読み込んだ後に取り消し/やり直しを行う際のクラッシュを修正しました。
 * 設定ダイアログで修正回帰が機能しない
-* ラテン文字以外の文字を含むsbsarファイルを読み込むとクラッシュする問題を修正
+* ラテン文字以外の文字を含むsbsar ファイルを読み込む際のクラッシュを修正
 
 リリースのパイプラインも完全にリニューアルされたので、以前にリリースした大規模で非常に遠いリリースに比べ、より頻繁なリリースを楽しみにしています。
 

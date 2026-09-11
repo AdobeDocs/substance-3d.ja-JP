@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
 breadcrumb-title: ''
-description: MODOでSubstanceマテリアルをコピー、インスタンス化、複製して、複数のオブジェクトにわたってマテリアルを効率的に再利用できます。
+description: MODOのマテリアルをコピー、インスタンス化、複製して、複数のオブジェクトにわたってマテリアルを効率的に再利用できます。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > CopyDuplicate Substance
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 ## インスタンス化
 
-Substanceをインスタンス化するには、Substanceのマテリアルグループを選択し、右クリックして「インスタンス」を選択する必要があります。 これにより、他のメッシュに適用可能なSubstanceマテリアルグループのインスタンスが作成されます。 変更を行うには、ソースSubstanceアイテム(Substance)のSubstanceプロパティを調整する必要があります\
+Substanceをインスタンス化するには、Substanceのマテリアルグループを選択し、右クリックして「インスタンス」を選択する必要があります。 これにより、他のメッシュに適用できるSubstanceマテリアルグループのインスタンスが作成されます。 変更を行うには、ソースSubstanceアイテム(Substance)のSubstanceプロパティを調整する必要があります\
 から作成されたインスタンス。
 
 ![](../../../assets/inst.png)

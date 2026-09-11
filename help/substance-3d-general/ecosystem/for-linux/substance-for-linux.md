@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/ecosystem/substance-for-linux.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux.html"
 breadcrumb-title: ''
 description: Adobeのダウンロードアクセスポータルを使用して、LinuxでSubstance 3Dアプリケーションをダウンロード、インストール、およびアクティブ化する方法について説明します。
 helpx_creative_field: ""
@@ -75,6 +75,6 @@ Enterprise ContractでSubstance 3D for Linux®を購入すると、対応するA
 1. 解凍したライセンスキーファイルを共有マウントされたネットワークに配置します。
 1. ユーザーのマシンで、次のページの説明に従って、ライセンス・キー・ファイルを指す環境変数を設定します。
 
-   * Substance 3D Painter - <https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D Designer - <https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * Substance 3D Sampler - <https://experienceleague.adobe.com/ja/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D Painter - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D Designer - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * Substance 3D Sampler - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

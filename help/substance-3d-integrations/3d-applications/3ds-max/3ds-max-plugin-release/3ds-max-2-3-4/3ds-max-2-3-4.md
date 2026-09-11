@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-4.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正については、 3ds Maxプラグインバージョン2.3.4のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 1. 3.4リリース：
 
-* 3ds Max 2021のPBR (Spec/Gloss)シェーダのワークフローオプションが追加されました。
-* 3ds Max 2021のPBR（メタル/ラフ）シェーダのワークフローオプションが追加されました
+* 3ds Max 2021のPBR (Spec/Gloss)シェーダーのワークフローオプションの追加
+* 3ds Max 2021のPBR（メタル/ラフ）シェーダーのワークフローオプションが追加されました
 * SMEの異なるビュー間でノードを移動する際に、ワークフロースクリプトが失敗しなくなりました。
 * アセットトラッカーで相対パスを設定できるようになりました
 * ワークフロースクリプトが想定する出力が見つからない場合、コンソールにログが記録されます

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
 description: マテリアルとテクスチャ解像度を調整して、Unityのモバイルプラットフォーム向けのSubstance設定を最適化します。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **モバイルデバイスのテクスチャサイズ**
 > 
-> Unity Editorのテクスチャセットの解像度は、アプリケーションバイナリでパブリッシュされるサイズになります。 マテリアルの解像度を下げると、ファイルサイズが小さくなるテクスチャが発生します。
+> Unity Editorのテクスチャセットの解像度は、アプリケーションバイナリでパブリッシュされるサイズになります。 Substanceマテリアルの解像度を下げると、ファイルサイズが小さくなるテクスチャが作成されます。
 
 ## プラットフォーム
 

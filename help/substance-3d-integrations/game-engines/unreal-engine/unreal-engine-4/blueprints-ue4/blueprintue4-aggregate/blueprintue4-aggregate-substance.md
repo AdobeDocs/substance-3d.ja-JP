@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate-substance.html"
 breadcrumb-title: ''
 description: Blueprint集約ノードを使用して、Unreal エンジン 4で実行時に複数のSubstanceマテリアルを組み合わせて高度なワークフローを実現します。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Blueprint(UE4)：集約Substance
 
-新しい集約substanceノードを使用すると、2つのsubstanceインスタンスファクトリを使用して、新しいグラフインスタンスの作成に使用できる新しいインスタンスファクトリを実行時に作成できます。 この特別な機能は、一方の複合グラフインスタンスの出力テクスチャを、もう一方の複合グラフインスタンスの入力イメージにコネクトできることです。 この新しいファクトリからsubstance graphインスタンスを作成するには、ランタイムグラフインスタンスに関するドキュメントを参照してください。 [マテリアルインスタンス定義 – UE4](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/material-instance-definition-157352129.html)
+新しい集約substanceノードを使用すると、2つのsubstanceインスタンスファクトリを使用して、新しいグラフインスタンスの作成に使用できる新しいインスタンスファクトリを実行時に作成できます。 この特別な機能は、一方の複合グラフインスタンスの出力テクスチャを、もう一方の複合グラフインスタンスの入力イメージにコネクトできることです。 この新しいファクトリからsubstance graphインスタンスを作成するには、ランタイムグラフインスタンスに関するドキュメントを参照してください。 [マテリアルインスタンス定義 – UE4](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/material-instance-definition-157352129.html)
 
 1. 使用するSubstanceを読み込みます。
 1. **Substance グラフインスタンス**&#x200B;型の変数「AggregateGraphInstance」を作成します。
@@ -36,6 +36,6 @@ ht-degree: 0%
 
    ![](../../../../../assets/a2-3.png){width="800px"}
 1. 動的マテリアルインスタンスドキュメントに示されているように、マテリアルのチャンネルを設定します（手順11～19）\
-   [Blueprint(UE4)：動的なマテリアルインスタンス](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+   [Blueprint(UE4)：動的なマテリアルインスタンス](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
 
    ![](../../../../../assets/a4-3.png){width="800px"}

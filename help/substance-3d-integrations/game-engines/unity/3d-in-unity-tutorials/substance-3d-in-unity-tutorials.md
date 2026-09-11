@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
 breadcrumb-title: ''
 description: UnityプロジェクトでSubstance 3Dの素材を使用してマスターするためのビデオチュートリアルとラーニングリソースにアクセスします。
 helpx_creative_field: ""

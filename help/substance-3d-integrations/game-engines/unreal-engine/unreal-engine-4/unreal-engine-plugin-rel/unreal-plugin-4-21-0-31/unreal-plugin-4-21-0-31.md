@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-21-0-31.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-21-0-31.html"
 breadcrumb-title: ''
-description: 新機能、改善点、バグ修正について詳しくは、 Unreal Engine 4プラグインバージョン4.21.0.31のリリースノートを確認してください。
+description: 新機能、改善点、バグ修正について詳しくは、 Unreal エンジン 4プラグインバージョン4.21.0.31のリリースノートを参照してください。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Unreal Engine 4 plugin release notes > Unreal plugin 4.21.0.31
 helpx_experience_level: ""

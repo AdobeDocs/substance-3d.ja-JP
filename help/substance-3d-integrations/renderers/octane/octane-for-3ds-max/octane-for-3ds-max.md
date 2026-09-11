@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
-description: 3ds Maxでは、ライブDBマテリアルと適切な出力設定を使用して、オクタンレンダラーでSubstanceマテリアルを使用します。
+description: 3ds Maxでは、ライブDBの設定と適切な出力マテリアルを使用して、オクタンレンダラーでSubstanceマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Octane > Octane for 3ds Max
 helpx_experience_level: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## 3ds MaxプラグインのSubstance
 
-[3ds Maxプラグイン](../../../3d-applications/3ds-max/3ds-max.md)を使用すると、Substanceメニューで[Octane]を選択して、Substanceテクスチャ入力を使用してOctaneマテリアルを自動的に設定できます。
+[3ds Maxプラグイン](../../../3d-applications/3ds-max/3ds-max.md)を使用すると、Substanceメニューで[オクタン]を選択して、Substanceテクスチャ入力を使用してオクタンマテリアルを自動セットアップできます。
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/octane?$png$&jpegSize=200&wid=852)

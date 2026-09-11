@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-2-7-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-2-7-3.html"
 breadcrumb-title: ''
 description: MODOプラグインバージョン2.7.3のリリースノートを確認し、新機能、改善点、バグの修正について確認してください。
 helpx_creative_field: ""

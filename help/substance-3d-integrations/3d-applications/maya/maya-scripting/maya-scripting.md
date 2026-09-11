@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
 breadcrumb-title: ''
 description: Substance Maya APIを使用して、MayaワークフローでSubstanceマテリアルの作成と管理をスクリプト化します。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Mayaスクリプティング
 
-MayaプラグインのSubstanceはスクリプト化できます。 公開APIを使用すると、Substanceのマテリアルを作成および管理するためのスクリプトでSubstanceコマンドを使用できます。 プラグイン情報に移動すると、使用可能なコマンドにアクセスできます。
+MayaプラグインのSubstanceはスクリプト化できます。 APIの表示により、スクリプト内でSubstanceコマンドを使用して、Substanceマテリアルを作成および管理できます。 プラグイン情報に移動すると、使用可能なコマンドにアクセスできます。
 
 ***Windows>Settings/Preferences/Plugin Managerでsubstancemaya.mllファイルを検索します。***
 
@@ -30,12 +30,12 @@ MayaプラグインのSubstanceはスクリプト化できます。 公開API�
 
 ## スクリプト例：
 
-このスクリプトはsbsarファイルをロードし、選択したメッシュにArnoldレンダリングワークフローを適用します。 このスクリプトを使用するには、次の例に従ってください。
+このスクリプトはsbsar ファイルを読み込み、選択したメッシュにArnoldレンダリングワークフローを適用します。 このスクリプトを使用するには、次の例に従ってください。
 
 1. コードをコピーして、スクリプトエディタのPythonタブに貼り付けます。
 1. ビューポートでの選択とメッシュ
 1. Pythonタブでテキストを選択し、「Ctrl + Enter」を押します。
-1. ウィンドウで、sbsarファイルを参照します。
+1. ウィンドウで、sbsar ファイルを参照します。
 
 ```
 import maya.cmds as cmds 
@@ -170,4 +170,4 @@ if __name__ == '__main__':
 ```
 
 
-公開APIを使用すると、スクリプトでSubstanceコマンドを使用できます
+APIの表示により、スクリプトでSubstanceコマンドを使用できます

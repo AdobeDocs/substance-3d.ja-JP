@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-2-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-2-0.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正については、 3ds Maxプラグインバージョン2.2.0のリリースノートを確認してください。
 helpx_creative_field: ""
@@ -23,8 +23,8 @@ ht-degree: 0%
 リリース：2019年6月4日
 
 * 3ds Max 2020のサポートを追加
-* Substance engine V7に更新され、Designer 2019.1のバリュープロセッサーをサポート
-* プラグインは、それ自体に関連するSubstanceエンジンを読み込めるようになりました
+* Substance engine V7に更新され、Designer 2019.1からのバリュープロセッサーがサポートされるようになりました。
+* プラグインは、それ自体に関連するエンジンを読み込めるようになりました
 * MSI形式に変更し、Microsoftツールを使用してサイレントインストール/アンインストールを実行
 * インストーラーとファイルが正しく署名されるようになりました
 * インストーラーは、元のプラグインのファイルを変更しなくなりました

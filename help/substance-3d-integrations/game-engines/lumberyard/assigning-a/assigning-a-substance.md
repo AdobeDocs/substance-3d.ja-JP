@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
 breadcrumb-title: ''
 description: 他のマテリアルと同様に、Substanceエディタを使用して、Lumberyardのオブジェクトにマテリアルマテリアルを割り当てます。
 helpx_creative_field: ""

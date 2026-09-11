@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
 breadcrumb-title: ''
-description: UnityのランタイムSubstanceのマテリアル操作に使用されるSubstanceRuntimeクラスのリファレンスドキュメントです。
+description: Unityのランタイムマテリアルオペレーションに使用されるSubstanceRuntimeクラスの参照ドキュメント。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Substance 3D for Unity Scripting > Class Documentation > SubstanceRuntime Class
 helpx_experience_level: ""
@@ -22,8 +22,8 @@ ht-degree: 1%
 
 ## Adobe.Substance.ランタイム.SubstanceRuntimeクラスリファレンス
 
-Substanceエンジンの初期化を処理し、Substanceインスタンスへのネイティブハンドラーを取得するために使用されるシングルトンクラスです。\
-Substance.Inheritance.Runtime.SubstanceRuntimeのSubstance図：
+エンジンの初期化を処理するシングルトンクラスです。サブスタンスインスタンスへのネイティブハンドラーの取得に使用されます。\
+Adobe.Substance.ランタイム.SubstanceRuntimeの継承ダイアグラム：
 
 ![](../../../../../assets/image2022-6-22-14-35-28.png)
 
@@ -47,7 +47,7 @@ Substance.Inheritance.Runtime.SubstanceRuntimeのSubstance図：
 
 ### 詳細な説明
 
-Substanceエンジンの初期化を処理し、Substanceインスタンスへのネイティブハンドラーを取得するために使用されるシングルトンクラスです。
+エンジンの初期化を処理するシングルトンクラスです。サブスタンスインスタンスへのネイティブハンドラーの取得に使用されます。
 
 ### メンバー関数のドキュメント
 

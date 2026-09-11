@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
 breadcrumb-title: ''
 description: 3ds MaxのSubstanceプラグイン設定（エンジンモードとデフォルトの解像度オプションを含む）を構成します。
 helpx_creative_field: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Substance設定
 
-3ds max UIの上部にあるSubstanceメニューでは、エンジンモードやデフォルトの解像度など、さまざまな設定を変更できます。
+3ds maxのUIの上部にある[Substance]メニューで、エンジンモードやデフォルトの解像度など、さまざまな設定を変更できます。
 
-1. **選択したエンジン**: GPUエンジンとCPUエンジンを切り替えます。 GPUエンジンにより、最大8Kの解像度でテクスチャを計算できます。 現在、CPUエンジンの上限は2Kです。
+1. **選択したエンジン**: GPUモードとCPU エンジンを切り替えます。 GPU エンジンにより、最大8Kの解像度でテクスチャを計算できます。 現在、CPUのエンジンは2Kに制限されています。
 1. **既定の入力解像度X**: Substanceの作成時に既定のX解像度を設定します。 Substanceごとに変更可能
 1. **既定の入力解像度Y**: Substance作成時の既定のY解像度を設定します。 Substanceごとに変更できます。
 1. **既定のロック解決率**: SubstanceのXおよびY解像度をロックするための既定の状態を設定します。 Substanceごとに変更できます。

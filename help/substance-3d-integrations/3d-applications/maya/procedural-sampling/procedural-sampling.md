@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
-description: Mayaでプロシージャテクスチャサンプリングサイズを制御して、Substanceマテリアルの質とパフォーマンスを最適化します。
+description: Mayaのテクスチャサンプリングサイズを制御して、Substanceマテリアルの質とパフォーマンスを最適化します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Procedural Sampling
 helpx_experience_level: ""
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 手続き型サンプリング
 
-プロシージャルサンプリング設定を使用すると、プラグインがBrowninan、Noise、Fractal、Mandelbrotなどのプロシージャルテクスチャをサンプリングするサイズを制御できます。これらの設定は、手続き型テクスチャを使用するイメージ入力を持つSubstanceマテリアルに固有のものです。
+プロシージャルサンプリング設定では、プラグインがBrowninan、ノイズ、Fractal、Mandelbrotなどのプロシージャルのテクスチャをサンプリングするサイズを制御できます。これらの設定は、プロシージャルのテクスチャを使用する画像入力を持つSubstanceマテリアルに固有のものです。
 
 ![](../../../assets/procedural.png)

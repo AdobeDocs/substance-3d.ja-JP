@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maxwell.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell.html"
 breadcrumb-title: ''
 description: MayaとPainterのMaxwellレンダラでSubstanceマテリアルを使用して、物理的なレンダリングワークフローを実現します。
 helpx_creative_field: ""

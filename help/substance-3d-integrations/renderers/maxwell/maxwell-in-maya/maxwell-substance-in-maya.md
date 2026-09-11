@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
 breadcrumb-title: ''
-description: MayaのMaxwellレンダラで、エクスポートされたマップまたはSubstanceプラグインを通じてSubstanceマテリアルを使用します。
+description: MayaのMaxwellレンダラで、エクスポートされたマップまたはSubstanceプラグインを介してSubstance マテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Maxwell > Maxwell - Substance in Maya
 helpx_experience_level: ""

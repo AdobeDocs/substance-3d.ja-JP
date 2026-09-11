@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-3.html"
 breadcrumb-title: ''
 description: Mayaプラグインバージョン2.1.3のリリースノートを確認し、新機能、改善点、およびバグ修正について学習してください。
 helpx_creative_field: ""

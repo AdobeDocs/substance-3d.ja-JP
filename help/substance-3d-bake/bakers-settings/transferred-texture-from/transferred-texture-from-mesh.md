@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: 法線マップ変換のサポートなど、UVに基づいてメッシュ間でテクスチャを転送します。
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ ht-degree: 3%
 | **フィルターモード** | テクスチャのピクセル補間方法を定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>最も近い</strong>：補間は行われません。指定された位置で見つかった最も近いピクセルを使用します。 正確ですが、エイリアスを作成できます。</li><li data-preserve-html="true"><strong>バイリニア</strong> （既定）：指定した位置に最も近い4つのピクセルを使用します。 エイリアスはありませんが、ぼかすことができます。</li></ul> |
 | **標準マップ** | 有効になっている場合、転送する入力テクスチャが法線マップであることをベイカーに示します。 これは、ベイカーがテクスチャに特別な変換を適用して、ターゲットメッシュとの互換性を確保することを示します。 |
 | **マップの種類** | 入力テクスチャが法線マップのタイプを定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>ワールドスペース</strong></li><li data-preserve-html="true"><strong>接線空間</strong> （既定）</li></ul> |
-| **法線の向き** | **マップの種類**&#x200B;が&#x200B;**接線空間**&#x200B;に設定されている場合、入力テクスチャの標準の形式を定義します。指定できる値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> （既定）</li></ul> |
+| **法線の向き** | **マップの種類**&#x200B;が&#x200B;**接線空間**&#x200B;に設定されている場合に、入力テクスチャの標準の書式を定義します。指定できる値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong> （既定）</li></ul> |

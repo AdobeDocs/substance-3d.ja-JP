@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: MaverickレンダラーでSubstanceのSBSARファイルを直接使用すると、リアルタイムのマテリアル編集やパラメーター制御が可能になります。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance SBSARとの連携
 
-**&#x200B;**&#x200B;**Substance DesignerまたはSubstanceで** **Alchemist** **から** **Maverick &#x200B;**&#x200B;**次の**&#x200B;**いずれか** **/** **これらの** **2** **方式**&#x200B;**:**&#x200B;**簡単に** **SBSARファイル**&#x200B;を **&#x200B; **&#x200B;簡単に利用できます&#x200B;**&#x200B;**
+**** **Substance DesignerまたはSubstanceで** **Alchemist** **から** **Maverick ****次の****いずれか** **/** **これらの** **2** **方式****:****簡単に** **SBSARファイル**&#x200B;を** **簡単に利用できます****
 
 **メソッド** **1:**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **メソッド** **2**&#x200B;**:**
+   **メソッド** **2****:**
 1. Windows エクスプローラーからシーン内の任意のオブジェクトにSbsar ファイルをドロップするだけです。 SBSARファイルはマテリアルパネルにもドロップできます。
 1. 読み込みダイアログでは、いくつかのマテリアルパラメーターを設定できます。
 

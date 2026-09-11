@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/tutorials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/tutorials.html"
 breadcrumb-title: ''
 description: チュートリアルや学習リソースにアクセスして、Substance Bakersをマスターし、テクスチャベイク処理のワークフローを向上させることができます。
 helpx_creative_field: ""

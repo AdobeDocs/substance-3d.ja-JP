@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/modo-installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-installation.html"
 breadcrumb-title: ''
 description: LPKファイルをMODOにドラッグして、MODO用のSubstanceプラグインをインストールし、Substance機能を追加します。
 helpx_creative_field: ""

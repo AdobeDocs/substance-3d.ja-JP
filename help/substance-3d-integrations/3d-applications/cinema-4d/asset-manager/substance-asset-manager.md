@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
 description: Cinema 4DのSubstanceアセットマネージャを使用して、シーン内のSubstanceマテリアルを追加、削除、整理します。
 helpx_creative_field: ""
@@ -105,8 +105,8 @@ Asset Managerに表示されているすべてのSubstanceの選択を解除し�
 
 Substanceアセットマネージャーは、ドラッグ&amp;ドロップで操作できます。 次のオプションが用意されています。
 
-* エクスプローラまたはFinderからSubstanceをSubstanceアセットマネージャにドラッグアンドドロップするだけで、アセットをシーンにロードできます。
-* SubstanceをSubstanceシェーダのリンクフィールドにドラッグして、シェーダとSubstanceアセットをコネクトすることができます。
+* エクスプローラーまたはFinderからSubstanceをシーンアセットマネージャーにドラッグアンドドロップするだけで、Substanceにアセットを読み込むことができます。
+* SubstanceをSubstanceシェーダのリンクフィールドにドラッグして、シェーダーとSubstanceアセットをコネクトすることができます。
 * 並べ替え解除モード（以下を参照）の場合は、Substanceを新しい場所にドラッグすると、Asset Managerでアセットを並べ替えることができます。
 
 

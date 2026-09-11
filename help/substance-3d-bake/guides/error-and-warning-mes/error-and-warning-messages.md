@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
 description: Substanceでベイク処理を行ったときに表示される可能性のあるすべてのエラーメッセージと警告メッセージのリファレンスガイド。
 helpx_creative_field: ""

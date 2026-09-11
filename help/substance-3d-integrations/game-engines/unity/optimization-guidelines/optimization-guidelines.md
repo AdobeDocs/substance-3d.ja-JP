@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
-description: 最適化のガイドラインに従って、Substanceマテリアルの複雑さとUnityでのレンダリングパフォーマンスのバランスを調整します。
+description: 最適化のガイドラインに従って、マテリアルの複雑さとUnityのレンダリングパフォーマンスのバランスをとります。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Optimization Guidelines
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Substanceマテリアルが複雑になるほど、レンダリングに必要な処理能力が高まります。 したがって、Substanceマテリアルは&#x200B;**複雑さとレンダリング速度のバランスを取る**&#x200B;必要があります。 ゲームなどのリアルタイムグラフィックスアプリケーションで使用する場合は、*特に*&#x200B;重要です。
 
-独自のカスタムSubstanceマテリアルを作成する場合は、次の最適化ガイドラインを確認してください。
+独自のカスタムマテリアルを作成する場合は、次の最適化のガイドラインを確認してください。
 
 [Substance Designerの最適化に関するガイドライン](https://docs.substance3d.com/display/SDDOC/Performance+Optimization+Guidelines)
 
@@ -35,6 +35,6 @@ Substanceマテリアルが複雑になるほど、レンダリングに必要�
 >   
 > Substance CPUエンジンは4Kで演算を行うことができますが、非常に遅いため、インテグレーションがハングしたり、クラッシュする可能性があります。
 
-次の例では、[タイルSampler](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler)ノードの出力サイズが[絶対](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/substance-graphs/output-size) 4096に設定されています。 これにより、ダウンストリームのいくつかのノードが4Kで計算されてから、最終的な2048出力解像度に合わせてダウンスケールされます。
+次の例では、[タイルSampler](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler)ノードの出力サイズが[絶対](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096に設定されています。 これにより、ダウンストリームのいくつかのノードが4Kで計算されてから、最終的な2048出力解像度に合わせてダウンスケールされます。
 
 ![](../../../assets/absolute.png){width="1000px"}

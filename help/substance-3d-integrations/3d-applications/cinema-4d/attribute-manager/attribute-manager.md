@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
 breadcrumb-title: ''
-description: Cinema 4Dの属性マネージャーを使用して、Substanceアセットのプロパティとマテリアル設定を構成します。
+description: Cinema 4Dの属性マネージャーを使用して、Substanceアセットのプロパティとマテリアルを構成します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D > Attribute Manager
 helpx_experience_level: ""
@@ -37,7 +37,7 @@ Substanceの入力がグループ化されている場合、これらのグル�
 
 ## ファイル名パラメーター
 
-アトリビュートマネージャのファイル名パラメータを使用すると、Substanceアセットをシーンにロードした後で、ファイルの場所を変更できます。
+属性マネージャーのファイル名パラメーターを使用すると、Substanceアセットをシーンーに読み込んだ後で、アセットのファイルの場所を変更できます。
 
 ![](../../../assets/cinema-4d-10.png){width="500px"}
 

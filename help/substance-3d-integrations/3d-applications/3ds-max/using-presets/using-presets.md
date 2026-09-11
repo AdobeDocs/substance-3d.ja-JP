@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
 breadcrumb-title: ''
 description: Substanceファイルに埋め込まれたプリセットを使用するか、カスタムプリセットを作成して、3ds Maxのパラメータ設定を保存します。
 helpx_creative_field: ""

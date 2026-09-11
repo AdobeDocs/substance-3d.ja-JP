@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
 breadcrumb-title: ''
 description: プリセットファイルを使用してパラメーター調整を保持しながら、Unityプロジェクト間でSubstance SBSARファイルを共有します。
 helpx_creative_field: ""
