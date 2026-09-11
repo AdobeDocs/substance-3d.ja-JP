@@ -105,8 +105,8 @@ Asset Managerに表示されているすべてのSubstanceの選択を解除し�
 
 Substanceアセットマネージャーは、ドラッグ&amp;ドロップで操作できます。 次のオプションが用意されています。
 
-* エクスプローラまたはFinderからSubstanceをSubstanceアセットマネージャにドラッグアンドドロップするだけで、アセットをシーンにロードできます。
-* SubstanceをSubstanceシェーダのリンクフィールドにドラッグして、シェーダとSubstanceアセットをコネクトすることができます。
+* エクスプローラーまたはFinderからSubstanceをシーンアセットマネージャーにドラッグアンドドロップするだけで、Substanceにアセットを読み込むことができます。
+* SubstanceをSubstanceシェーダのリンクフィールドにドラッグして、シェーダーとSubstanceアセットをコネクトすることができます。
 * 並べ替え解除モード（以下を参照）の場合は、Substanceを新しい場所にドラッグすると、Asset Managerでアセットを並べ替えることができます。
 
 

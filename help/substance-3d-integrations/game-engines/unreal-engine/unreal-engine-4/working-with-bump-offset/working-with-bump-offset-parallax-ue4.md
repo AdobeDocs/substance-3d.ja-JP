@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
 breadcrumb-title: ''
-description: Unreal Engine 4のSubstanceマテリアルでバンプオフセットマッピングを使用すると、深度の錯覚やサーフェスのディテールを作成できます。
+description: アンリアルエンジン 4のSubstanceマテリアルでバンプオフセットマッピングを使用すると、深度の錯覚やサーフェスのディテールを作成できます。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 4 > Working with Bump Offset (Parallax) - UE4
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # バンプオフセット（パララックス）の操作 – UE4
 
-**バンプオフセット**&#x200B;マッピングを使用すると、UV座標をクリエイティブな方法で変更して、サーフェスに深度があるように見せ、テクスチャをオブジェクトのサーフェスからさらに置き換えることができます。これにより、サーフェスに実際よりも多くのディテールがあるように見せます。 この操作方法の例では、バンプオフセットマテリアルエクスプレッションを見つける方法だけでなく、マテリアルでバンプオフセットノードを利用する方法についても説明します。
+**バンプオフセット**&#x200B;マッピングを使用すると、UV座標をクリエイティブな方法で変更して、表面に深度があるように見せ、オブジェクトの表面からテクスチャをさらに置き換えることができます。これにより、表面に実際よりも多くのディテールがあるように見せます。 この操作方法の例では、バンプオフセットマテリアルエクスプレッションを見つける方法だけでなく、マテリアルでバンプオフセットノードを使用する方法についても説明します。
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/HowTo/BumpOffset/>
 
@@ -28,6 +28,6 @@ Height出力を使用するには、Substance・ファクトリ・インスタ�
 
 ![](../../../../assets/height-1.png){width="600px"}
 
-バンプオフセットノードを作成し、Heightの赤チャンネルをHeightにプラグインします。 次に、バンプオフセットの座標入力にTexCoordを入力できます。 最後に、バンプオフセットの出力が、すべてのSubstanceテクスチャのUV入力に接続されます。
+バンプオフセットノードを作成し、Heightの赤チャンネルをHeightにプラグインします。 次に、バンプオフセットの座標入力にTexCoordを入力できます。 最後に、バンプオフセットの出力が、すべてのテクスチャのUV入力に接続されます。
 
 ![](../../../../assets/bump.png){width="800px"}

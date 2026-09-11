@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## MayaプラグインのSubstance
 
-Arnold[Render Workflow](../../../3d-applications/maya/using-workflows/using-workflows.md)を使用して、シェーダーネットワークを自動的に作成できます。
+Arnold[Render Workflow](../../../3d-applications/maya/using-workflows/using-workflows.md)を使用すると、シェーダーネットワークを自動的に作成できます。
 
 ![](../../../assets/render-workflow.png)

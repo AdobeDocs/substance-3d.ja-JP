@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
-description: 最適化のガイドラインに従って、Substanceマテリアルの複雑さとUnityでのレンダリングパフォーマンスのバランスを調整します。
+description: 最適化のガイドラインに従って、マテリアルの複雑さとUnityのレンダリングパフォーマンスのバランスをとります。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Optimization Guidelines
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Substanceマテリアルが複雑になるほど、レンダリングに必要な処理能力が高まります。 したがって、Substanceマテリアルは&#x200B;**複雑さとレンダリング速度のバランスを取る**&#x200B;必要があります。 ゲームなどのリアルタイムグラフィックスアプリケーションで使用する場合は、*特に*&#x200B;重要です。
 
-独自のカスタムSubstanceマテリアルを作成する場合は、次の最適化ガイドラインを確認してください。
+独自のカスタムマテリアルを作成する場合は、次の最適化のガイドラインを確認してください。
 
 [Substance Designerの最適化に関するガイドライン](https://docs.substance3d.com/display/SDDOC/Performance+Optimization+Guidelines)
 

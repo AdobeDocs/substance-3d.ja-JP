@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
 breadcrumb-title: ''
-description: ハイポリゴンメッシュからHeightマップを作成し、テクスチャリング用にサーフェスのディテールとジオメトリ情報をキャプチャします。
+description: ハイポリゴンメッシュから高さマップを作成し、サーフェスの詳細とジオメトリ情報をキャプチャしてテクスチャリングします。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Height Map from Mesh
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 8%
 
 # メッシュからの高さマップ
 
-メッシュベイカーからHeightマップを使用すると、高ポリゴンメッシュからHeightマップを作成できます。**使用可能：**
+メッシュからの高さマップベイカーでは、ハイポリメッシュから高さマップを作成できます。**使用可能：**
 
 * Painter
 * Designer
@@ -30,5 +30,5 @@ ht-degree: 8%
 
 | *パラメーター* | *説明* |
 | --- | --- |
-| **&#x200B;**&#x200B;正規化&#x200B;**&#x200B;** | Heightの値の範囲をテクスチャに保存する方法を定義します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>レイ距離に対する相対</strong>:</li><li data-preserve-html="true"><strong>ローポリメッシュを基準（UVタイル単位）</strong> （デフォルト）</li><li data-preserve-html="true"><strong>最小/最大を基準（UVタイル単位）</strong></li><li data-preserve-html="true"><strong>マニュアル</strong></li></ul> |
+| **&#x200B;**&#x200B;正規化&#x200B;**&#x200B;** | Heightの値の範囲をテクスチャに保存する方法を指定します。有効な値：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>レイ距離に対する相対</strong>:</li><li data-preserve-html="true"><strong>ローポリメッシュからの相対（UV タイルごと）</strong> （既定）</li><li data-preserve-html="true"><strong>最小/最大を基準（UV タイル単位）</strong></li><li data-preserve-html="true"><strong>マニュアル</strong></li></ul> |
 | **縮尺除数** | Heightの値を乗算または除算する量を指定します。**正規化**&#x200B;が&#x200B;**手動**&#x200B;に設定されている場合にのみ使用できます。 |

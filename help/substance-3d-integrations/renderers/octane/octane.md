@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
-description: スタンドアロンレンダラーまたは3ds MaxとMODOのDCCプラグインを使用して、Octaneを使用してSubstanceマテリアルをレンダリングします。
+description: スタンドアロンレンダラーまたは3ds MaxとMODOのDCCプラグインを使用して、Octaneでマテリアルをレンダリングします。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Octane
 helpx_experience_level: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # オクタン
 
-オクタンは、スタンドアロンレンダラーまたはDCCプラグインを使用して、Substance出力をレンダリングするために使用できます。 Octane Standaloneは、ライブDBSubstance素材を通じて、ベースカラー、メタリック、ラフネスに基づくSubstance出力をサポートしています。
+オクタンは、スタンドアロンレンダラーまたはDCCプラグインを使用して、Substance出力をレンダリングするために使用できます。 ライブDBマテリアルを通じて、Octane Standaloneはbase color、メタリック、ラフネスに基づいたSubstance出力をサポートします。
 
 **オクタンスタンドアロン**\
-**Live DB > Materials > Misc**&#x200B;で、「**Substance PBR**」マテリアルを見つけます。
+**Live DB/マテリアル/その他**&#x200B;で、「**Substance PBR**」マテリアルを見つけます。
 
 ![](../../assets/octane-1.png)
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
 breadcrumb-title: ''
-description: PBRレンダリングには、pxrSurfaceまたはpxrDisneyマテリアルを使用して、MayaのRendermanでSubstanceマテリアルを使用します。
+description: MayaのRendermanでpxrSurfaceまたはpxrDisney マテリアルを使用してPBRレンダリングを行う場合に、Substanceマテリアルを使用します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Renderman > Renderman for Maya
 helpx_experience_level: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## MayaプラグインのSubstance
 
-MayaプラグインのSubstanceは、Renderman Render WorkflowでpxrSurfaceをサポートします。 このワークフローを使用すると、pxrSurfaceシェーダが作成され、マテリアルで使用するためにSubstance出力が変換されます。
+MayaプラグインのSubstanceは、Renderman Render WorkflowでpxrSurfaceをサポートします。 このワークフローを使用すると、pxrSurface シェーダーが作成され、マテリアルで使用するためにSubstance出力が変換されます。
 
 ![](../../../assets/renderman-1.png)

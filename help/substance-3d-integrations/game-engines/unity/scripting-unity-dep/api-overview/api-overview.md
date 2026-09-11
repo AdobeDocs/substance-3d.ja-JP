@@ -31,13 +31,13 @@ Substance.ゲームは、スクリプト作成に使用するクラスを含む�
 
 **Substance.Game.**&#x200B;**Substance**: sbsarを参照します
 
-**Substance.ゲーム.SubstanceGraph**: sbsarの個々のグラフ。*（Unity 2017でProceduralMaterialとして使用）*
+**Substance.Game.SubstanceGraph**: sbsar.*の個々のグラフ（Unity 2017でProceduralMaterialとして使用）*
 
 ## スクリプトプロセス
 
 1. SubstanceGraphのインスタンスの作成
 1. グラフインスタンスにパラメーターを設定します。
-1. Substanceをレンダリング用にキューに追加： QueueForRender()は、サブスタンスグラフをキューに追加します。 このリストは、次にRenderAsyncまたはRenderSyncを呼び出すときに処理されます。
+1. Substanceをレンダリング用にキューに追加： QueueForRender()は、substance グラフをキューに追加します。 このリストは、次にRenderAsyncまたはRenderSyncを呼び出すときに処理されます。
 
 ### グラフインスタンスパラメーター
 
@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-引用符で囲まれた値は、Substance Designerで設定されたパラメーターIdentifierです。
+引用符で囲まれた値は、Substance Designerで設定されたパラメーター識別子です。
 
-Unityインスペクタで、パラメータの上にマウスを置くと、Substance Designerに設定されているIdentifierの名前を示すツールチップが表示されます。
+Unity Inspectorで、パラメータの上にマウスを置くと、Substance Designer内の識別子セットの名前を示すツールチップが表示されます。
 
 ![](../../../../assets/tooltip-6.png)
 

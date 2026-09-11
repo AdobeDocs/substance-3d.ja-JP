@@ -7,7 +7,7 @@ helpx_description: bakers > Common Issues > Seams are visible after baking a nor
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 通常のテクスチャをベイク処理した後に継ぎ目が表示される
+title: シームは、通常のテクスチャをベイクした後に表示されます
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 0%
 ---
 
 
-# 通常のテクスチャをベイク処理した後に継ぎ目が表示される
+# シームは、通常のテクスチャをベイクした後に表示されます
 
 >[!WARNING]
 >
 > **問題**
 > 
-> シームは、メッシュのUV境界に、清潔なベイクをした後でも見ることができます。
+> シームは、メッシュのUV境界に正しい烘焙を行った後でも見ることができます。
 
 >[!NOTE]
 >

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity.html"
 breadcrumb-title: ''
-description: ネイティブプラグインのサポートと実行時パラメータ制御により、UnityゲームエンジンでSubstanceのマテリアルを読み込んで使用します。
+description: ネイティブプラグインのサポートとランタイムパラメータコントロールにより、UnityゲームエンジンでSubstanceマテリアルを読み込んで使用できます。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity
 helpx_experience_level: ""
@@ -45,8 +45,8 @@ ht-degree: 0%
 * [最適化のガイドライン](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md) – 独自のカスタムSubstanceマテリアルを作成する場合は、次の最適化のガイドラインを確認してください。
 * [プロジェクトのアップグレード/既知の問題](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) — UnityプラグインのSubstanceに関する既知の問題
 * [Substance グラフの管理](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — Substance グラフマネージャー(SGM)を使用して、Substanceのマテリアルに基づいて新しいマテリアルを作成できます
-* [パラメーターの変更](../../game-engines/unity/changing-parameters/changing-parameters.md) — Substanceマテリアルのパラメーターは、Substance グラフオブジェクト(SGO)でアクセスできます。
-* [生成されたテクスチャ(パッキング)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) – 生成されたテクスチャは、テクスチャを作成するためにSubstance engineによって計算されたSubstanceからの出力を示します
+* [パラメーターの変更](../../game-engines/unity/changing-parameters/changing-parameters.md) — マテリアルのパラメーターは、Substance グラフオブジェクト(SGO)でアクセスできます。
+* [生成されたテクスチャ (パッキング)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) – 生成されたテクスチャは、Substance engineがテクスチャを作成するために計算したSubstanceからの出力を示します
 * [レンダリングカラースペース](../../game-engines/unity/rendering-color-space/rendering-color-space.md) – 最良の結果を得るには、Unity Player設定でカラースペースをリニアに設定する必要があります。
 * [画像入力の使用](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [モバイル用に公開](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) – モバイルプラットフォームで公開するためのガイドライン
@@ -77,8 +77,8 @@ ht-degree: 0%
 * [最適化のガイドライン](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md) – 独自のカスタムSubstanceマテリアルを作成する場合は、次の最適化のガイドラインを確認してください。
 * [プロジェクトのアップグレード/既知の問題](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) — UnityプラグインのSubstanceに関する既知の問題
 * [Substance グラフの管理](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — Substance グラフマネージャー(SGM)を使用して、Substanceのマテリアルに基づいて新しいマテリアルを作成できます
-* [パラメーターの変更](../../game-engines/unity/changing-parameters/changing-parameters.md) — Substanceマテリアルのパラメーターは、Substance グラフオブジェクト(SGO)でアクセスできます。
-* [生成されたテクスチャ(パッキング)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) – 生成されたテクスチャは、テクスチャを作成するためにSubstance engineによって計算されたSubstanceからの出力を示します
+* [パラメーターの変更](../../game-engines/unity/changing-parameters/changing-parameters.md) — マテリアルのパラメーターは、Substance グラフオブジェクト(SGO)でアクセスできます。
+* [生成されたテクスチャ (パッキング)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) – 生成されたテクスチャは、Substance engineがテクスチャを作成するために計算したSubstanceからの出力を示します
 * [レンダリングカラースペース](../../game-engines/unity/rendering-color-space/rendering-color-space.md) – 最良の結果を得るには、Unity Player設定でカラースペースをリニアに設定する必要があります。
 * [画像入力の使用](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [モバイル用に公開](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) – モバイルプラットフォームで公開するためのガイドライン

@@ -35,7 +35,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.AttachGraph
 
 |  |  |
 | --- | --- |
-| グラフ | ターゲット物質グラフ。 |
+| グラフ | 標的物質のグラフ。 |
 
 ### CreatePresetFromCurrentState()
 
@@ -44,11 +44,11 @@ string Adobe.Substance.Runtime.SubstanceRuntimeGraph.CreatePresetFromCurrentStat
 ```
 
 
-現在のグラフ状態をプリセットXMLに保存します。
+現在のグラフステートをプリセットXMLに保存します。
 
 **戻り値**
 
-グラフ入力の現在の状態を使用して作成されたプリセット。
+グラフ入力の現在のステートを使用して作成されたプリセット。
 
 ### GetGeneratedTextures()
 
@@ -70,7 +70,7 @@ bool Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputBool ( string inputNa
 ```
 
 
-Substanceのブール値入力を取得します。
+ブーリアン入力を取得します。
 
 **パラメーター**
 
@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-Substance浮動小数点値を取得する
+浮動小数の入力を取得
 
 **パラメーター**
 

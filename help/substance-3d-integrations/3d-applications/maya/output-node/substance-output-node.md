@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
-description: MayaのSubstance出力ノードを使用して、計算されたテクスチャをシェーダネットワークにコネクトする方法について説明します。
+description: MayaのSubstance出力ノードを使用して、計算されたテクスチャをシェーダーネットワークに接続する方法について説明します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Substance Output Node
 helpx_experience_level: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Substance出力ノード
 
-Substance出力ノードは、Substance engineから計算されたテクスチャへの参照です。 Substanceノードに接続されています。 Substanceノードで出力が作成されると、Substanceエンジンはテクスチャを計算し、このデータはRAMに保持されます。 GPUエンジンを使用する場合、データはGPUで計算され、Substance GPU描画エンジンを使用してメモリに返されます。 アクティブ化されていないSubstanceノードの出力は計算されません。
+Substance出力ノードは、Substance engineから計算されたテクスチャへの参照です。 Substanceノードに接続されています。 Substanceノードに出力が作成されると、Substanceエンジンはテクスチャを計算し、このデータはRAMに保持されます。 GPU エンジンを使用する場合、データはGPUで計算され、Substance GPU ブレンドエンジンを使用してメモリに返されます。 アクティブ化されていないSubstanceノードの出力は計算されません。
 
 ![](../../../assets/outputnode.png)
 
-このノードでは、Substance Designerの出力で、Identifier、Label、およびUsageセットなどの出力情報を確認できます。 このノードでは、出力キャッシュセクションでテクスチャをディスクにベイク処理することもできます。
+このノードでは、出力の識別子、ラベル、使用状況セットなどの出力Substance Designerが表示されます。 「出力キャッシュ」セクションでテクスチャをディスクにベイクすることもできます。

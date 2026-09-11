@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## コロナ1.6 - 6
 
-[3ds Maxプラグイン](../../../3d-applications/3ds-max/3ds-max.md)を使用すると、[Substance]メニューで[コロナ]を選択して、Substanceテクスチャ入力を使用してコロナマテリアルを自動設定できます。
+[3ds Maxプラグイン](../../../3d-applications/3ds-max/3ds-max.md)を使用すると、[Substance]メニューで[コロナ]を選択して、Substanceテクスチャ入力を使用してコロナマテリアルを自動的に設定できます。
 
 ![](../../../assets/corona.png){width="500px"}
 
@@ -36,6 +36,6 @@ Coronaレンダー7以降の場合は、Substance2ノードを選択した状態
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/corona-physical-material?$png$&jpegSize=200&wid=857)
 
-* **LiftGamaGain**&#x200B;は、Base color出力とBase color入力の間に作成されます。 カラー差の補正にはガンマ値0.455が使用されます。
+* **LiftGamaGain**&#x200B;は、基本色出力と基本色入力の間に作成されます。 カラー差の補正にはガンマ値0.455が使用されます。
 * **CoronaNormal**&#x200B;は、法線の出力とベースバンプ入力の間、およびCoat normalの出力とクリアコートバンプ入力の間に作成されます。 設定は変更されませんが、ここでは通常の変更を行うことができます。
 * **CoronaMix**&#x200B;は、光沢カラー出力と光沢カラー入力の間に作成されます。 ベースレイヤーのミックス量には0が設定され、乗数には2が設定されます。 「ミックス量」の値を調整して、光沢を制御できます。

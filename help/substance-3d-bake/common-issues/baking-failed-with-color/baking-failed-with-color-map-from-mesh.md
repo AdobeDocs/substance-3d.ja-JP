@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
-description: メッシュカラープロパティとUV マッピングを確認して、メッシュベイク処理の失敗からカラーマップを解決します。
+description: メッシュからのカラーマップの色のプロパティとUVのマッピングを確認して、メッシュのベイクエラーを解決します。
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Baking failed with Color Map from Mesh
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: メッシュからのカラーマップでベイク処理に失敗しました
+title: メッシュからのカラーマップでベイク処理が失敗しました
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# メッシュからのカラーマップでベイク処理に失敗しました
+# メッシュからのカラーマップでベイク処理が失敗しました
 
 >[!WARNING]
 >
@@ -28,21 +28,21 @@ ht-degree: 0%
 > 
 > &#x200B;> > > 
 > 
-> [ ベイク処理] ベイク処理に失敗しました（メッシュからのカラーマップ）\
-> 頂点カラーが見つかりません
+> [ベイク]ベイクに失敗しました(メッシュからのカラーマップ)\
+> 頂点カラーが見つかりませんでした
 
 >[!NOTE]
 >
 > **説明**
 > 
-> メッシュ [&#128279;](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)からの カラーマップのデフォルト設定は、ハイポリメッシュの頂点カラーをメッシュ UVに基づくテクスチャにベイク処理することです。 ただし、ハイポリメッシュに頂点カラー情報がない場合がよくあります。 つまり、パン屋は存在しない情報を書くことができない。
+> [メッシュからのカラーマップ](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)の既定の設定では、メッシュのUVに基づいて、高ポリゴンのメッシュ頂点の色がテクスチャにベイクされます。 ただし、多くの場合、high-poly メッシュには頂点カラー情報がありません。 したがって、ベイカーは存在しない情報を書き込むことができません。
 
 >[!NOTE]
 >
 > **解決策**
 > 
-> このエラーメッセージを回避するには、様々な解決策を使用できます。
+> このエラーメッセージを回避するには、さまざまな解決策を利用できます。
 > 
-> * 頂点カラーを持つハイポリメッシュを使用
-> * 異なる設定でメッシュベイカーからカラーマップを設定する
-> * 必要がない場合は、メッシュベイカーのカラーマップを使用しないでください
+> * 頂点なカラーを持つハイポリメッシュを使用する
+> * ベイカーを設定します
+> * 不要な場合は、ベイカーを使用しないでください

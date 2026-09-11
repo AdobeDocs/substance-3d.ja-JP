@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
 breadcrumb-title: ''
-description: 新機能、改善点、バグ修正について詳しくは、 Unreal Engine 5プラグインバージョン5.0.2のリリースノートを参照してください。
+description: 新機能、改善点、バグ修正について詳しくは、アンリアルエンジン 5プラグインバージョン5.0.2のリリースノートを参照してください。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Release Notes > Unreal plugin 5.0.2
 helpx_experience_level: ""

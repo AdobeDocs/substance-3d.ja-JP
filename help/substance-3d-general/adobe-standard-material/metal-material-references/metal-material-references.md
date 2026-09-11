@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
-description: 正確なカラー値とデータテーブルを使用して、Adobe Standardマテリアルモデルで実際の金属材料をシミュレートします。
+description: 正確なカラー値とデータテーブルを使用して、Adobe Standard Materialモデルで実際の金属マテリアルをシミュレートします。
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > Metal material references
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: メタル材料のリファレンス
+title: メタルマテリアルのリファレンス
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 54%
 ---
 
 
-# メタル材料のリファレンス
+# メタルマテリアルのリファレンス
 
-次の表を使用して、対応する&#x200B;**ベースカラー** (F0)および&#x200B;**Specular edge color** （F82色かぶり補正）のデータを使用して、実際のマテリアルを正確にシミュレーションします。 このテーブルは、**Adobe Standard Material**&#x200B;モデルで使用するために作成されます。 詳細については、[Adobe Standard Materialの技術文書](../../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)を参照してください。
+次の表を使用して、対応する&#x200B;**Base color** (F0)および&#x200B;**Specular edge color** （F82色かぶり補正）のデータを使用して、実際のマテリアルを正確にシミュレーションします。 このテーブルは、**Adobe Standard Material**&#x200B;モデルで使用するために作成されます。 詳細については、[Adobe Standard Materialの技術文書](../../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)を参照してください。
 
 ## 8 bit sRGB
 
-| メタル | ベースカラー(F0) | Specular edge color（F82色かぶり補正） |
+| メタル | Base color(F0) | Specular edge color（F82色かぶり補正） |
 | --- | --- | --- |
 | Ag | (254, 253, 251) | (254, 255, 255) |
 | Al | (245, 246, 246) | (245, 248, 250) |
@@ -44,7 +44,7 @@ ht-degree: 54%
 
 カラーは、赤、緑、青の値のセットとして指定されます。
 
-| メタル | ベースカラー(F0) | Specular edge color（F82色かぶり補正） |
+| メタル | Base color(F0) | Specular edge color（F82色かぶり補正） |
 | --- | --- | --- |
 | Ag | (0.9868, 0.9830, 0.9667) | (0.9929, 0.9961, 1.0000) |
 | Al | (0.9157, 0.9226, 0.9236) | (0.9090, 0.9365, 0.9596) |

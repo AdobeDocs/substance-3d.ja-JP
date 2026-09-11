@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
-description: Substance Bakersでの接線空間計算の処理方法と、ワークフローのアルゴリズムのカスタマイズ方法について説明します。
+description: Substance Bakersで正接容量の計算を行い、アルゴリズムをカスタマイズする方法について説明します。
 helpx_creative_field: ""
 helpx_description: bakers > Features > Tangent Space
 helpx_experience_level: ""
@@ -20,57 +20,57 @@ ht-degree: 2%
 
 # タンジェントスペース
 
-Substance Bakersは、ローポリメッシュに存在する正接とバイノーマルをロードするか、それらを再計算できます。 それらを再計算すると、カスタムの接線空間アルゴリズムを定義することができます（デフォルトではMikkTSpaceです）。
+Substance Bakersは、ローポリメッシュに存在する正接と従法線を読み込むか、再計算することができます。 再計算時には、カスタム接線空間アルゴリズムを定義することができます（デフォルトではMikkTSpaceです）。
 
 ## 接線空間プラグインリスト
 
 ## Substance Painter
 
-Substance Painterでは、接線空間プラグインを変更できません。常に&#x200B;**MikkTSpace**&#x200B;になります。 ただし、他のアプリケーションと互換性を持たせるために、動作を少し変更するパラメーターがあります。
+Substance Painterでは、接線空間プラグインは変更できません。常に&#x200B;**MikkTSpace**&#x200B;になります。 ただし、他のアプリケーションとの互換性を確保するために、動作を若干変更するパラメーターがあります。
 
-| *パラメーター* | *互換性* *アプリケーション* |
+| *パラメーター* | *互換性のある* *アプリケーション* |
 | --- | --- |
-| **フラグメントごとの接線空間の計算：無効** | xNormal、Unity 5.3以降と互換性があります。 |
-| **フラグメントごとの接線空間の計算：有効** | Unreal Engine 4、Blender、Unity HDRP ワークフローに対応。 |
+| **フラグメントごとのコンピューティング正接領域：無効** | xNormal、Unity 5.3以降と互換性があります。 |
+| **フラグメントごとの計算正接領域：有効** | Unreal エンジン 4、Blender、Unity HDRPワークフローと互換性があります。 |
 
 ## Substance Designer
 
-Substance Designerは次のアルゴリズムをサポートしています。
+Substance Designerでは、次のアルゴリズムがサポートされています。
 
 | *ファイル名* | *説明* |
 | --- | --- |
-| **mikktspace.dll** | Morten S. Mikkelsenの研究に基づいた接線空間アルゴリズムであるMikkTSpaceの研究。xNormal、Unity 5.3以降と互換性があります。 |
-| **mikkunrealtspace.dll** | Morten S. Mikkelsenの研究に基づいた接線空間アルゴリズムであるMikkTSpaceの研究。Unreal Engine 4、Blender、Unity HDRP ワークフローに対応。 |
+| **mikktspace.dll** | MikkTSpace、Morten S. Mikkelsenの作業に基づいた接線空間アルゴリズム。xNormal、Unity 5.3以降と互換性があります。 |
+| **mikkunrealtspace.dll** | MikkTSpace、Morten S. Mikkelsenの作業に基づいた接線空間アルゴリズム。Unreal エンジン 4、Blender、Unity HDRPワークフローと互換性があります。 |
 | **unitytspace.dll** | Unity 4に基づく接線空間アルゴリズム。 |
 
 >[!NOTE]
 >
-> カスタムの接線空間プラグインを記述することができます。 **tangentspaceplugin.h**&#x200B;という名前のヘッダーファイルは、**Substance Designer/SDK/tangentspace**&#x200B;の下のインストールフォルダーで利用でき、インターフェイスとして使用できます。
+> カスタム接線空間プラグインを書き込むことができます。 **tangentspaceplugin.h**&#x200B;という名前のヘッダーファイルは、**Substance Designer/SDK/tangentspace**&#x200B;の下のインストールフォルダーで利用でき、インターフェイスとして使用できます。
 
 ## カスタム接線空間の設定
 
 ## Substance Painter
 
-Substance Painterは、現時点ではカスタムタンジェントスペースプラグインをサポートしていません。 つまり、接線とバイノーマルが（プロジェクトの作成に使用される）ローポリメッシュに存在しない場合、それらはMikkTSpace アルゴリズムに基づいて再計算されます。
+Substance Painterは現在、カスタム接線空間プラグインをサポートしていません。 つまり、正接と従法線が（プロジェクトを作成するために使用される）ローポリメッシュに存在しない場合、MikkTSpaceアルゴリズムに基づいて再計算されます。
 
 ## Substance Designer
 
-Substance Designerで接線空間アルゴリズムを設定するには、次の手順に従います。
+Substance Designerに正接空間アルゴリズムを設定するには、次の手順に従います。
 
-1. **編集** / **環境設定**&#x200B;を選択します。
+1. **編集**/**環境設定**&#x200B;を選択します。
 
    ![](../../assets/sd-edit-pref.png)
 1. **プロジェクト**&#x200B;をクリックします。
 
    ![](../../assets/sd-pref-projects.png)
-1. 「**一般**」タブに移動します。 セクション **3D シーン**&#x200B;が表示されるまでスクロールします。
+1. 「**一般**」タブに移動します。 セクション&#x200B;**3D シーン**&#x200B;が表示されるまでスクロールします。
 
    ![](../../assets/sd-tab-general.png)
-1. **3つのドット**&#x200B;をクリックします（。..） カスタム プラグインをロードします。
+1. **3つのドット** (...)をクリックします カスタムプラグインを読み込みます。
 
-## Substance Automation Toolkit
+## Substance自動処理ツールキット
 
-Automation Toolkitを使用してベイク処理する場合、特定のコマンドライン引数でTangent Space プラグインを指定できます。
+Automation Toolkitを使用してベイクする場合は、コマンドライン引数で接線空間プラグインを指定できます。
 
 ```
 sbsbaker normal-from-mesh --tangent-space-plugin "C:/Substance Designer/plugins⁄tangentspace⁄mikktspace.dll" ...

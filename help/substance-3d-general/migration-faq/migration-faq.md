@@ -21,7 +21,7 @@ ht-degree: 0%
 [Substance 3D Painter](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/home)
 [Substance 3D Designer](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/home)
 [Substance 3D Sampler](https://experienceleague.adobe.com/ja/docs/substance-3d-sampler/using/home)
-[Substance 3Dでベイク処理](https://experienceleague.adobe.com/ja/docs/substance-3d/bakers/home)
+[Substance 3Dとのベイク](https://experienceleague.adobe.com/ja/docs/substance-3d/bakers/home)
 [Substance 3Dに関する一般的な知識](https://experienceleague.adobe.com/ja/docs/substance-3d/general-knowledge/home)
 [エコシステムと統合](https://experienceleague.adobe.com/ja/docs/substance-3d/ecosystem/home)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 [Substance 3D Painter](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/home)
 [Substance 3D Designer](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/home)
 [Substance 3D Sampler](https://experienceleague.adobe.com/ja/docs/substance-3d-sampler/using/home)
-[Substance 3Dでベイク処理](https://experienceleague.adobe.com/ja/docs/substance-3d/bakers/home)
+[Substance 3Dとのベイク](https://experienceleague.adobe.com/ja/docs/substance-3d/bakers/home)
 [Substance 3Dに関する一般的な知識](https://experienceleague.adobe.com/ja/docs/substance-3d/general-knowledge/home)
 [エコシステムと統合](https://experienceleague.adobe.com/ja/docs/substance-3d/ecosystem/home)
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
-description: 名前によるマッチングがアンビエントオクルージョンベイカーや厚みベイカーで機能しない理由を理解し、代替案を見つけます。
+description: 「名前で一致」がAmbient occlusionとThicknessのベイカーで機能しない理由を理解し、代替案を見つけてください。
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why is Matching by Name not working with Ambient OcclusionThickness "
 helpx_experience_level: ""
@@ -18,22 +18,22 @@ ht-degree: 0%
 ---
 
 
-# 名前によるマッチングがAmbient Occlusion/Thicknessで機能しないのはなぜですか？
+# 名前で一致がAmbient occlusion/Thicknessで機能しない理由
 
 >[!WARNING]
 >
 > **質問**
 > 
-> [共通パラメーター](../../bakers-settings/common-parameters/common-parameters.md)で[名前で一致](../../features/matching-by-name/matching-by-name.md)を有効にして、ローポリメッシュとハイポリメッシュをフィルタリングおよび並べ替えましたが、Ambient Occlusion ベイカーが無視するのはなぜですか？
+> [共通パラメーター](../../bakers-settings/common-parameters/common-parameters.md)の[名前による一致](../../features/matching-by-name/matching-by-name.md)を有効にして、ローポリゴンとハイポリゴンのメッシューをフィルターして並べ替えましたが、Ambient occlusionベイカーで無視されるのはなぜですか？
 
 >[!NOTE]
 >
 > **説明**
 > 
-> Ambient Occlusion、Thickness、Bent Normals ベイカーは、テクスチャを計算するときに二次光線を起動します。 これらのレイには、「名前で一致」の設定があります。
+> ambient occlusion、Thickness、およびBent normalsベイカーは、テクスチャを計算するとセカンダリレイを起動します。 これらのレイには、独自の[名前による一致]設定があります。
 
 >[!NOTE]
 >
 > **解決策：Substance Painter**
 > 
-> 解決策：ベーカーパラメーターのセカンダリレイの名前によるマッチングを有効にします。
+> 解決策：ベイカーパラメーターで、セカンダリレイの名前による一致フィルタリングを有効にします。

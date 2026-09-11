@@ -20,29 +20,29 @@ ht-degree: 12%
 
 # カスタムマテリアル
 
-Substanceプラグインは、Unreal、Unity、およびglTFのカスタムマテリアルをサポートしています。 sbsarファイルを読み込む前に、使用するシェーディングモードを選択できます。
+Substanceプラグインは、Unreal、Unity、およびglTFのカスタムマテリアルをサポートしています。 sbsar ファイルを読み込む前に、使用するシェーディングモードを選択できます。
 
 ## 目次
 
-## Unityマテリアル
+## Unity マテリアル
 
-Unityマテリアルを使用する場合は、自動的にマテリアルレイヤー効果が設定されます。 Substanceプラグインは、Unity MaterialをSubstance項目Materialの真上に配置します。
+Unityマテリアルを使用すると、マテリアルレイヤー効果が自動的に設定されます。 Substanceプラグインは、UnityマテリアルをSubstance項目マテリアルの真上に配置します。
 
 | Substance出力 | カラースペース | マテリアルレイヤー効果 |
 | --- | --- | --- |
 | ベースカラー | sRGB | Unity アルベド |
 | グロシネス | 線形 | Unity Smoothness |
-| メタリック | 線形 | ユニティメタリック |
+| メタリック | 線形 | Unityメタリック |
 | 法線 | 線形 | Unity標準 |
 | 放射 | sRGB | 静止画のUnity発光&#x200B;**\*sRGBに設定** |
 | 高さ | 線形 | ユニティバンプ |
-| アンビエントオクルージョン | 線形 | Unity環境オクルージョン |
+| アンビエントオクルージョン | 線形 | Unity Ambient occlusion |
 
 ![](../../../assets/unity-1.png){width="600px"}
 
-## 非現実的な素材
+## 非現実マテリアル
 
-アンリアルマテリアルを使用する場合、マテリアルレイヤエフェクトは自動的に設定されます。 Substanceプラグインは、UnrealマテリアルをSubstance項目のマテリアルの上に直接配置します。
+アンリアルマテリアルを使用する場合、マテリアルレイヤエフェクトは自動的に設定されます。 Substanceプラグインは、アンリアルマテリアルをSubstance項目マテリアルの真上に配置します。
 
 | Substance出力 | カラースペース | マテリアルレイヤー効果 |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ Unityマテリアルを使用する場合は、自動的にマテリアルレイ
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/unreal?$png$&jpegSize=200&wid=1343){width="600px"}
 
-法線を反転する必要がある場合があります。 これは、Substanceに法線の方向のコントロールがある場合は、[ツイーク]メニューから実行できます。 そうでない場合は、テクスチャ自体に対して実行できます。 詳細については、「**[法線の操作](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**」ページを参照してください。
+法線を反転する必要がある場合があります。 これは、Substanceに法線の方向のコントロールがある場合は、[ツイーク]メニューから実行できます。 そうでない場合は、テクスチャ自体で実行できます。 詳細については、「**[法線の操作](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**」ページを参照してください。
 
 ## glTFマテリアル
 
@@ -74,4 +74,4 @@ glTFマテリアルを使用する場合は、マテリアルレイヤーエフ�
 
 ![](../../../assets/gltf.png){width="600px"}
 
-法線を反転する必要がある場合があります。 これは、Substanceに法線の方向のコントロールがある場合は、[ツイーク]メニューから実行できます。 そうでない場合は、テクスチャ自体に対して実行できます。 詳細については、「**[法線の操作](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**」ページを参照してください。
+法線を反転する必要がある場合があります。 これは、Substanceに法線の方向のコントロールがある場合は、[ツイーク]メニューから実行できます。 そうでない場合は、テクスチャ自体で実行できます。 詳細については、「**[法線の操作](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**」ページを参照してください。

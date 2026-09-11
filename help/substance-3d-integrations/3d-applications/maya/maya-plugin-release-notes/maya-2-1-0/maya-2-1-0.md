@@ -32,8 +32,8 @@ Maya 2.1.0の変更ログのSubstance
 * 内部ライブラリのバージョンを取得し、ソースページにSubstanceランチャーを開くために追加されたスクリプトコマンド
 * Webサイトのリンクが、[allegorithmic.com](http://allegorithmic.com)ではなく[substance3d.com](http://substance3d.com)に開くようになりました
 * Webページを開くときに、ドキュメントとソースリンクでユーザーセットのデフォルトブラウザーが開くようになりました
-* Windowsでは、Internet Explorerは現在開いていません
-* シェルフとメニューにSubstance shareへの新しいリンクを追加
+* Windowsでは、インターネットエクスプローラーは現在開かれていません
+* シェルフとメニューの新しいリンクがSubstance shareに追加されました
 * Substanceリンカーのバージョンとハッシュを照会する新しいコマンドが追加されました
 * Maya LTで、バージョンが設定メニューから削除されました
 * PySide2やPythonではメニューについて書かれていませんが、Qtを使ったネイティブコードで書かれています。 以前は使用されていなかったMaya LTで使用できるようになりました。

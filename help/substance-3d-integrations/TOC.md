@@ -15,10 +15,10 @@ ht-degree: 2%
 + [ホーム](/help/substance-3d-integrations/home/home.md)
 + ゲームエンジン{#game-engines}
   + [ゲームエンジンの概要](/help/substance-3d-integrations/game-engines/game-engines.md)
-  + アンリアルエンジン{#unreal-engine}
+  + 非現実エンジン{#unreal-engine}
     + Unreal Engine 5{#unreal-engine-5}
-      + [Unreal Engine 5の概要](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
-      + Unreal Engine 5リリースノート{#unreal-engine-5-release-notes}
+      + [アンリアルエンジン 5の概要](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
+      + Unreal エンジン 5リリースノート{#unreal-engine-5-release-notes}
         + [Unrealプラグイン5.3.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-3-2/unreal-plugin-5-3-2.md)
         + [Unreal plugin 5.0.3](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-0-3/unreal-plugin-5-0-3.md)
         + [Unreal plugin 5.0.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-0-2/unreal-plugin-5-0-2.md)
@@ -27,22 +27,22 @@ ht-degree: 2%
       + [プラグイン設定 – UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5/plugin-settings-ue5.md)
       + [Substance入力画像 – UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md)
       + [マテリアルインスタンス定義 – UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md)
-      + [マテリアルテンプレートの使用 – UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
+      + [マテリアルテンプレートの使用方法 – UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
       + [すぐに使えるマテリアルテンプレート](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
       + [物理サイズ- UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-      + [タイルSubstance- UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
+      + [Substance - UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
       + [Substance 3Dプラグインのデフォルトテンプレート](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
       + [Substance 3D Assetsライブラリの使用 – UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
       + 青写真 – UE5{#blueprints-ue5}
-        + [Blueprint - UE5:Substanceマテリアルパラメーター](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md)
-        + [Blueprint- UE5：動的なマテリアルインスタンスメタデータの最後にスキップ](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-mat/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.md)
+        + [Blueprint - UE5:マテリアルパラメーター](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md)
+        + [Blueprint- UE5：動的マテリアルインスタンスメタデータの最後にスキップします](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-mat/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.md)
         + [Blueprint- UE5：集約Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate/blueprintue5-aggregate-substance.md)
         + [Blueprint- UE5：ノードリファレンス](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-ref/blueprintue5-node-reference.md)
       + [Unreal Engine 5スクリプティング](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting/unreal-engine-5-scripting.md)
       + [ソースビルドへのインストール](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-source-builds/installing-to-source-builds-ue5.md)
     + Unreal Engine 4{#unreal-engine-4}
-      + [Unreal Engine 4の概要](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4.md)
-      + Unreal Engine 4プラグインリリースノート{#unreal-engine-4-plugin-release-notes}
+      + [アンリアルエンジン 4の概要](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4.md)
+      + Unreal エンジン 4プラグインリリースノート{#unreal-engine-4-plugin-release-notes}
         + [アンリアルプラグイン4.27.0.1](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-27-0-1/unreal-plugin-4-27-0-1.md)
         + [アンリアルプラグイン4.26.0.21](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-26-0-21/unreal-plugin-4-26-0-21.md)
         + [アンリアルプラグイン4.26.0.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-26-0-2/unreal-plugin-4-26-0-2.md)
@@ -58,7 +58,7 @@ ht-degree: 2%
         + [アンリアルプラグイン4.21.0.31](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-21-0-31/unreal-plugin-4-21-0-31.md)
       + [プラグインの概要 – UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4/plugin-overview-ue4.md)
       + [プラグイン設定 – UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4/plugin-settings-ue4.md)
-      + [Substance入力画像 – UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
+      + [入力画像 - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
       + [マテリアルインスタンス定義 – UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
       + [タイルSubstance - UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
       + [バンプオフセットの操作 – 視差 – UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset/working-with-bump-offset-parallax-ue4.md)
@@ -66,7 +66,7 @@ ht-degree: 2%
       + [UE4のソース](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4/source-in-ue4.md)
       + [UE4でのライブリンク](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4/live-link-in-ue4.md)
       + ブループリント – UE4{#blueprints-ue4}
-        + [Blueprint- UE4:Substanceマテリアルパラメーター](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-material-par/blueprintue4-substance-material-parameters.md)
+        + [Blueprint - UE4:マテリアルパラメーター](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-material-par/blueprintue4-substance-material-parameters.md)
         + [Blueprint- UE4：動的なマテリアルインスタンス](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-mat/blueprintue4-dynamic-material-instance.md)
         + [Blueprint- UE4：集約Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate/blueprintue4-aggregate-substance.md)
         + [Blueprint- UE4：ノードリファレンス](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-ref/blueprintue4-node-reference.md)
@@ -97,7 +97,7 @@ ht-degree: 2%
     + [プロジェクトのアップグレード/既知の問題](/help/substance-3d-integrations/game-engines/unity/upgrading-projects-known/upgrading-projects-known-issues.md)
     + [Substance グラフの管理](/help/substance-3d-integrations/game-engines/unity/managing-graphs/managing-substance-graphs.md)
     + [パラメーターの変更](/help/substance-3d-integrations/game-engines/unity/changing-parameters/changing-parameters.md)
-    + [生成されたテクスチャ – パッキング](/help/substance-3d-integrations/game-engines/unity/generated-textures-pac/generated-textures-packing.md)
+    + [生成されたテクスチャ -パッキング](/help/substance-3d-integrations/game-engines/unity/generated-textures-pac/generated-textures-packing.md)
     + [カラースペースをレンダリング中](/help/substance-3d-integrations/game-engines/unity/rendering-color-space/rendering-color-space.md)
     + [画像入力の使用](/help/substance-3d-integrations/game-engines/unity/using-image-inputs/using-image-inputs.md)
     + [モバイル用にパブリッシュ](/help/substance-3d-integrations/game-engines/unity/publishing-for-mobile/publishing-for-mobile.md)
@@ -198,7 +198,7 @@ ht-degree: 2%
     + [パラメーター](/help/substance-3d-integrations/3d-applications/modo/parameters/parameters.md)
     + [カスタムマテリアル](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
     + [法線の操作](/help/substance-3d-integrations/3d-applications/modo/working-with-normals/working-with-normals.md)
-    + [Emissiveの操作](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
+    + [emissiveの操作](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
     + [バンプとディスプレイスメント](/help/substance-3d-integrations/3d-applications/modo/bump-and-displacement/bump-and-displacement.md)
     + [参照の操作](/help/substance-3d-integrations/3d-applications/modo/working-with-references/working-with-references.md)
     + [Substanceのアニメート](/help/substance-3d-integrations/3d-applications/modo/animating-substances/animating-substances.md)
@@ -246,7 +246,7 @@ ht-degree: 2%
   + カラーマネジメント{#color-management}
     + [カラーマネジメントの概要](/help/substance-3d-integrations/renderers/color-management/color-management.md)
     + [MayaのSubstanceテクスチャ](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
-    + [3ds MaxのSubstanceテクスチャ](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
+    + [3ds Maxのテクスチャ](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + アーノルド{#arnold}
     + [Arnoldの概要](/help/substance-3d-integrations/renderers/arnold/arnold.md)
     + [Arnold - 3ds MaxのSubstance](/help/substance-3d-integrations/renderers/arnold/arnold-in-3ds-max/arnold-substance-in-3ds-max.md)

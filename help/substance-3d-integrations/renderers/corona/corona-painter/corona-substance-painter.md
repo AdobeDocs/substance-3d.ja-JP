@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
-description: Specular/光沢ワークフローと適切な変換を使用して、コロナレンダラーのSubstance Painterテクスチャを書き出します。
+description: Specular/光沢度ワークフローと適切な変換を使用して、コロナレンダラーのSubstance Painterテクスチャを書き出します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Corona > Corona - Substance Painter
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # コロナ – Substance Painter
 
-Coronaを使用したレンダリングでは、Substance PainterまたはSubstanceプラグインから書き出したマップを使用できます。 コロナは、1/IORマップでSpecular/光沢ワークフローを使用しています。 次のマップが必要です。
+Coronaを使用したレンダリングでは、Substance PainterまたはSubstanceプラグインから書き出したマップを使用できます。 コロナでは、1/IORマップでSpecular/光沢度ワークフローを使用しています。 次のマップが必要です。
 
 * ディフューズ
 * 反射(Specular)

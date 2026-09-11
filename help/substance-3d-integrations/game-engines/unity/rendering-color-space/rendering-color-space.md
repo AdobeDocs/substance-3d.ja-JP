@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
-description: Unityのカラースペース設定を行い、物理的にベースとなるシェーダを使用してSubstanceマテリアルを適切にレンダリングできるようにします。
+description: Unityのカラースペース設定を行い、物理ベースのシェーダを使用してマテリアルを適切にレンダリングできるようにします。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Rendering Color Space
 helpx_experience_level: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # カラースペースをレンダリング中
 
-Substanceテクスチャは、Physicallyベースのシェーダで使用するように設計されています。 最良の結果を得るには、Unity Player設定でカラースペースをリニアに設定する必要があります。
+テクスチャは、物理ベースのシェーダーで使用するように設計されています。 最良の結果を得るには、Unity Player設定でカラースペースをリニアに設定する必要があります。
 
 1. 編集/プロジェクト設定/プレーヤーに移動
-1. レンダリングセクションで、カラースペースをリニアに変更します。 （Unityのデフォルトはガンマ空間です。これは正しくなく、テクスチャカラーが正しく表示されません）。
+1. レンダリングセクションで、カラースペースをリニアに変更します。 （Unityのデフォルトはガンマ空間です。これは正しくなく、テクスチャのカラーが正しく表示されません）。
 
    >[!NOTE]
    >

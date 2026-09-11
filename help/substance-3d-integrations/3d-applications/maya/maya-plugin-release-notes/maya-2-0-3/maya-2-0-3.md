@@ -23,13 +23,13 @@ ht-degree: 0%
 プラグインのバージョン2.0.3が[webサイト](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)でリリースされました。
 
 変更 :\
-\* VRayワークフローでVrayマテリアルに粗さを設定するようになりました\
+\* VRayのワークフローでVray マテリアルがラフネスを使用するように設定\
 \*新しいsubstance3dサイトへのリンクを更新しました。\
 \*バージョン情報をSubstance engineに追加しました\
 \* Substance engineのバージョンを問い合わせるためのスクリプトコマンドが追加されました\
-\* $pixelsize入力がクラッシュしない\
+\* $pixelsizeの入力がクラッシュではなくなりました\
 \* Designerで設定した値入力が、イメージ入力と同様にノードに表示されるようになりました\
-\* Redshiftワークフロースクリプトでbrdfがggcxに設定され、バンプノードが接線空間法線を使用するように設定されるようになりました\
+\* Redshiftワークフロースクリプトでbrdfがggcxに設定され、バンプノードが正接空間法線を使用するようになりました\
 \*予想される用途により適した新しいRendermanワークフロースクリプト\
 \* substanceSetWorkflowコマンドが文字列引数を正しく受け取るようになりました\
 \* Maya 2020のサポートの追加

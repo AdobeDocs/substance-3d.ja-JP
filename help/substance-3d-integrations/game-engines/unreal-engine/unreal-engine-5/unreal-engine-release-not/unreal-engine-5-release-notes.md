@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes.html"
 breadcrumb-title: ''
-description: 新機能を常に最新の状態に保つには、Unreal Engine 5用Substance 3Dプラグインのすべてのバージョンのリリースノートを確認してください。
+description: 新機能を常に最新の状態に保つには、アンリアルエンジン 5用Substance 3Dプラグインのすべてのバージョンのリリースノートを確認してください。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Release Notes
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Unreal Engine 5リリースノート
+title: Unreal エンジン 5リリースノート
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Unreal Engine 5リリースノート
+# Unreal エンジン 5リリースノート
 
 現在、UE 5用のAdobe Substance 3Dプラグインをサポートしています。 UE 4.27以降を積極的にサポートしていますが、UE 5.0.0以降を使用することをお勧めします。
 

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
-description: ハードウェアアクセラレーション対応GPU レイトレーシングを有効にすると、ベイク計算が25倍以上高速化され、ワークフローが高速化されます。
+description: ハードウェアアクセラレーション対応GPU レイトレーシングを有効にすると、ベイク処理計算が25倍以上高速化され、ワークフローが高速化されます。
 helpx_creative_field: ""
 helpx_description: bakers > Features > GPU Raytracing
 helpx_experience_level: ""
@@ -99,7 +99,7 @@ ht-degree: 18%
 
 | ベイカー | GPU レイトレーシングをサポート |
 | --- | --- |
-| メッシュから不透明マスク | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| メッシュの不透明度マスク | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | メッシュからの位置 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | 位置 | <div><img alt="（エラー）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | メッシュからの厚み | <div><img alt="（ティック）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |

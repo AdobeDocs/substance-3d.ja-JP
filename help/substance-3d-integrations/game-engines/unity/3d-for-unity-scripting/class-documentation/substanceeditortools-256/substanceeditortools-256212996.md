@@ -98,7 +98,7 @@ Adobe.SubstanceEditor.SubstanceEditorToolsの継承図：
 ```
 
 
-テクスチャ入力を設定します。
+グラフテクスチャ入力を設定します。
 
 ```
 • static void RenderGraph (SubstanceGraphSO graph)
