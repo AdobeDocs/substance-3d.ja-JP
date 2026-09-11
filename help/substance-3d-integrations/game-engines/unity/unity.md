@@ -56,7 +56,7 @@ ht-degree: 0%
 * [Substanceプラグインを削除中](../../game-engines/unity/removing-plugin/removing-substance-plugin.md)
 * [UnityTutorialsのSubstance 3D](../../game-engines/unity/3d-in-unity-tutorials/substance-3d-in-unity-tutorials.md)
 * [統一物理サイズ](../../game-engines/unity/physical-size-in-unity/physical-size-in-unity.md)
-* [プロジェクト間でSbsarファイルを共有しています](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html)[](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
+* [プロジェクト間でSbsarファイルを共有しています](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html) [&#128279;](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
 
 **[フォームが見つかりました – ルールが必要です]**
 

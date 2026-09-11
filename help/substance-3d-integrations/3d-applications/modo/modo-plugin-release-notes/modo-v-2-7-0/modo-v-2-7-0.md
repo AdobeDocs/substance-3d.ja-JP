@@ -39,7 +39,7 @@ ht-degree: 0%
 
   これらはすべて、substance.getsbsnameから取得された適切な内部名を期待します。
 
-  **substance.setpreset** Substanceの現在のプリセットをインデックスに設定&#x200B;**substance.getpresetindex**&#x200B;現在のプリセットインデックスを取得&#x200B;**substance.getpresetat**&#x200B;指定の&#x200B;**インデックスsubstance.getpresetcount**&#x200B;にあるプリセットの文字列名を返しますSubstanceが持つプリセットの数を返します&#x200B;**substance.savepresetfile**&#x200B;指定のファイルパスに現在ののプリセットを保存します&#x200B;**substance.loadprepresetfile{111111111ファイル1ファイル**
+  **substance.setpreset** Substanceの現在のプリセットをインデックスに設定&#x200B;**substance.getpresetindex**&#x200B;現在のプリセットインデックスを取得&#x200B;**substance.getpresetat**&#x200B;指定の&#x200B;**インデックスsubstance.getpresetcount**&#x200B;にあるプリセットの文字列名を返しますSubstanceが持つプリセットの数を返します&#x200B;**substance.savepresetfile**&#x200B;指定のファイルパスに現在ののプリセットを保存します&#x200B;**substance.loadprepresetfile&lbrace;111111111ファイル1ファイル**
 
   UIコマンド：
 
