@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/converting-substance-outputs.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/converting-substance-outputs.html"
 breadcrumb-title: ''
 description: 様々なレンダラー要件やワークフローに合わせてマテリアル出力を変換する方法について説明します。
 helpx_creative_field: ""

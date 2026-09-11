@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: MaverickレンダラーでSubstanceのSBSARファイルを直接使用すると、リアルタイムのマテリアル編集やパラメーター制御が可能になります。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
 description: Substanceプラグインを使用して、リアルタイムのマテリアル編集とレンダリングを行い、Unreal Engine 5でSubstanceマテリアルを使用します。
 helpx_creative_field: ""

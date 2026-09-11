@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
 breadcrumb-title: ''
 description: MODOのマテリアルをコピー、インスタンス化、複製して、複数のオブジェクトにわたってマテリアルを効率的に再利用できます。
 helpx_creative_field: ""

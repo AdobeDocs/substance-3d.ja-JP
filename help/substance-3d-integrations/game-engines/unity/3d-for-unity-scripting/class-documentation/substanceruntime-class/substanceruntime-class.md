@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
 breadcrumb-title: ''
 description: Unityのランタイムマテリアルオペレーションに使用されるSubstanceRuntimeクラスの参照ドキュメント。
 helpx_creative_field: ""

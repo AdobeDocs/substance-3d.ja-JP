@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
 breadcrumb-title: ''
 description: MayaのRendermanでpxrSurfaceまたはpxrDisney マテリアルを使用してPBRレンダリングを行う場合に、Substanceマテリアルを使用します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: メッシュのジオメトリの場所を計算してテクスチャに保存し、ボリュームベースのエフェクトとグラデーションマスクを作成します。
 helpx_creative_field: ""

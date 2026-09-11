@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-1.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-1.html"
 breadcrumb-title: ''
 description: 新機能、改善点、バグ修正については、 3ds Maxプラグインバージョン2.3.1のリリースノートを確認してください。
 helpx_creative_field: ""

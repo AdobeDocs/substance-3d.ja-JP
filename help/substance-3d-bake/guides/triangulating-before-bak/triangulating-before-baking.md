@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: メッシュの三角形分割がベイク結果に与える影響を理解し、ジオメトリを準備するためのベストプラクティスを学習します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
 description: 適切な出力テクスチャを使用して、ブレンダーサイクルおよび各レンダラーのSubstance Painter設定を書き出します。
 helpx_creative_field: ""

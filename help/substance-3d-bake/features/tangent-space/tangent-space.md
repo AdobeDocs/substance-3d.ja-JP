@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/tangent-space.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
 description: Substance Bakersで正接容量の計算を行い、アルゴリズムをカスタマイズする方法について説明します。
 helpx_creative_field: ""

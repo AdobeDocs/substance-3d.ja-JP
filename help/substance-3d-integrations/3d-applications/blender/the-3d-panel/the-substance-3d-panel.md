@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: BlenderでSubstance 3Dパネルを使用して、マテリアル、パラメーター、出力を管理する方法について説明します。
 helpx_creative_field: ""
@@ -66,7 +66,7 @@ Substance Designerで表示されたパラメーターは、Substanceパラメ�
 
 出力テクスチャのファイルフォーマットは、ドロップダウンで切り替えたり変更したりできます。
 
-詳細については、Designerドキュメントページの[パラメーターの表示](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)を参照してください。
+詳細については、Designerドキュメントページの[パラメーターの表示](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)を参照してください。
 
 ## 技術パラメーター
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: MayaのSubstance出力ノードを使用して、計算されたテクスチャをシェーダーネットワークに接続する方法について説明します。
 helpx_creative_field: ""

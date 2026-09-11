@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5.html"
 breadcrumb-title: ''
 description: アンリアルエンジン 5でマテリアルテンプレートを作成し、使用して、Substance出力ノードをマテリアル入力に接続する方法を定義します。
 helpx_creative_field: ""

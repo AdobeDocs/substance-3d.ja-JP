@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-reference.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-reference.html"
 breadcrumb-title: ''
 description: アンリアルエンジン 5でマテリアルオペレーションに使用できるすべてのSubstanceブループリントノードのリファレンスガイドです。
 helpx_creative_field: ""

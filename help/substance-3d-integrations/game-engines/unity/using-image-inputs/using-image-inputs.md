@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
 breadcrumb-title: ''
 description: イメージテクスチャをUnityのSubstanceマテリアルの入力パラメーターとして使用して、マテリアルのカスタマイズを強化します。
 helpx_creative_field: ""

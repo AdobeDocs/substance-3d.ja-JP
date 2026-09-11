@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Substance 3D Painterのベイク処理ウィンドウにアクセスして使用し、テクスチャ用のメッシュマップを生成する方法について説明します。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-ベイクウィンドウには、[テクスチャセットの設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)からアクセスできます。 「**メッシュマップのベイク**」という名前のボタンをクリックして、現在のプロジェクトのベイクウィンドウを開きます。
+ベイクウィンドウには、[テクスチャセットの設定](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)からアクセスできます。 「**メッシュマップのベイク**」という名前のボタンをクリックして、現在のプロジェクトのベイクウィンドウを開きます。
 
 ## 概要
 

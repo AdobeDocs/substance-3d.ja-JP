@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
 breadcrumb-title: ''
 description: Cinema 4Dのアニメーションプレビューを有効にすると、アニメーション化されたSubstanceマテリアルの視覚的なフィードバックがビューポートに表示されます。
 helpx_creative_field: ""

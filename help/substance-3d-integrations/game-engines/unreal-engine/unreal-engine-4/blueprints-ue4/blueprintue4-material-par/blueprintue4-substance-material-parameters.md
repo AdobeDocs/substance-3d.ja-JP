@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Blueprintノードを使用して動的なマテリアル制御を行い、Unreal エンジン 4で実行時にSubstanceマテリアルパラメーターを変更します。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## フロートパラメータを変更する：
 
-[入力浮動小数の設定ノード](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)を使用して、float、color(float4)、およびブーリアンのsubstanceパラメーターを変更します。
+[入力浮動小数の設定ノード](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)を使用して、float、color(float4)、およびブーリアンのsubstanceパラメーターを変更します。
 
 1. 「変数インスタンス」という型を参照としてSubstance グラフを作成します。
 1. セット入力浮動小数ノードを作成し、ターゲットをSubstance グラフインスタンス変数として設定します。

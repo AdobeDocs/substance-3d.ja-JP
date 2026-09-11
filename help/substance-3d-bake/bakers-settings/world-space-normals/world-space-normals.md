@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: 高度なワークフローでは、ワールド空間座標を使用して、メッシュ法線、接線、従法線をテクスチャに保存します。
 helpx_creative_field: ""

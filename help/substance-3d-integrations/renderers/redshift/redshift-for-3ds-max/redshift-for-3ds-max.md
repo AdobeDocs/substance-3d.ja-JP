@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds MaxでRedshiftレンダラーを使用したマテリアルは、書き出されたマップまたはSubstanceプラグインを介して使用します。
 helpx_creative_field: ""

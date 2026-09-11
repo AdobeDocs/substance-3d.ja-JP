@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: レンダラーの異なるマテリアルを使用する場合のカラーマネジメントとガンマ補正について説明します。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 ## カラーマネジメント
 
-この文書では、[3Dソフトウェア](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)およびレンダラーの&#x200B;**Substance Painter**&#x200B;および&#x200B;**Substance Designer**&#x200B;から書き出されたテクスチャの操作プロセスについて詳しく説明します。
+この文書では、[3Dソフトウェア](https://www.adobe.com/jp/products/substance3d/3d-augmented-reality.html)およびレンダラーの&#x200B;**Substance Painter**&#x200B;および&#x200B;**Substance Designer**&#x200B;から書き出されたテクスチャの操作プロセスについて詳しく説明します。
 
 マテリアルチャンネルへの入力として使用される画像の正しい変換方法は、シーンでの画像の使用方法によって異なります。 カラースペース、エンコーディング、およびカラー値が&#x200B;**シーン参照輝度**&#x200B;または&#x200B;**表示参照輝度**&#x200B;のどちらに比例しているかも重要な役割を果たします。
 

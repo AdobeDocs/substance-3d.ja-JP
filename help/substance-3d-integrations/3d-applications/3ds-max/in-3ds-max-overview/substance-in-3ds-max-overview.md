@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ''
 description: 3ds MaxのSubstanceプラグインと、Substance マテリアルをプロジェクトに読み込んで使用する方法について学習します。
 helpx_creative_field: ""

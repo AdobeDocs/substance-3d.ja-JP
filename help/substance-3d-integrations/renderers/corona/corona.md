@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/corona.html"
 breadcrumb-title: ''
 description: 3ds Maxのコロナレンダラで、Specular/光沢度のワークフローと必要なマップを使用してSubstanceマテリアルを行います。
 helpx_creative_field: ""

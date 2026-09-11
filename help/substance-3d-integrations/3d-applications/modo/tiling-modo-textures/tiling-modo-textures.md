@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
 description: MODOでテクスチャタイリングのプロパティを変更するには、横回りと縦回りを設定します。
 helpx_creative_field: ""

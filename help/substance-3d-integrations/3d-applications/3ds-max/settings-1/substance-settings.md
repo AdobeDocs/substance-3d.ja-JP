@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
 breadcrumb-title: ''
 description: 3ds MaxのSubstanceプラグイン設定（エンジンモードとデフォルトの解像度オプションを含む）を構成します。
 helpx_creative_field: ""

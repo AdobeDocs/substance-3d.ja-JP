@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: レイトレーシングを使用して、高ポリゴンメッシュから正確な曲率テクスチャを生成し、エッジを正確に検出できます。
 helpx_creative_field: ""

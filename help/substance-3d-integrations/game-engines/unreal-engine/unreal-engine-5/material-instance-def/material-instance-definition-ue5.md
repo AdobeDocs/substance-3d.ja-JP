@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
 breadcrumb-title: ''
 description: アンリアルエンジン 5でSubstanceマテリアルを使用してマテリアルインスタンス定義を作成し、GPUレンダリングパフォーマンスを最適化します。
 helpx_creative_field: ""
@@ -35,4 +35,4 @@ UE5 マテリアルインスタンスはSubstanceで使用できます。 これ
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)
 
-これで、一連のSubstance テクスチャを使用するUE5 マテリアルインスタンスができました。 これは、UE5プロジェクトで複数のサブスタンスを扱う、より最適化された方法です。 ブループリントを使用してMIDを作成する方法については、こちらのページを参照してください。 [Blueprint(UE5)：動的マテリアルインスタンス](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+これで、一連のSubstance テクスチャを使用するUE5 マテリアルインスタンスができました。 これは、UE5プロジェクトで複数のサブスタンスを扱う、より最適化された方法です。 ブループリントを使用してMIDを作成する方法については、こちらのページを参照してください。 [Blueprint(UE5)：動的マテリアルインスタンス](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

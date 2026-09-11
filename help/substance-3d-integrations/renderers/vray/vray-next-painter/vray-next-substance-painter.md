@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: 出力テンプレートと適切なワークフローテクスチャを使用して、V-Ray NextレンダラーのSubstance Painter設定を書き出します。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Substance Painter 2020.1 (6.1.0)には、メタリックとSpecularの両方の�
 
 >[!NOTE]
 >
-> [UDIMレガシー](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)を使用するようにプロジェクトが設定されている場合。 [次のUDIMを選択]出力テンプレートを使用します。
+> [UDIMレガシー](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)を使用するようにプロジェクトが設定されている場合。 [次のUDIMを選択]出力テンプレートを使用します。
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

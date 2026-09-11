@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: ベイカー出力が完全に黒または空になる理由をトラブルシューティングし、メッシュとUVの問題を解決する方法を説明します。
 helpx_creative_field: ""

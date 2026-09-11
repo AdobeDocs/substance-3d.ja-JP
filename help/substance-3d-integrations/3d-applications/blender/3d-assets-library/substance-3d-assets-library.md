@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-3d-assets-library.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/substance-3d-assets-library.html"
 breadcrumb-title: ''
 description: Assets LibraryやBlenderのコミュニティアセットから、プロがデザインした数多くのマテリアルにアクセスできます。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance 3D Assetsライブラリ
 
-プロが作成した何千ものマテリアルやその他のアセットは、[Substance 3D Assetsページ](https://helpx.adobe.com/substance-3d/unlisted/assets.html)からダウンロードできます。 [Substance 3D コミュニティアセットページ](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)には、コミュニティから無料で提供されている他の多くのアセットがあります。
+プロが作成した何千ものマテリアルやその他のアセットは、[Substance 3D Assetsページ](https://helpx.adobe.com/jp/substance-3d/unlisted/assets.html)からダウンロードできます。 [Substance 3D コミュニティアセットページ](https://helpx.adobe.com/jp/substance-3d/unlisted/community-assets.html)には、コミュニティから無料で提供されている他の多くのアセットがあります。
 
 Blender内のSubstance 3Dパネルから、「Substance 3D Assets」ボタンと「Substance 3D コミュニティアセット」ボタンをクリックしてwebブラウザを開くこともできます。
 

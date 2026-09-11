@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/presets.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/presets.html"
 breadcrumb-title: ''
 description: Substanceファイルに埋め込まれたプリセットを管理するか、Mayaで新しいプリセットを作成してパラメータ設定を保存します。
 helpx_creative_field: ""

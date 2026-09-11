@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++OpenPBRとは何ですか？また、Painterはどのバージョンをサポートしていますか？
 
-OpenPBRは、Academy Software Foundationがホストするオープンなマテリアル仕様で、アプリケーション間で一貫して動作するように設計された標準化されたシェーディングモデルを定義しています。 [OpenPBRの使い方の詳細については、Painterのドキュメントを参照してください](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)。
+OpenPBRは、Academy Software Foundationがホストするオープンなマテリアル仕様で、アプリケーション間で一貫して動作するように設計された標準化されたシェーディングモデルを定義しています。 [OpenPBRの使い方の詳細については、Painterのドキュメントを参照してください](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/home)。
 
 +++
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
 breadcrumb-title: ''
 description: Unreal エンジン 5のSubstanceプラグインの設定をProject Settingsから変更し、プラグインの動作をカスタマイズします。
 helpx_creative_field: ""

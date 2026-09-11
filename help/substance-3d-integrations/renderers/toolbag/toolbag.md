@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: リアルタイムのマテリアルプレビューとレンダリングには、ツールバッグ2のSubstanceの粗さとメタリック出力を使用します。
 helpx_creative_field: ""

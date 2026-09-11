@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: アンチエイリアスとパディングの設定を調整して、ベイク中にUVシームに表示されるエイリアスの斑点を修正します。
 helpx_creative_field: ""

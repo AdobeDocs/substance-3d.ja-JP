@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: MayaのSubstanceプラグイン設定は、Substance シェルフまたはメニューを使用して行います。
 helpx_creative_field: ""

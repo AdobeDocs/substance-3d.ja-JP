@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
 breadcrumb-title: ''
 description: Cinema 4Dの属性マネージャーを使用して、Substanceアセットのプロパティとマテリアルを構成します。
 helpx_creative_field: ""

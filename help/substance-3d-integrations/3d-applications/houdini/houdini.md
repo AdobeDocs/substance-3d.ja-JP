@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/houdini.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
 description: プロシージャルのワークフローやレンダリング用に書き出されたテクスチャマップを介して、HoudiniのSubstanceマテリアルを使用します。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/import-and-export-formats.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-general/ecosystem/import-and-export-formats.html"
 breadcrumb-title: ''
 description: 各Substance 3Dアプリケーションが、プロジェクトとアセットの読み込みと書き出しでサポートするファイル形式について説明します。
 helpx_creative_field: ""

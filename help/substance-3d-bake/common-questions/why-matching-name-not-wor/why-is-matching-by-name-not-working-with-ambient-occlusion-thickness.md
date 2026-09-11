@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
 description: 「名前で一致」がAmbient occlusionとThicknessのベイカーで機能しない理由を理解し、代替案を見つけてください。
 helpx_creative_field: ""

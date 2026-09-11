@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
 description: 適切な出力テンプレートとマテリアル設定を使用して、Maxwellレンダラー用のSubstance Painterテクスチャを書き出します。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # マックスウェル – Substance Painter
 
-Substance Painter 2020.1(6.1.0)では、メタリック/ラフネスおよびSpecular/光沢についてMaxwell [出力テンプレート](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)がサポートされています。 Maxwell **を使用して簡単に書き出すことができます。\
+Substance Painter 2020.1(6.1.0)では、メタリック/ラフネスおよびSpecular/光沢についてMaxwell [出力テンプレート](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/getting-started/export/export)がサポートされています。 Maxwell **を使用して簡単に書き出すことができます。\
 Maxwell 5.1.0**はSubstance Painterとの連携により、テクスチャを簡単に読み込んでMaxwellマテリアルを自動設定できます。
 
 ## テクスチャの書き出し

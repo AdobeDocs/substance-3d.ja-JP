@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
 breadcrumb-title: ''
 description: MayaのSubstanceプラグインと、ワークフローでSubstance マテリアルをインポートおよび使用する方法について説明します。
 helpx_creative_field: ""

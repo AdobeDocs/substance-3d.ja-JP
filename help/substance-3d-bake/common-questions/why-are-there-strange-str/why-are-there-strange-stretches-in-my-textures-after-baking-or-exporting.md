@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
 description: UVマッピングまたはメッシュの問題によって発生した、ベイクされたテクスチャの奇妙な伸縮を特定して修正します。
 helpx_creative_field: ""
@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **解決策**
 > 
-> Substance Bakersは、拡散と拡張の両方をUV アイランドの外側に配置して、ミップマップが生成されるゲームエンジンでギャップを埋め、テクスチャが正常に機能するようにします。 詳細については、[Padding](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)を参照してください。
+> Substance Bakersは、拡散と拡張の両方をUV アイランドの外側に配置して、ミップマップが生成されるゲームエンジンでギャップを埋め、テクスチャが正常に機能するようにします。 詳細については、[Padding](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)を参照してください。

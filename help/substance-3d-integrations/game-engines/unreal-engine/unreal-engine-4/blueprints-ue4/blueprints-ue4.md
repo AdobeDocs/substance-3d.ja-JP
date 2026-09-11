@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 目次
 
-* [Blueprint(UE4):マテリアルパラメーター](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
-* [Blueprint(UE4)：動的マテリアルインスタンス](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
-* [Blueprint(UE4)：集約Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
-* [Blueprint(UE4)：ノード参照](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)
+* [Blueprint(UE4):マテリアルパラメーター](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-substance-material-parameters-151584792.html)
+* [Blueprint(UE4)：動的マテリアルインスタンス](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+* [Blueprint(UE4)：集約Substance](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-aggregate-substance-159451574.html)
+* [Blueprint(UE4)：ノード参照](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/parameters-and-outputs.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/lumberyard/parameters-and-outputs.html"
 breadcrumb-title: ''
 description: プロシージャマテリアルエディタを使用して、LumberyardでSubstanceマテリアルパラメータを修正し、出力を設定します。
 helpx_creative_field: ""

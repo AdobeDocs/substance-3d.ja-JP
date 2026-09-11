@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
 description: プロジェクトでマテリアルを読み込んで操作するには、Cinema 4D用のSubstanceプラグインをインストールして使用します。
 helpx_creative_field: ""

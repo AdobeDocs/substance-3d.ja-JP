@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
 description: Specular/光沢度ワークフローと適切な変換を使用して、コロナレンダラーのSubstance Painterテクスチャを書き出します。
 helpx_creative_field: ""

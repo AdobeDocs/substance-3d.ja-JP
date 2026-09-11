@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/jp/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: '[名前によるマッチング]機能を使用すると、低ポリゴンと高ポリゴンのメッシュを切り分け、ベイク時のジオメトリのにじみを防止することができます。'
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ ht-degree: 0%
 デフォルトの接尾辞は\_lowと\_highで、以下のように変更できます。
 
 * **Substance Painter**: [ベイクウィンドウ](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)で、共通パラメーター内にあります。
-* **Substance Designer**: [プロジェクト設定](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)で、ベイク処理の設定の下にあります。
+* **Substance Designer**: [プロジェクト設定](https://experienceleague.adobe.com/ja/docs/substance-3d-designer/using/workspace/preferences/project-settings)で、ベイク処理の設定の下にあります。
 
 ## zBrushのHigh-polyメッシュ
 

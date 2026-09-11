@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
 description: 物理サイズ設定を使用して、Blenderの実際の寸法に基づいてSubstanceマテリアルを拡大・縮小します。
 helpx_creative_field: ""

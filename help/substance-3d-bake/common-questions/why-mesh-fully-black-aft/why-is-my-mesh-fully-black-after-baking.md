@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: ベイク後にメッシュが真っ黒に見える原因のトラブルシューティングと、一般的な原因の解決方法について説明します。
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > 次の2つの解決策が考えられます。
 > 
-> * 黒のテクスチャを回避するためにベイク設定を修正してください： [ベイカー出力が完全に黒または空です](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
-> * [テクスチャセットの設定](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)から黒いテクスチャを削除します。
+> * 黒のテクスチャを回避するためにベイク設定を修正してください： [ベイカー出力が完全に黒または空です](https://helpx.adobe.com/jp/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * [テクスチャセットの設定](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)から黒いテクスチャを削除します。

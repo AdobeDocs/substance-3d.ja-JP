@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: Arnoldレンダラーの出力テンプレートと、物理ベースのレンダリング用のaiStandardマテリアルを使用します。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # アーノルドSubstance Painter
 
-Substance Painter 2020.1 (6.1.0)には、[aiStandardマテリアル](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)を使用したArnold用の[出力テンプレート](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)が付属しています。
+Substance Painter 2020.1 (6.1.0)には、[aiStandardマテリアル](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)を使用したArnold用の[出力テンプレート](https://experienceleague.adobe.com/ja/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)が付属しています。
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

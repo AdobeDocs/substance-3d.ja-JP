@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
 breadcrumb-title: ''
 description: 非推奨のSubstance Unity APIを使用してパラメータを変更する方法を示すC#スクリプトの例。
 helpx_creative_field: ""

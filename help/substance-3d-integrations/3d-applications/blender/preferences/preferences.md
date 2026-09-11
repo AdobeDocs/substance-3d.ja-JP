@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: プラグインの動作と設定をカスタマイズするには、BlenderでSubstance 3Dアドオンの環境設定を構成します。
 helpx_creative_field: ""

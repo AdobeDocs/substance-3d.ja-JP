@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
 description: Cinema 4DのSubstanceアセットマネージャを使用して、シーン内のSubstanceマテリアルを追加、削除、整理します。
 helpx_creative_field: ""
