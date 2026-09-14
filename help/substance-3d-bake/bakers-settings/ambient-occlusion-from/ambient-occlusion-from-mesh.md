@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
 breadcrumb-title: ""
 description: レイトレーシングのテクニックを使用して、ハイポリメッシュから正確なambient occlusionテクスチャをベイクし、リアリズムを高めます。
 helpx_creative_field: ""
