@@ -29,7 +29,7 @@ ht-degree: 0%
 1. 「このコンテンツは役に立ちましたか？」のセクション ブラウザーウィンドウの下部に表示されるバナーで、[**詳細なフィードバックオプション**]をクリックします。
 1. 「**編集を提案**」をクリックし、GitHub UIで変更を加えたプルリクエスト(PR)を送信します。
 
-   詳細については、[Adobeドキュメントコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+   詳細については、[Adobeドキュメントコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 このリポジトリのドキュメントおよびコード例に対して送信する軽微な訂正や説明は、Adobe利用条件の対象です。
 
@@ -43,7 +43,7 @@ Adobeコミュニティで、新しいトピックを作成したり、重要な
 
 コミュニティのコントリビューターは、GitHub UIを使用して基本的な編集を行ったり、リポジトリをフォークして大きな貢献を行うことができます。
 
-詳細については、[Adobeドキュメントコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+詳細については、[Adobeドキュメントコントリビューターガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 ## 内部コントリビューター
 
