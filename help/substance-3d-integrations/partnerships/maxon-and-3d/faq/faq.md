@@ -100,7 +100,7 @@ Maxon Oneのサブスクリプションは、通常の価格（年間1199 USDド
 
 Substance 3Dコレクションは、お客様がクーポンコードの引き換え時に有効なクレジットカード情報を入力した場合、またはサブスクリプション期間の満了日前にaccount.adobe.comのアカウント管理ページにクレジットカード情報を入力した場合にのみ、自動更新されます。
 
-[Adobeのサブスクリプションプランを比較](https://www.adobe.com/creativecloud/plans.html)して、AdobeのSubstance 3Dコレクションの個人向けプラン、年間プランの一括払いの定価を確認します。
+[Adobeのサブスクリプションプランを比較](https://www.adobe.com/jp/creativecloud/plans.html)して、AdobeのSubstance 3Dコレクションの個人向けプラン、年間プランの一括払いの定価を確認します。
 
 +++
 

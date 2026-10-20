@@ -1,70 +1,63 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
-breadcrumb-title: ''
 description: 公式WebサイトまたはブレンダーのアドオンマネージャーからSubstance 3DアドオンBlender版をダウンロードしてインストールします。
-helpx_creative_field: ""
-helpx_description: Ecosystems and Plugins > 3D Applications > Blender > Downloading and Installing the Plugin
-helpx_experience_level: ""
-helpx_learn_topic: ""
-helpx_tags: ""
 title: プラグインのダウンロードとインストール
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: aa5acd016cd1a55ab230d36352c4d3aa5514012a
 workflow-type: tm+mt
-source-wordcount: '640'
+source-wordcount: '634'
 ht-degree: 0%
-
 ---
-
 
 # プラグインのダウンロードとインストール
 
 ## ダウンロード
 
-アドオンは、[ブレンダーのSubstance 3D](https://substance3d.adobe.com/plugins/substance-in-blender/)からダウンロードできます。 <b>Blender用Substance 3DアドオンのAdobe</b>をクリックして、Adobeアカウントでログインし、ダウンロードページにアクセスします。 ページの下部に移動して、 Substance 3DアドオンおよびSubstance 3D Integration Toolsの.zipファイルをダウンロードします。
+プラグインをダウンロードするには、[BlenderのSubstance 3D](https://substance3d.adobe.com/plugins/substance-in-blender/)にアクセスしてください。 **[プラグインのダウンロード]**&#x200B;をクリックして、ダウンロードを開始します。
+
+最新バージョンは、以下のリンクから直接取得することもできます。
 
 ダウンロードとインストールには、次の2つの個別の.zipファイルがあります。
 
-* Substance 3DアドオンBlender版（1回のダウンロードですべてのプラットフォームに対応）
-* Substance 3D Integration Tools（Windows、Mac、Linux版をダウンロード）
+* ブレンダー用Substance 3Dアドオン（[すべてのプラットフォームで単一ダウンロード](https://www.adobe.com/go/substance3d-blender-multi-latest)）
+* Substance 3D Integration Tools （[Windows](https://www.adobe.com/go/substance3d-integrationtools-win-latest)、[Mac](https://www.adobe.com/go/substance3d-integrationtools-mac-latest)、または[Linux](https://www.adobe.com/go/substance3d-integrationtools-lin-latest)バージョンをダウンロード）
 
 >[!WARNING]
 >
-> <b>Macユーザーの場合：</b> *Safariを使用してアドオンをダウンロードする場合は、「ダウンロード後に安全なファイルを開く」を無効にする必要があります。*
-> 
-> Safari webブラウザーでは、ダウンロードした.zipファイルがデフォルトで解凍されます。インストール時には、このファイルを圧縮したままにする必要があります。 ファイルが解凍されないようにするには、ダウンロード後にSafariの環境設定を更新して、「安全な」ファイルを開かないようにします。
-> 
+> **Macをご利用の場合：** *Safariを使用してプラグインをダウンロードする場合は、「ダウンロード後に安全なファイルを開く」を無効にする必要があります。*
+>
+> Safari webブラウザーでは、ダウンロードした.zipファイルがデフォルトで解凍されます。このファイルは、インストールのために圧縮したままにする必要があります。 ファイルが解凍されないようにするには、ダウンロード後にSafariの環境設定を更新して、「安全な」ファイルを開かないようにします。
+>
 > 1. Safariを開く
-> 1. 「環境設定」をクリック
-> 1. 「全般」タブで、「ダウンロード後に安全なファイルを開く」オプションをオフにします
+> 1. **環境設定**&#x200B;をクリックします
+> 1. [全般]タブで、[**ダウンロード後に安全なファイルを開く**]オプションをオフにします。
 
 ## インストール手順
 
 ### 初回インストール
 
-1. アドオンの.zipファイルをAdobeのプレリリースページからダウンロードします。
+1. プラグインの.zipファイルをAdobeのプレリリースページからダウンロードします。
 1. ブレンダーを開きます(v. 3.0以上)。
 1. 上部のナビゲーションバーから、「編集」、「環境設定」の順に選択します。 次に、「アドオン」タブを選択します。
 1. 「**インストール**」ボタンをクリックします。
-1. エクスプローラーで、.zipファイルのダウンロード先フォルダーを確認します
+1. ファイルエクスプローラーで、.zipファイルのダウンロード先フォルダーを探します
 1. Substance3DInBlender.zipファイルを選択して、[**アドオンのインストール**]ボタンをクリックします。
 1. 「アドオン」セクションで、チェックボックスをクリックしてアドオンを有効にし、ドロップダウン矢印をクリックしてセクションを展開します。
-1. 統合ツールのインストールを求めるメッセージが表示されます。 **[ディスクからインストール]**&#x200B;をクリックして、Substance 3DIntegrationTools.zipを選択し、**[ツールのインストール]**&#x200B;をクリックします。\
+1. 統合ツールのインストールを求めるメッセージが表示されます。 **[ディスクからインストール]**&#x200B;をクリックして、**[Substance3DIntegrationTools.zip]**&#x200B;を選択し、**[ツールのインストール]**&#x200B;をクリックします。\
    まだダウンロードしていない場合は、[**ダウンロード**]をクリックしてAdobeのプレリリースページをブラウザーで開き、ツールをダウンロードしてから、[**ディスクからインストール**]を使用してインストールしてください。
 1. これでアドオンを使用する準備ができました。
 
 ![](../../../assets/blender-install.gif)
 
-### アドオンとツールの更新
+### プラグインとツールの更新
 
-1. Adobeのプレリリースページから最新リリースをダウンロードします。
-1. Substance3D統合ツールを削除するには、[**ツールのアンインストール**]ボタンを使用します。
+1. 上記のリンクから最新リリースをダウンロードします。
+1. 「**ツールのアンインストール**」ボタンを使用して、Substance 3D Integration Toolsを削除します。
 1. **[削除]**&#x200B;ボタンを使用してアドオンをアンインストールします
 1. Blenderを閉じて再起動します
 1. 上部のナビゲーションバーから、「編集」、「環境設定」の順に選択します。 次に、「アドオン」タブを選択します。
 1. 「**インストール**」ボタンをクリックします。
-1. エクスプローラーで、.zipファイルのダウンロード先フォルダーを確認します
+1. ファイルエクスプローラーで、新しくダウンロードしたZIPファイルを探します。
 1. Substance3DInBlender.zipファイルを選択し、[**インストール**]アドオンボタンをクリックします。
 1. 「アドオン」セクションで、チェックボックスをクリックしてアドオンを有効にし、ドロップダウン矢印をクリックしてセクションを展開します。
 1. 統合ツールのインストールを求めるメッセージが表示されます。 **[ディスクからインストール]**&#x200B;をクリックして、Substance 3DIntegrationTools.zipを選択し、**[ツールのインストール]**&#x200B;をクリックします。\
@@ -77,7 +70,7 @@ ht-degree: 0%
 
 1. アドオンの環境設定から「**削除**」ボタンを使用して、アドオンをアンインストールします。
 1. Blenderを再起動
-1. アドオンの環境設定に再度移動し、**[インストール]**&#x200B;ボタンを使用して新しいバージョンのアドオンを読み込みます。 以前に読み込んだ統合ツールは残ります。
+1. アドオンの環境設定に再度移動し、**[インストール]**&#x200B;ボタンを使用して新しいバージョンのプラグインを読み込みます。 以前に読み込んだ統合ツールは残ります。
 
 統合ツールのみを更新する場合：
 
