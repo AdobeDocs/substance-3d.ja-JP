@@ -911,7 +911,7 @@ PBRは、光と表面に関するいくつかの基本的な物理的概念に�
 
 実際には、PBRはアーティストの役割を、照明やレンダラーの工夫を補うことから、現実世界の特性の観点からマテリアルを説明することにシフトします。 その結果、シーン固有の微調整よりも一貫性を優先するワークフローが実現され、手書きの照明トリックではなく、明確に定義されたマテリアル入力から自然にリアリズムが生み出されます。
 
-PBRの技術的な詳細については、Wes McDermottによる[PBRガイド](https://www.adobe.com/learn/substance-3d-designer/web/the-pbr-guide-part-1)を参照してください。
+PBRの技術的な詳細については、Wes McDermottによる[PBRガイド](https://www.adobe.com/jp/learn/substance-3d-designer/web/the-pbr-guide-part-1)を参照してください。
 
 ## 付録2: OpenPBRとは
 
