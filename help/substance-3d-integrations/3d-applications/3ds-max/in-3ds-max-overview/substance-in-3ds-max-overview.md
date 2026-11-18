@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ""
 description: 3ds MaxのSubstanceプラグインと、Substance マテリアルをプロジェクトに読み込んで使用する方法について学習します。
 helpx_creative_field: ""
@@ -79,7 +79,7 @@ Substanceノードのサムネールにチャンネルを指定できます。
 
 ### OpenPBRとは
 
-OpenPBRは、Adobeとオートデスクが開発したオープンで物理的なマテリアルシェーディングモデルであり、Academy Software Foundation(ASWF)に寄稿されています。 レンダラ間で互換性のある統合されたマテリアル定義を提供します。 詳細については、[OpenPBRドキュメント](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)を参照してください。
+OpenPBRは、Adobeとオートデスクが開発したオープンで物理的なマテリアルシェーディングモデルであり、Academy Software Foundation(ASWF)に寄稿されています。 レンダラ間で互換性のある統合されたマテリアル定義を提供します。 詳細については、[OpenPBRドキュメント](https://experienceleague.adobe.com/ja/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)を参照してください。
 
 ### OpenPBRワークフローを使用するタイミング
 

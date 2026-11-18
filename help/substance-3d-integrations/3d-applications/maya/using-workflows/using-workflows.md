@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ""
 description: MayaのSubstance出力用のレンダープリセットを作成して使用し、各種レンダラー用のシェーダーネットワークを自動生成します。
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ### OpenPBRとは
 
-OpenPBRは、Adobeとオートデスクが開発したオープンで物理的なマテリアルシェーディングモデルであり、Academy Software Foundation(ASWF)に寄稿されています。 レンダラ間で互換性のある統合されたマテリアル定義を提供します。 詳細については、[OpenPBRドキュメント](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)を参照してください。
+OpenPBRは、Adobeとオートデスクが開発したオープンで物理的なマテリアルシェーディングモデルであり、Academy Software Foundation(ASWF)に寄稿されています。 レンダラ間で互換性のある統合されたマテリアル定義を提供します。 詳細については、[OpenPBRドキュメント](https://experienceleague.adobe.com/ja/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)を参照してください。
 
 ### OpenPBRワークフローを使用するタイミング
 
