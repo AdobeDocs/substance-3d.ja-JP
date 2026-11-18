@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: MayaのSubstanceプラグインと、ワークフローでSubstance マテリアルをインポートおよび使用する方法について説明します。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Substance in Maya Overview
@@ -8,44 +8,52 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: MayaのSubstanceの概要
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '433'
 ht-degree: 0%
-
 ---
-
 
 # MayaのSubstanceの概要
 
 ## プラグインの概要
 
-Substanceプラグインを使用すると、Substance Designerで作成したSubstance マテリアルを直接Mayaにロードできます。 このプラグインはMaya マテリアルを作成し、substance テクスチャをマテリアルチャンネルの入力に送ります。 その後、substanceパラメーターに変更を加えると、テクスチャが自動的に更新されます。
+MayaプラグインのSubstanceを使用すると、既存のSubstance 3D マテリアル(.Sbsar ファイル)をMayaに直接ロードすることができます。 Substance 3D マテリアルは、Substance 3D DesignerまたはSubstance 3D SamplerからSBSARファイルとして作成および書き出しでき、Substance 3D Assetsライブラリなどの既存のライブラリからダウンロードできます。 MayaプラグインのSubstanceは、Maya マテリアルを作成し、出力テクスチャを正しいマテリアルチャンネル入力に送ります
 
 >[!NOTE]
 >
 > 設定/プリファレンス> Mayaプラグインマネージャにプラグインがロードされていることを確認します。
 
-![](https://helpx-prod.scene7.com/is/image/HelpxProd/plugin-4?$png$&jpegSize=100&wid=618)
+## ハイパーシェードノードエディタでSbsar ファイルを開く
 
-## Substanceのオープン
-
-1. ハイパーシェードを開き、ノードエディタで右クリックし、マーキングメニューを上にスワイプしてノードの作成を選択します。 「ノードを作成」ウィンドウが開きます。 ここから、Substanceノードを検索できます。
+1. **ハイパーシェード**&#x200B;を開き、**ノードエディター**&#x200B;で、マーキングメニューを右クリックして上にスワイプし、**ノードの作成**&#x200B;を選択します。 **ノードの作成ウィンドウ**&#x200B;で、**Substanceノード**&#x200B;を検索して選択します。
 
    ![](../../../assets/createnode.png)
 
-   ノードエディターのtabを押して、テキストフィールドに「substance」と入力すると、substanceオプションにフィルターされます。 オプションから、「テクスチャ」を選択します。
-1. Substanceノードを選択し、プロパティーエディタで参照してSubstance (.sbsar)ファイルを読み込みます。
+   ハイパーシェードで&#x200B;**Substanceノード**&#x200B;をクリックして選択します。 **マテリアルエディター**&#x200B;が開き、フォルダーアイコンをクリックしてSubstance 3D マテリアル (Sbsar ファイル)を読み込むことができます。
 
-   ![](../../../assets/1.png)
-1. Substanceに複数のグラフが含まれている場合は、「選択したグラフ 」ドロップダウンが表示されます。 選択したグラフは、マテリアルの作成に使用されます。
-1. 「グラフ情報」ボタンをクリックすると、Substance Designerに設定されているグラフ属性が表示されます。
-1. 幅とHeightのドロップダウンボックスから値を選択して、解像度を設定します。 ロック比率はデフォルトで有効になっています。
-1. ディスクへのキャッシュ出力を有効にして、Substance出力をディスクにベイクし、Arnoldなどのレンダラーで使用できるようにします。 キャッシュされたファイルは、プラグインがMayaファイルノードを使用して読み取り戻します。
+1. または、Sbsar ファイルをMayaの&#x200B;**ハイパーシェードエディタ**&#x200B;にドラッグアンドドロップし、自動的に作成されたSubstanceノードをクリックして、**マテリアルエディタ**&#x200B;でオプションを直接表示および編集することもできます。
+
+### プロパティエディターでのSBSARパラメーターの再生
+
+![](../../../assets/1.png)
+
+1. Substanceに複数のグラフが含まれている場合は、**選択したグラフドロップダウン**&#x200B;が設定されます。 マテリアルの作成に使用するグラフを選択します。
+
+1. [**グラフ情報]ボタン**&#x200B;は、Substance Designerに設定されているグラフ属性を表示します。
+
+1. **幅**&#x200B;と&#x200B;**Height**&#x200B;の値を設定して解像度を設定します。 **縦横比の固定**&#x200B;を無効にして、非正方形の縦横比を選択します。
+
+1. **ディスクへの出力のキャッシュ**&#x200B;を有効にして、Substanceへの出力をディスクにベイクし、Arnoldなどのレンダラーで使用できるようにします。 キャッシュされたファイルは、プラグインがMayaファイルノードを使用して読み取り戻します。
 
    ![](../../../assets/outputsettings.png)
-1. 使用しているレンダラーのワークフローを選択し、「 シェーダーネットワークを作成」ボタンをクリックします。 レンダラーワークフロー用にシェーダーネットワークが作成されます。 これで、シーンでマテリアルを適用できます。
+
+1. 使用しているレンダラーのワークフローを選択し、[**シェーダーネットワークの作成**]をクリックします。 レンダラーワークフロー用にシェーダーネットワークが作成されます。 バージョン3.1.1では、ワークフローの一覧にシェーダーネットワークを作成するオプションも表示されます。 シェーダーネットワークが作成されたら、シーンにマテリアルを適用できます。
 
    ![](../../../assets/createnetwork.gif){width="1000px"}
+
+## トラブルシューティング
+
+バグを報告するには、[Substance Discordサーバー](https://discord.com/invite/substance3d)の#maya-pluginチャンネルに参加するか、[Adobeコミュニティ](https://community.adobe.com/t5/substance-3d-plugins/ct-p/ct-substance-3d-plugins?page=1&sort=latest_replies&lang=all&tabid=all&topics=label-autodesk3dsmax)にアクセスしてください。 コンソールログからの関連情報と再現手順を含めることで、問題をより効率的に診断できます。

@@ -1,29 +1,27 @@
 ---
 helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 3ds Maxプロジェクト内のSubstance Sourceライブラリから直接Substance マテリアルにアクセスして使用できます。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > Substance Source
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Substance Source
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+title: Substance 3D Assetsライブラリ
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 5%
-
+source-wordcount: '96'
+ht-degree: 11%
 ---
 
+# Substance 3D Assetsライブラリ
 
-# Substance Source
+3ds MaxプラグインのSubstanceから直接Substance 3D Assetsライブラリを開くことができます。
 
-3ds Max v2プラグインでは、Substance SourceのSubstanceマテリアルを使用できます。
+1. 3ds Max UIの上部にあるSubstanceメニューで、[Substance 3D Assets]を選択します。
+1. ブラウザーが開き、Adobeアカウントにログインして.sbsarファイルをダウンロードできます。 Substance サブスクライバーは、3D アセットライブラリ全体に無制限にアクセスできます。
+1. 3ds MaxプラグインのSubstanceを使用して、SBSARファイルを3ds Maxにダウンロードおよびインポートします。
 
-1. 3ds max UIの上部にあるSubstanceメニューで、[Substance Source]を選択します。
-1. ブラウザーが開き、ソースサブスクリプションにログインして.sbsarファイルをダウンロードできます。
-1. Substanceプラグインを使用して、 .sbsar ファイルを3ds Maxにインポートします。
-
-   ![](../../../assets/max12.png)
+![](../../../assets/maya-max-v3-1/3dsmax-substance-3d-assets.png)
