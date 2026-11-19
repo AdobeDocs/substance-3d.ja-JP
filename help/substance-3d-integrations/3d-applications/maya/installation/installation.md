@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/jp/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ""
 description: 公式インストーラまたはMayaのプラグインマネージャを使用して、Maya用のSubstanceプラグインをインストールします。
 helpx_creative_field: ""
@@ -10,19 +10,13 @@ helpx_tags: ""
 title: ダウンロードとインストール
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # ダウンロードとインストール
-
-MayaプラグインのSubstanceは、デフォルトでMayaインストーラに含まれています。
-
-最新バージョンのインストーラーは、[Maya用Substance 3DのAdobe](https://substance3d.adobe.com/plugins/substance-in-maya/)からダウンロードできます。
-
-## 古いプラグインバージョン
 
 プラグインの最新バージョンは、Mayaの最新バージョンと互換性のあるAutodeskによってネイティブに配布されます。 古いバージョンの特定のビルドが必要な場合、以下のダウンロードリンクを利用できます
 
