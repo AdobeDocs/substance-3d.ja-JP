@@ -2,9 +2,9 @@
 user-guide-description: Substance 3Dエコシステム
 user-guide-title: Substance 3Dエコシステム
 breadcrumb-title: Substance 3Dエコシステムユーザーガイド
-source-git-commit: 6453364f7dafa75c5bb2531a8707257498953e23
+source-git-commit: 4df288c76e7c37d13798b4d1067466746678bb92
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 2%
 ---
 
@@ -180,7 +180,7 @@ ht-degree: 2%
     + [プリセットの使用](/help/substance-3d-integrations/3d-applications/3ds-max/using-presets/using-presets.md)
     + [バッチ読み込み](/help/substance-3d-integrations/3d-applications/3ds-max/batch-import/batch-import.md)
     + [3ds Maxでのワークフローの使用](/help/substance-3d-integrations/3d-applications/3ds-max/using-workflows-3ds-max/using-workflows-in-3ds-max.md)
-    + [Substance Source](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
+    + [Substance 3D Assets](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
     + [マテリアルのアニメート](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
     + [3ds MAXスクリプティングAPI](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api/3ds-max-scripting-api.md)
     + [トラブルシューティング](/help/substance-3d-integrations/3d-applications/3ds-max/troubleshooting/troubleshooting.md)
